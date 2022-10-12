@@ -37,6 +37,7 @@ These are the links to resources and references I mentioned in my talk:
 - [GitHub for Mobile](https://mobile.github.com)
 - [GitHub for Mobile 101](https://dev.to/github/did-you-know-github-has-a-mobile-app-1gie)
 - [GitHub Mobile Shortcuts](https://dev.to/github/customise-github-mobile-to-work-better-for-you-shortcuts-and-more-5ck8)
+- [Projects now available on mobile](https://github.blog/2022-10-11-on-the-go-with-github-projects-on-github-mobile-public-beta/)
 - [GitHub CLI](https://cli.github.com/)
 - [Using GitHub CLI to update your repo](https://dev.to/mishmanners/using-the-github-cli-to-update-your-repo-2nnm)
 - [GitHub Desktop](https://github.com/mobile)

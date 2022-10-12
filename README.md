@@ -4,7 +4,7 @@ Hi, and thanks for finding your way to this corner of the internet.
 
 ![mish wave large](https://user-images.githubusercontent.com/36594527/195222734-3313bb02-ceec-4d69-abb5-5b9a044bc0b1.png)
 
-This is a list of resources and links from Mish's talks. You'll find the talk and event under the "Talks" folder. Click the appropriate markdown file and check out all the resources.
+This is a list of resources and links from Mish's talks. You'll find the talk and event under the ["Talks" folder](https://github.com/mishmanners/TalksandEvents/tree/main/Talks). Click the appropriate markdown file and check out all the resources.
 
 ### Don't forget to follow me around for talk updates, links to events, and more:
 

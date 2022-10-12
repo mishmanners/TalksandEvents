@@ -2,6 +2,8 @@
 
 This is a talk I gave at [NDC Oslo in 2022](https://ndcoslo.com/agenda/github-copilot/05wbzgsmiwx).
 
+[Watch the recording](https://youtu.be/XX914bV5GmQ?t=20674).
+
 ![thumbnail](https://user-images.githubusercontent.com/36594527/195224082-db90e08f-ff43-4336-95f0-cb552dec5a8d.jpg)
 
 ## Talk Title

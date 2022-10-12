@@ -37,7 +37,7 @@ These are the references I used in my talk:
 - [Top Tips for using GitHub](https://dev.to/mishmanners/top-tips-for-using-github-l4m)
 - [How to have better more fun virtual meetings in Gather Town](https://dev.to/mishmanners/how-to-have-better-more-fun-virtual-meetings-with-gather-town-cn9)
 - [Importance of Collaboration](https://dev.to/mishmanners/the-importance-of-collaboration-a-devops-pillar-253d)
-- [What animal crossing can teach us about collaboration][(https://dev.to/mishmanners/drop-the-code-for-just-a-moment-what-animal-crossing-can-teach-you-about-teamwork-50e7)
+- [What animal crossing can teach us about collaboration](https://dev.to/mishmanners/drop-the-code-for-just-a-moment-what-animal-crossing-can-teach-you-about-teamwork-50e7)
 - [GitHub Tools for non-developers](https://dev.to/mishmanners/githubs-non-code-features-exploring-more-of-github-and-encouraging-your-non-dev-friends-1j1l)
 - [How to host a website with GitHub Pages](https://dev.to/github/how-to-use-github-pages-to-host-your-website-even-with-multiple-repos-27k2)
 - [All about GitHub Projects updates](https://youtu.be/MYNIXz9iViU)

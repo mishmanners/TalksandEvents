@@ -2,7 +2,7 @@
 
 This is a talk I gave at [NDC Sydney in 2022](https://ndcsydney.com/).
 
-![images](https://user-images.githubusercontent.com/36594527/195223837-e925f332-ac6e-41e8-a42e-0e5a7288ce88.jpg)
+![ba14a889113588c30cd8a84458e8b78216abd693-2160x1080](https://user-images.githubusercontent.com/36594527/195224766-359a07be-e6e9-4be3-aea4-b175493ef070.jpg)
 
 ## Talk Title
 

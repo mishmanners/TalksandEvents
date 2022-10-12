@@ -2,6 +2,8 @@
 
 Thanks for attending the workshop with Mish and Damo at [NDC Oslo 2022](https://ndcoslo.com/).
 
+![ece208a189ccff353ab67da0eda2998681cfc3f4-2000x1046](https://user-images.githubusercontent.com/36594527/195224309-974bc6a4-4bd9-4c7b-b355-a1d708a19209.png)
+
 ## References
 
 GitHub Security features: https://github.com/features/security

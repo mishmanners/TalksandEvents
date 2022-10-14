@@ -2,6 +2,8 @@
 
 This is a talk I gave at [GitKon 2022](https://gitkon.com/).
 
+![Michelle Mannering](https://user-images.githubusercontent.com/36594527/195736694-7c80fa36-e8f8-4eb1-9f43-087aa7c9538e.png)
+
 ## Talk Title
 
 ### Building the Dream Team: working effectively across multidisciplinary teams

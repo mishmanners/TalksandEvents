@@ -20,6 +20,8 @@ What even is a ‘release’ and why is it important? What can you do to manage 
 
 These are the references I used in my talk:
 
+- [Release your software - what is a release](https://github.blog/2013-07-02-release-your-software)
+- [Automatically generated release notes](https://docs.github.com/en/repositories/releasing-projects-on-github/automatically-generated-release-notes)
 - [GitHub YouTube](https://youtube.com/c/github)
 - [GitHub on TikTok](https://tiktok.com/github)
 - [GitHub on Twitter](https://twitter.com/github)
@@ -30,5 +32,5 @@ These are the references I used in my talk:
 
 - [GitHub](https://github.com)
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
-
-
+- [Releasing projects on GitHub](https://docs.github.com/en/repositories/releasing-projects-on-github)
+- [Managing Releases in a repository](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository)

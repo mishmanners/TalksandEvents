@@ -30,6 +30,7 @@ These are the references I used in my talk:
 - [Hacker News](https://news.ycombinator.com/)
 - [Reddit](https://www.reddit.com/)
 - [Stack Overflow](https://stackoverflow.com/)
+- [What's trending on GitHub](https://github.com/trending)
 - [Automatically generated release notes](https://docs.github.com/en/repositories/releasing-projects-on-github/automatically-generated-release-notes)
 - [Tailwind CSS](https://tailwindcss.com/blog/tailwindcss-v3)
 - [RxDB release notes](https://github.com/pubkey/rxdb/releases/tag/13.0.0)

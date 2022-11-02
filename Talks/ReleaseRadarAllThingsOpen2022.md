@@ -16,7 +16,7 @@ What even is a ‘release’ and why is it important? What can you do to manage 
 
 ## Resources and Links
 
-[Read the blog post on this talk]().
+[Read the blog post on this talk](https://dev.to/github/why-release-a-project-why-not-just-commit-to-main-3ga2).
 
 ### References
 

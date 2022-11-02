@@ -26,7 +26,10 @@ These are the references I used in my talk:
 - [GitHub Desktop](https://desktop.github.com/)
 - [Xbox App](https://www.xbox.com/en-US/microsoft-store)
 - [Epic Store](https://store.epicgames.com/en-US/)
-- [Steam](https://store.steampowered.com/).
+- [Steam](https://store.steampowered.com/)
+- [Hacker News](https://news.ycombinator.com/)
+- [Reddit](https://www.reddit.com/)
+- [Stack Overflow](https://stackoverflow.com/)
 - [Automatically generated release notes](https://docs.github.com/en/repositories/releasing-projects-on-github/automatically-generated-release-notes)
 - [Tailwind CSS](https://tailwindcss.com/blog/tailwindcss-v3)
 - [RxDB release notes](https://github.com/pubkey/rxdb/releases/tag/13.0.0)

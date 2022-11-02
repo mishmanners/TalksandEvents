@@ -16,12 +16,26 @@ What even is a ‘release’ and why is it important? What can you do to manage 
 
 ## Resources and Links
 
+[Read the blog post on this talk]().
+
 ### References
 
 These are the references I used in my talk:
 
 - [Release your software - what is a release](https://github.blog/2013-07-02-release-your-software)
 - [Automatically generated release notes](https://docs.github.com/en/repositories/releasing-projects-on-github/automatically-generated-release-notes)
+- [GitHub Desktop](https://desktop.github.com/)
+- [Tailwind CSS](https://tailwindcss.com/blog/tailwindcss-v3)
+- [RxDB release notes](https://github.com/pubkey/rxdb/releases/tag/13.0.0)
+- [RxDB blog](https://rxdb.info/releases/13.0.0.html)
+- [AppWrite release notes](https://github.com/appwrite/appwrite/releases/tag/1.0.0)
+- [Releases Galore at GitHub Universe 2021](https://www.youtube.com/watch?v=EiJEFrXVVr8&ab_channel=GitHub)
+- [Mish Friendly Food repo](https://github.com/mishmanners/mish-friendly-food)
+- [Node OSC repo](https://github.com/MylesBorins/node-osc)
+- [GitHub Actions](https://github.com/features/actions)
+- [GitHub Actions Marketplace](https://github.com/marketplace?type=actions)
+- [Release Radar](https://releaseradar.github.com)
+- [GitHub Universe](https://githubuniverse.com/)
 - [GitHub YouTube](https://youtube.com/c/github)
 - [GitHub on TikTok](https://tiktok.com/github)
 - [GitHub on Twitter](https://twitter.com/github)

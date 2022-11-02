@@ -23,8 +23,11 @@ What even is a ‘release’ and why is it important? What can you do to manage 
 These are the references I used in my talk:
 
 - [Release your software - what is a release](https://github.blog/2013-07-02-release-your-software)
-- [Automatically generated release notes](https://docs.github.com/en/repositories/releasing-projects-on-github/automatically-generated-release-notes)
 - [GitHub Desktop](https://desktop.github.com/)
+- [Xbox App](https://www.xbox.com/en-US/microsoft-store)
+- [Epic Store](https://store.epicgames.com/en-US/)
+- [Steam](https://store.steampowered.com/).
+- [Automatically generated release notes](https://docs.github.com/en/repositories/releasing-projects-on-github/automatically-generated-release-notes)
 - [Tailwind CSS](https://tailwindcss.com/blog/tailwindcss-v3)
 - [RxDB release notes](https://github.com/pubkey/rxdb/releases/tag/13.0.0)
 - [RxDB blog](https://rxdb.info/releases/13.0.0.html)

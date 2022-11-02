@@ -40,6 +40,7 @@ These are the references I used in my talk:
 - [Automatically generated release notes](https://docs.github.com/en/repositories/releasing-projects-on-github/automatically-generated-release-notes)
 - [How to automatically generate release notes](https://dev.to/github/how-to-automatically-generate-release-notes-for-your-project-2ng8)
 - [Video short on how to auto-generate release notes](https://youtu.be/8ryjj5x6FlQ)
+- [Article on semantic versioning](https://dev.to/mishmanners/shipping-a-new-open-source-project-have-you-thought-about-release-naming-150n)
 - [Node OSC repo](https://github.com/MylesBorins/node-osc)
 - [GitHub Actions](https://github.com/features/actions)
 - [GitHub Actions Marketplace](https://github.com/marketplace?type=actions)

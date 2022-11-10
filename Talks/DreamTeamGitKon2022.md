@@ -2,6 +2,8 @@
 
 This is a talk I gave at [GitKon 2022](https://gitkon.com/).
 
+[Watch the recording](https://youtu.be/ss_hoxFnalE).
+
 ![Michelle Mannering](https://user-images.githubusercontent.com/36594527/195736694-7c80fa36-e8f8-4eb1-9f43-087aa7c9538e.png)
 
 ## Talk Title
@@ -13,6 +15,8 @@ This is a talk I gave at [GitKon 2022](https://gitkon.com/).
 While collaboration is not a new concept, it’s arguably never been more important to the success of modern organizations. As the future of work continues to evolve this soft skill, how do you find our ultimate dream team, and work effectively across an entire organization to build the best products and services? In this session, Michelle will show attendees why it’s important to build teams where developers and non-developers work better together, and how to encourage cross-departmental collaboration.
 
 ## Resources and Links
+
+[Read the blog post on GitKon that accompanies this talk](https://www.gitkraken.com/gitkon/building-the-dream-team-michelle-mannering-github).
 
 ### References
 

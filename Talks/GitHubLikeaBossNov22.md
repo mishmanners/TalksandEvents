@@ -47,6 +47,7 @@ These are the links to resources and references I mentioned in my talk:
 - [Resources from Copilot talk](https://github.com/mishmanners/TalksandEvents/blob/main/Talks/GitHubCopilotNDCoslo2022.md)
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
 - [GitHub YouTube](https://youtube.com/c/github)
+- [What is GitHub video](https://youtu.be/pBy1zgt0XPc)
 - [GitHub on TikTok](https://tiktok.com/github)
 - [GitHub on Twitter](https://twitter.com/github)
 - [GitHub on Instagram](https://instagram.com/github)

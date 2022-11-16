@@ -1,6 +1,10 @@
 # GitHub Like a Boss
 
-I gave this talk a few times after GitHub Universe, check out the links.
+I gave this talk a few times after GitHub Universe, at:
+- ANZ Unconference 18 November
+- [DDD Brisbane 2022](https://www.dddbrisbane.com/agenda)
+
+Check out the links.
 
 ## Talk Title
 

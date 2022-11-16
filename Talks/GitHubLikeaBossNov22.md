@@ -12,9 +12,7 @@ Check out the links.
 
 ## Abstract
 
-GitHub continuously ships out new features and improvements to help make software development and collaboration easier for developers.
-
-In this session, Michelle Mannering (MishManners, Hackathon Queen) from GitHub will show you some of the tips and tricks of how best you can use GitHub, and also walk you through some of the latest feature announcements. Coming out of this session, you can GitHub like a boss!
+GitHub continuously ships out new features and improvements to help make software development and collaboration easier for developers. In this session, I will show you some of the tips and tricks for how you can best use GitHub, and also walk you through some of the latest feature announcements. Coming out of this session, you can GitHub like a boss!
 
 ## Resources and Links
 

@@ -1,7 +1,6 @@
-# ANZ Unconference - GitHub Like a Boss
+# GitHub Like a Boss
 
-This is a talk I gave at [ANZ Unconference]().
-
+I gave this talk a few times after GitHub Universe, so check out all the links.
 
 ## Talk Title
 

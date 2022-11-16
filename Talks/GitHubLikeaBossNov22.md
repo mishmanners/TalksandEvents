@@ -1,6 +1,6 @@
 # GitHub Like a Boss
 
-I gave this talk a few times after GitHub Universe, so check out all the links.
+I gave this talk a few times after GitHub Universe, check out the links.
 
 ## Talk Title
 

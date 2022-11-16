@@ -19,7 +19,7 @@ In this session, Michelle Mannering (MishManners, Hackathon Queen) from GitHub w
 These are the links to resources and references I mentioned in my talk:
 
 - [GitHub](https://github.com)
-- [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
+
 - [How to write a Profile README](https://dev.to/github/how-to-create-a-github-profile-readme-jha)
 - [How to enable Actions and Snake eating on your Profile READMNE](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66)
 - [How to write an Organisation Profile README](https://dev.to/github/how-to-create-a-profile-readme-for-your-organisation-g2)
@@ -45,6 +45,7 @@ These are the links to resources and references I mentioned in my talk:
 - [How to use GitHub Copilot for translating code](https://dev.to/github/how-to-translate-code-into-other-languages-using-github-copilot-3n6f)
 - [Watch my GitHub Copilot talk from Oslo](https://youtu.be/XX914bV5GmQ?t=20674).
 - [Resources from Copilot talk](https://github.com/mishmanners/TalksandEvents/blob/main/Talks/GitHubCopilotNDCoslo2022.md)
+- [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
 - [GitHub YouTube](https://youtube.com/c/github)
 - [GitHub on TikTok](https://tiktok.com/github)
 - [GitHub on Twitter](https://twitter.com/github)

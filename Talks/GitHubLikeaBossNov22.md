@@ -52,12 +52,15 @@ These are the links to resources and references I mentioned in my talk:
 - [GitHub Skills](https://skills.github.com/)
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
 - [GitHub YouTube](https://youtube.com/c/github)
-- [What is GitHub video](https://youtu.be/pBy1zgt0XPc)
 - [GitHub on TikTok](https://tiktok.com/github)
 - [GitHub on Twitter](https://twitter.com/github)
 - [GitHub on Instagram](https://instagram.com/github)
 - [How to create and pin a gist](https://dev.to/mishmanners/how-to-create-and-pin-a-gist-on-github-16p0)
 - [Links to MishManners social media](https://mishmanners.info)
+
+## New What is video series
+
+- [What is GitHub video](https://youtu.be/pBy1zgt0XPc)
 
 Thank you for listening to my talk and checking out the resources.
 

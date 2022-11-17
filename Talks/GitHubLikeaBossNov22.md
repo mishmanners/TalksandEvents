@@ -61,6 +61,13 @@ These are the links to resources and references I mentioned in my talk:
 ## New What is video series
 
 - [What is GitHub video](https://youtu.be/pBy1zgt0XPc)
+- [What is the GitHub CLI](https://youtu.be/uy_PEGgUF4U)
+- [What is Copilot](https://youtu.be/IqXNhakuwVc)
+- [What is Codespaces](https://youtu.be/sYJ3CHtT6WM)
+- [What is GitHub Desktop](https://youtu.be/l7uo1d3R0Wo)
+- [What is GitHub Discussions](https://youtu.be/bErGYN3Ljz8)
+- [What is GitHub Issues](https://youtu.be/6HWw7rhwvtY)
+- [What is GitHub Mobile](https://youtu.be/ObPdcm6jWoQ)
 
 Thank you for listening to my talk and checking out the resources.
 

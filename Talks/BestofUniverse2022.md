@@ -37,19 +37,12 @@ These are the references I used in my talk:
 ### Other Resources
 
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
-
 - [Top Tips for using GitHub](https://dev.to/mishmanners/top-tips-for-using-github-l4m)
-
-
-- [All about GitHub Projects updates](https://youtu.be/MYNIXz9iViU)
 - [GitHub YouTube](https://youtube.com/c/github)
 - [GitHub on TikTok](https://tiktok.com/github)
 - [GitHub on Twitter](https://twitter.com/github)
 - [GitHub on Instagram](https://instagram.com/github)
-
 - [Links to MishManners social media](https://mishmanners.info)
-
-
 
 Thank you for listening to my talk and checking out the resources.
 

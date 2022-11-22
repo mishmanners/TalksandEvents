@@ -43,6 +43,7 @@ These are the references I used in my talk:
 - [GitHub on Instagram](https://instagram.com/github)
 - [How to create and pin a gist](https://dev.to/mishmanners/how-to-create-and-pin-a-gist-on-github-16p0)
 - [Links to MishManners social media](https://mishmanners.info)
+- [Talk to the Sales team](https://github.com/enterprise/contact)
 
 
 Thank you for listening to my talk and checking out the resources.

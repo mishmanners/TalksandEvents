@@ -1,6 +1,6 @@
 # Best of GitHub Universe 2022
 
-This is a talk I gave at [GitHub Universe Singapore Watch Party]().
+This is a talk I gave at [GitHub Universe Singapore Watch Party](https://resources.github.com/universe-2022-singapore-watch-party/).
 
 
 

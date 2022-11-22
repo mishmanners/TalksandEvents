@@ -2,7 +2,7 @@
 
 This is a talk I gave at [GitHub Universe Singapore Watch Party](https://resources.github.com/universe-2022-singapore-watch-party/).
 
-
+![Speaker Card - Michelle Mannering](https://user-images.githubusercontent.com/36594527/203349774-6859f4cf-b1b3-4cd5-87b8-3487b5866cdd.jpg)
 
 ## Talk Title
 
@@ -10,7 +10,7 @@ This is a talk I gave at [GitHub Universe Singapore Watch Party](https://resourc
 
 ## Abstract
 
-All the announcements from GitHub Universe 2022. Includes info from each of the four tracks: Security, Cloud, AI, Community
+All the announcements from GitHub Universe 2022. Includes info from each of the four tracks: Security, Cloud, AI, Community.
 
 ## Resources and Links
 

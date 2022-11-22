@@ -1,22 +1,16 @@
 # Best of GitHub Universe 2022
 
-# Deserted Island DevOps 2022 - DevOps and collaboration
+This is a talk I gave at [GitHub Universe Singapore Watch Party]().
 
-This is a talk I gave at [Deserted Island Ops in 2022](https://desertedislanddevops.com/).
 
-### [Watch the recording](https://youtu.be/KL1yqMp47_A?list=PLVUQjiv8GtwJeezuKvmL2kl6I9Gml0g2a)
-
-![Fa7tn2jWAAA0ujV](https://user-images.githubusercontent.com/36594527/195224431-06b5ac52-77ab-4502-9046-75711188aca3.jpg)
 
 ## Talk Title
 
-### DevOps Isn't Just About Developing: drop the code for just a moment
+### The Best of Universe
 
 ## Abstract
 
-It’s widely accepted that DevOps is as much a cultural shift as it is about the technology that’s used. DevOps consists of four main pillars, one of which is collaboration.
-
-In this session I’ll talk about why collaboration is important and how developers and non-developers can work better together. I’ll also gives you some tips on tools to use for more effective collaboration and teamwork across multidisciplinary teams.
+All the announcements from GitHub Universe 2022. Includes info from each of the four tracks: Security, Cloud, AI, Community
 
 ## Resources and Links
 
@@ -50,14 +44,6 @@ These are the references I used in my talk:
 - [How to create and pin a gist](https://dev.to/mishmanners/how-to-create-and-pin-a-gist-on-github-16p0)
 - [Links to MishManners social media](https://mishmanners.info)
 
-### Games and collaboration ideas:
-
-- Fortnite
-- Animal Crossing; see [Deserted Island DevOps](https://desertedisland.club/)
-- Jackbox Games
-- Magic: The Gathering and similar card games
-- Collaboration tools: Slack, Discord, Teams, Zoom, Gather Town
-- Hackathons
 
 Thank you for listening to my talk and checking out the resources.
 

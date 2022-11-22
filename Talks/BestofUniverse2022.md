@@ -19,9 +19,28 @@ All the announcements from GitHub Universe 2022. Includes info from each of the 
 These are the references I used in my talk:
 
 - [GitHub](https://github.com)
-- [GitHub Issues](https://github.com/features/issues/)
-- [GitHub Discussions](https://github.com/features/discussions)
+- [Everything new at GitHub Universe 2022](https://github.blog/2022-11-09-everything-new-from-github-universe-2022/)
+- [Watch GitHub Universe 2022](https://githubuniverse.com)
+- [State of the Octoverse](https://octoverse.github.com/)
+- [GitHub Actions Importer](https://github.blog/2022-11-10-introducing-github-actions-importer/)
+- [GitHub Codespaces](https://github.com/features/codespaces)
+- [GitHub Copilot](https://github.com/features/copilot)
 - [Talk to the Sales team](https://github.com/enterprise/contact)
+- [Hey GitHub!](https://githubnext.com/projects/hey-github/)
+- [GitHub Sponsors](https://github.com/sponsors)
+- [GitHub Sponsors availability](https://github.blog/2022-07-28-github-sponsors-available-in-30-new-regions-2/)
+- [GitHub Fund](https://github.blog/2022-11-09-an-open-source-economy-built-by-developers-for-developers/)
+- [Apply for GitHub Fund](mailto:fund@github.com)
+- [Apply for GitHub Accelerator](https://accelerator.github.com/)
+- [GitHub for Startups](https://github.com/enterprise/startups/)
+- [Nominate a GitHub Star](https://stars.github.com)
+- [GitHub Education](https://education.github.com/)
+- [GitHub All In](https://github.blog/2022-06-02-github-all-in-our-first-student-cohort-and-whats-next/)
+- [Join All In](https://github.com/AllInOpenSource/All-In)
+- [GitHub YouTube](https://youtube.com/c/github)
+- [GitHub on TikTok](https://tiktok.com/github)
+- [GitHub on Twitter](https://twitter.com/github)
+- [GitHub on Instagram](https://instagram.com/github)
 
 ## New What is video series
 
@@ -38,10 +57,6 @@ These are the references I used in my talk:
 
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
 - [Top Tips for using GitHub](https://dev.to/mishmanners/top-tips-for-using-github-l4m)
-- [GitHub YouTube](https://youtube.com/c/github)
-- [GitHub on TikTok](https://tiktok.com/github)
-- [GitHub on Twitter](https://twitter.com/github)
-- [GitHub on Instagram](https://instagram.com/github)
 - [Links to MishManners social media](https://mishmanners.info)
 
 Thank you for listening to my talk and checking out the resources.

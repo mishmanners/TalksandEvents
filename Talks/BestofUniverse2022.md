@@ -25,6 +25,8 @@ These are the references I used in my talk:
 - [GitHub Actions Importer](https://github.blog/2022-11-10-introducing-github-actions-importer/)
 - [GitHub Codespaces](https://github.com/features/codespaces)
 - [GitHub Copilot](https://github.com/features/copilot)
+- [GitHub Copilot - your AI pair programmer, 60 min talk](https://youtu.be/XX914bV5GmQ?t=20674)
+- [GitHub Copilot with MishManners](https://www.youtube.com/watch?v=FoXdaXbPUrc&ab_channel=CarlFranklin)
 - [Talk to the Sales team](https://github.com/enterprise/contact)
 - [Hey GitHub!](https://githubnext.com/projects/hey-github/)
 - [GitHub Sponsors](https://github.com/sponsors)

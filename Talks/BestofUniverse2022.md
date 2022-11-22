@@ -23,6 +23,17 @@ These are the references I used in my talk:
 - [GitHub Discussions](https://github.com/features/discussions)
 - [Talk to the Sales team](https://github.com/enterprise/contact)
 
+## New What is video series
+
+- [What is GitHub](https://youtu.be/pBy1zgt0XPc)
+- [What is the GitHub CLI](https://youtu.be/uy_PEGgUF4U)
+- [What is Copilot](https://youtu.be/IqXNhakuwVc)
+- [What is Codespaces](https://youtu.be/sYJ3CHtT6WM)
+- [What is GitHub Desktop](https://youtu.be/l7uo1d3R0Wo)
+- [What is GitHub Discussions](https://youtu.be/bErGYN3Ljz8)
+- [What is GitHub Issues](https://youtu.be/6HWw7rhwvtY)
+- [What is GitHub Mobile](https://youtu.be/ObPdcm6jWoQ)
+
 ### Other Resources
 
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)

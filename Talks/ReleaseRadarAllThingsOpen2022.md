@@ -58,3 +58,7 @@ These are the references I used in my talk:
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
 - [Releasing projects on GitHub](https://docs.github.com/en/repositories/releasing-projects-on-github)
 - [Managing Releases in a repository](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository)
+
+Thank you for listening to my talk and checking out the resources.
+
+![mish heart large](https://user-images.githubusercontent.com/36594527/195619762-82827b2e-bfdd-49b6-b8df-5b9e15f4f044.png)

@@ -21,6 +21,7 @@ These are the references I used in my talk:
 - [GitHub](https://github.com)
 - [Everything new at GitHub Universe 2022](https://github.blog/2022-11-09-everything-new-from-github-universe-2022/)
 - [Watch GitHub Universe 2022](https://githubuniverse.com)
+- [GitHub Universe Keynote 2022](https://www.youtube.com/watch?v=AYRxDoUxcfQ&ab_channel=GitHub)
 - [State of the Octoverse](https://octoverse.github.com/)
 - [GitHub Actions Importer](https://github.blog/2022-11-10-introducing-github-actions-importer/)
 - [GitHub Codespaces](https://github.com/features/codespaces)

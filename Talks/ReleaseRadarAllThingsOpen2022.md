@@ -10,11 +10,13 @@ This is a talk I gave at [All Things Open 2022](https://2022.allthingsopen.org/s
 
 ### Release Radar – How and why you should do releases for your open source project
 
-## [Abstract](https://2022.allthingsopen.org/sessions/release-radar-how-and-why-you-should-do-releases-for-your-open-source-project/)
+## Abstract
 
 Lots of people who work on open source projects, or weekend projects, often don’t do software releases. Instead, you’ll just commit to main and leave it at that. But should you package everything up, and ship a ‘release’?
 
 What even is a ‘release’ and why is it important? What can you do to manage your release cycle and automate your software releases?
+
+Check out the [website to see the abstract](https://2022.allthingsopen.org/sessions/release-radar-how-and-why-you-should-do-releases-for-your-open-source-project/).
 
 ## Resources and Links
 

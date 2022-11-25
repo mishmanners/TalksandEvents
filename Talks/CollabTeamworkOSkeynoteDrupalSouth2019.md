@@ -8,7 +8,7 @@
 
 ## Talk Title
 
-_Collaboration, Teamwork, and Open Source_
+### Collaboration, Teamwork, and Open Source
 
 ## Abstract
 

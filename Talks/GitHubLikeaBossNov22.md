@@ -1,4 +1,4 @@
-# GitHub Like a Boss
+# DDD Brisbane 2022 - GitHub Like a Boss
 
 I gave this talk a few times after GitHub Universe, at:
 - ANZ Unconference 18 November

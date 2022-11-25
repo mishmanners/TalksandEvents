@@ -19,3 +19,7 @@ In this session I’ll talk about why collaboration is important and how develop
 ## Bio
 
 I am a highly motivated, curious and compassionate leader with a keen interest in driving entrepreneurial culture and pioneering Melbourne’s esports industry. I have founded several tech companies and, as a result, sits at the forefront of this city’s science, tech, esports and startup scenes. Everyday I get to create awesome experiences and engage with the vibrant GitHub developer community. I've run many hackathons, and am an accomplished MC, speaker, and facilitator. You'll often catch me at an event or speaking on stage! In my 'spare' time I'm a streamer, journalist, and always working on something exciting.
+
+Thank you for listening to my talk and checking out the resources.
+
+![mish heart large](https://user-images.githubusercontent.com/36594527/195619762-82827b2e-bfdd-49b6-b8df-5b9e15f4f044.png)

@@ -1,10 +1,6 @@
 # DDD Brisbane 2022 - GitHub Like a Boss
 
-I gave this talk a few times after GitHub Universe, at:
-- ANZ Unconference 18 November
-- [DDD Brisbane 2022](https://www.dddbrisbane.com/agenda)
-
-Check out the links.
+This is the talk I gave at [DDD Brisbane 2022](https://www.dddbrisbane.com/agenda). It was also given at ANZ Unconference 18 November.
 
 ## Talk Title
 

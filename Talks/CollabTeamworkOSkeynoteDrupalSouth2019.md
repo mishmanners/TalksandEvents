@@ -1,4 +1,4 @@
-# Drupal South 2019
+# Drupal South 2019 - Collaboration, teamwork, and open source
 
 [This is from the keynote that I gave at Drupal South](https://drupalsouth.org/events/drupalsouth-hobart-2019/sessions/skpr-keynote-michelle-mannering).
 

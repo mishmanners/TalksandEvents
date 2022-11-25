@@ -1,4 +1,4 @@
-# NDC Oslo - GitHub Copilot
+# NDC Oslo 2022 - GitHub Copilot
 
 This is a talk I gave at [NDC Oslo in 2022](https://ndcoslo.com/agenda/github-copilot/05wbzgsmiwx).
 

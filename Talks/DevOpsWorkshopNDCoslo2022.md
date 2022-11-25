@@ -1,4 +1,4 @@
-# End to End DevOps with GitHub
+# NDC Oslo 2022 - End to End DevOps with GitHub
 
 Thanks for attending the workshop with Mish and Damo at [NDC Oslo 2022](https://ndcoslo.com/).
 

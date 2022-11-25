@@ -4,6 +4,8 @@ This is a talk I gave at [All Things Open 2022](https://2022.allthingsopen.org/s
 
 ![Fcy6zsPXgAALWp-](https://user-images.githubusercontent.com/36594527/199431906-2c67adb1-631f-4c64-ab4d-429373ab8af6.jpg)
 
+[You can listen to the podcast interview from All Things Open about this talk on Changelog](https://changelog.com/podcast/news-2022-11-21#t=569).
+
 ## Talk Title
 
 ### Release Radar – How and why you should do releases for your open source project

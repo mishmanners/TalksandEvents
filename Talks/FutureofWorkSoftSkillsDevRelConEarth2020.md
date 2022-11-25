@@ -9,3 +9,15 @@
 ## Talk Title
 
 _Future of work, soft skills, and the dream team_
+
+## Abstract
+
+In the talk, she covers:
+
+- How the working environment is changing
+- What we mean by the future of work
+- How to upskill people for that future
+- How to build a dream team for your project or company.
+She draws on her own experiences in hackathons and esports.
+
+[See the website](https://developerrelations.com/dev-rel/future-of-work-why-soft-skills-are-important)

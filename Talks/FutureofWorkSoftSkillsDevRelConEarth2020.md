@@ -8,7 +8,7 @@
 
 ## Talk Title
 
-_Future of work, soft skills, and the dream team_
+### Future of work, soft skills, and the dream team
 
 ## Abstract
 

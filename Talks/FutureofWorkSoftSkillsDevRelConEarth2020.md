@@ -21,3 +21,7 @@ In the talk, she covers:
 She draws on her own experiences in hackathons and esports.
 
 [See the website](https://developerrelations.com/dev-rel/future-of-work-why-soft-skills-are-important)
+
+Thank you for listening to my talk and checking out the resources.
+
+![mish heart large](https://user-images.githubusercontent.com/36594527/195619762-82827b2e-bfdd-49b6-b8df-5b9e15f4f044.png)

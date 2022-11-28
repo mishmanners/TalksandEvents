@@ -2,6 +2,8 @@
 
 This is a talk I gave at [Code Europe in 2022](https://www.codeeurope.pl/en/speakers/michelle-mannering).
 
+![FSZRSh6XsAIQmVU](https://user-images.githubusercontent.com/36594527/204211303-94516ae1-32ab-4a8e-a08d-cdb1f9d1008d.png)
+
 ## Talk Title
 
 ### The Dream Team: working effectively across multidisciplinary teams

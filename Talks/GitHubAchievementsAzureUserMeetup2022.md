@@ -76,3 +76,7 @@ https://twitter.com/github/status/1541564544945881089
 - https://twitter.com/sujalgoswami30/status/1565736907845169152 
 - https://twitter.com/SSarkar2007/status/1566324759436361728 
 - https://twitter.com/AndrewCodeChimp/status/1363425970624028672
+
+Thank you for listening to my talk and checking out the resources.
+
+![mish heart large](https://user-images.githubusercontent.com/36594527/195619762-82827b2e-bfdd-49b6-b8df-5b9e15f4f044.png)

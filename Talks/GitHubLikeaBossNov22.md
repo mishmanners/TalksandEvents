@@ -2,6 +2,8 @@
 
 This is the talk I gave at [DDD Brisbane 2022](https://www.dddbrisbane.com/agenda). It was also given at ANZ Unconference 18 November.
 
+![DDD Talk promo2](https://user-images.githubusercontent.com/36594527/204688560-d8584a2f-0542-439c-9803-17f77e5c46aa.jpg)
+
 ## Talk Title
 
 ### GitHub Like a Boss: tips, tricks, and latest GitHub announcements

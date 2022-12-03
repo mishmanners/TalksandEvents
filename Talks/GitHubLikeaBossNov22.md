@@ -21,6 +21,7 @@ These are the links to resources and references I mentioned in my talk:
 - [GitHub](https://github.com)
 - [How to write a Profile README](https://dev.to/github/how-to-create-a-github-profile-readme-jha)
 - [How to enable Actions and Snake eating on your Profile READMNE](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66)
+- [My Octocat: create your own Octocat](https://myoctocat.com/?ref=producthunt)
 - [How to write an Organisation Profile README](https://dev.to/github/how-to-create-a-profile-readme-for-your-organisation-g2)
 - [Top Tips for using GitHub](https://dev.to/mishmanners/top-tips-for-using-github-l4m)
 - [GitHub Feed](https://github.blog/2022-03-22-improving-your-github-feed/)

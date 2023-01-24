@@ -2,6 +2,8 @@
 
 This is the talk I gave at [during the Global Game Jam live stream](https://www.twitch.tv/globalgamejam).
 
+![Uploading FnOPIFZWQAIbI_-.jpg…]()
+
 [Watch the recording](). RECORDING COMING SOON.
 
 ## Talk Title

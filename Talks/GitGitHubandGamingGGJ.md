@@ -2,7 +2,6 @@
 
 This is the talk I gave at [during the Global Game Jam live stream](https://www.twitch.tv/globalgamejam).
 
-
 [Watch the recording](). RECORDING COMING SOON.
 
 ## Talk Title
@@ -11,7 +10,9 @@ This is the talk I gave at [during the Global Game Jam live stream](https://www.
 
 ## Abstract
 
-Learn what git is and how to get started with GitHub.
+Learn what git is and how to get started with GitHub. Are you thinking about creating a game? Maybe you've thought about source control and maybe not. Are you thinking about using an open source game engine or project?
+
+The live stream will cover the use of Git, GitHub, and open source in the gaming industry. These tools and practices have become increasingly important in the gaming industry, as more and more developers are turning to open source solutions, and using GitHub to collaborate and share code. The talk will explore the ways in which git and GitHub are being used in the gaming industry, as well as the benefits and challenges they bring.
 
 ## Resources and Links
 

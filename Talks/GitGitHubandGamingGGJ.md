@@ -23,6 +23,7 @@ These are the links to resources and references I mentioned in my talk:
 - [GitHub](https://github.com)
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
 - [Top Tips for using GitHub](https://dev.to/mishmanners/top-tips-for-using-github-l4m)
+- [What is GitHub](https://youtu.be/pBy1zgt0XPc)
 - [GitHub Feed](https://github.blog/2022-03-22-improving-your-github-feed/)
 - [GitHub Achievements](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/)
 - [GitHub Skyline](https://skyline.github.com/)

@@ -45,7 +45,7 @@ These are the links to resources and references I mentioned in my talk:
 - [How to use GitHub Copilot for explaining code](https://dev.to/github/understand-your-code-using-github-copilot-5375)
 - [How to use GitHub Copilot for translating code](https://dev.to/github/how-to-translate-code-into-other-languages-using-github-copilot-3n6f)
 - [GitHub Game Off](https://itch.io/jam/game-off-2022)
-- [Open source game engines](https://github.com/github/devrel/issues?q=is%3Aissue+game+jam)
+- [Open source game engines](https://itch.io/jam/game-off-2022)
 - [Game companies using GitHub](https://github.com/leereilly/games#major-companies)
 - [GitHub YouTube](https://youtube.com/c/github)
 - [GitHub on TikTok](https://tiktok.com/github)

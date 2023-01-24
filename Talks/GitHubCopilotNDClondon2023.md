@@ -1,20 +1,20 @@
-# Git, GitHub, open source, and gaming
+# NDC London 2023 - GitHub Copilot
 
-This is the talk I gave at [during the Global Game Jam live stream](https://www.twitch.tv/globalgamejam).
+This is a talk I gave at [NDC London in 2023](https://ndclondon.com/speakers/michelle-mannering).
 
-![FnOPIFZWQAIbI_-](https://user-images.githubusercontent.com/36594527/214278165-0b840ff9-79fa-4db2-8ff9-5c541cf9dd0f.jpg)
+### [Watch the recording](). RECORDING WILL BE COMING SOON.
 
-[Watch the recording](). RECORDING COMING SOON.
+![Speaker card](https://user-images.githubusercontent.com/36594527/214283881-3bc51408-a0ff-4a4b-948c-8c589f040ca4.jpg)
 
 ## Talk Title
 
-### Git, GitHub, open source, and gaming
+### GitHub Copilot: Using AI to help you learn, code, and build
 
 ## Abstract
 
-Learn what git is and how to get started with GitHub. Are you thinking about creating a game? Maybe you've thought about source control and maybe not. Are you thinking about using an open source game engine or project?
+GitHub Copilot is fast becoming a fun and educational way for people to learn, grow, and develop their code.
 
-The live stream will cover the use of Git, GitHub, and open source in the gaming industry. These tools and practices have become increasingly important in the gaming industry, as more and more developers are turning to open source solutions, and using GitHub to collaborate and share code. The talk will explore the ways in which git and GitHub are being used in the gaming industry, as well as the benefits and challenges they bring.
+From translating code into different languages, understanding code, and writing code, you'll never want to code again without your trusty AI pair programmer.
 
 ## Resources and Links
 
@@ -23,30 +23,25 @@ The live stream will cover the use of Git, GitHub, and open source in the gaming
 These are the links to resources and references I mentioned in my talk:
 
 - [GitHub](https://github.com)
-- [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
-- [What is Git](https://git-scm.com/)
-- [Top Tips for using GitHub](https://dev.to/mishmanners/top-tips-for-using-github-l4m)
 - [What is GitHub](https://youtu.be/pBy1zgt0XPc)
-- [GitHub Feed](https://github.blog/2022-03-22-improving-your-github-feed/)
-- [GitHub Achievements](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/)
-- [GitHub Skyline](https://skyline.github.com/)
-- [How to create your Skyline](https://dev.to/mishmanners/get-your-github-2021-year-of-contributions-in-3d-30pk)
-- [New GitHub Issues](https://github.com/features/issues)
-- [Syntax for GitHub Issue Forms](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-issue-forms)
-- [GitHub Discussions](https://docs.github.com/en/discussions)
-- [GitHub for Mobile](https://mobile.github.com)
-- [GitHub for Mobile 101](https://dev.to/github/did-you-know-github-has-a-mobile-app-1gie)
-- [GitHub Mobile Shortcuts](https://dev.to/github/customise-github-mobile-to-work-better-for-you-shortcuts-and-more-5ck8)
-- [GitHub CLI](https://cli.github.com/)
-- [Using GitHub CLI to update your repo](https://dev.to/mishmanners/using-the-github-cli-to-update-your-repo-2nnm)
-- [GitHub Desktop](https://github.com/mobile)
+- [Definition of AI from IBM](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
+- [How Google Nest cameras work](https://thenextweb.com/news/google-nest-cam-ai-and-batteries)
+- [The Subaru Drive Assist monitoring system](https://www.subaru.com.au/driver-monitoring-system)
+- [Fiesta AI article writing program](https://articlefiesta.com/)
+- [Midjourney AI artwork generator](https://www.midjourney.com/home/)
+- [Night Cafe AI art generator](https://creator.nightcafe.studio/creation/O0iBOpUCgygcGNJsAz9I)
+- [AI programming extension for VS Code](https://marketplace.visualstudio.com/items?itemName=GalilAI.aicoding)
+- [Best AI programming extensions for VS Code](https://sourceforge.net/software/ai-coding-assistants/integrates-with-visual-studio-code/)
 - [GitHub Copilot](https://copilot.github.com/)
-- [AI art generator](https://creator.nightcafe.studio/creation/O0iBOpUCgygcGNJsAz9I)
+- [Watch the OpenAI Codex Demo](https://youtu.be/SGUCcjHTmGY)
+- [Play with the Codex](https://webcatalog.io/apps/openai-playground/)
+- [Read more about GPT-4](https://neuroflash.com/blog/gpt-4-open-ai/)
 - [How to use GitHub Copilot for explaining code](https://dev.to/github/understand-your-code-using-github-copilot-5375)
 - [How to use GitHub Copilot for translating code](https://dev.to/github/how-to-translate-code-into-other-languages-using-github-copilot-3n6f)
-- [GitHub Game Off](https://itch.io/jam/game-off-2022)
-- [Open source game engines](https://github.com/github/devrel/issues?q=is%3Aissue+game+jam)
-- [Game companies using GitHub](https://github.com/leereilly/games#major-companies)
+- [Developer happiness - research study around GitHub Copilot](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
+- [Practical use cases for GitHub Copilot](https://dev.to/github/why-use-github-copilot-and-copilot-labs-practical-use-cases-for-the-ai-pair-programmer-4hf4)
+- [GitHub Next, Hey GitHub!](https://githubnext.com/)
+- [How GitHub Copilot took flight](https://www.youtube.com/watch?v=8JjVNFc2kK4&ab_channel=GitHub)
 - [GitHub YouTube](https://youtube.com/c/github)
 - [GitHub on TikTok](https://tiktok.com/github)
 - [GitHub on Twitter](https://twitter.com/github)

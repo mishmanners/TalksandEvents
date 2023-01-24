@@ -1,9 +1,9 @@
 # Git, GitHub, open source, and gaming
 
-This is the talk I gave at [during the Global Game Jam live stream]().
+This is the talk I gave at [during the Global Game Jam live stream](https://www.twitch.tv/globalgamejam).
 
 
-[Watch the recording]().
+[Watch the recording](). RECORDING COMING SOON.
 
 ## Talk Title
 

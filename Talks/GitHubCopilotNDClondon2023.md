@@ -28,6 +28,7 @@ These are the links to resources and references I mentioned in my talk:
 - [How Google Nest cameras work](https://thenextweb.com/news/google-nest-cam-ai-and-batteries)
 - [The Subaru Drive Assist monitoring system](https://www.subaru.com.au/driver-monitoring-system)
 - [Fiesta AI article writing program](https://articlefiesta.com/)
+- [Chat GPT](https://chat.openai.com/)
 - [Midjourney AI artwork generator](https://www.midjourney.com/home/)
 - [Night Cafe AI art generator](https://creator.nightcafe.studio/creation/O0iBOpUCgygcGNJsAz9I)
 - [AI programming extension for VS Code](https://marketplace.visualstudio.com/items?itemName=GalilAI.aicoding)

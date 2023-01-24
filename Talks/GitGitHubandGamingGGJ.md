@@ -2,7 +2,7 @@
 
 This is the talk I gave at [during the Global Game Jam live stream](https://www.twitch.tv/globalgamejam).
 
-![Uploading FnOPIFZWQAIbI_-.jpg…]()
+![FnOPIFZWQAIbI_-](https://user-images.githubusercontent.com/36594527/214278165-0b840ff9-79fa-4db2-8ff9-5c541cf9dd0f.jpg)
 
 [Watch the recording](). RECORDING COMING SOON.
 

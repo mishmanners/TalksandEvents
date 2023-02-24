@@ -2,7 +2,7 @@
 
 This is the talk I gave at [NDC Melbourne 2022](https://www.youtube.com/watch?v=czC2DcTHYxY&ab_channel=NDCConferences).
 
-
+![Speaker Poster](https://user-images.githubusercontent.com/36594527/221080325-52c064b7-0e28-4768-b521-6a0aefe6b3db.png)
 
 [Watch the recording](). --> coming soon
 

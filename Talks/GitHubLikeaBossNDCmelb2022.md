@@ -1,4 +1,4 @@
-# NDC Melbourne 2021 - GitHub Like a Boss
+# NDC Melbourne 2022 - GitHub Like a Boss
 
 This is the talk I gave at [NDC Melbourne 2022](https://www.youtube.com/watch?v=czC2DcTHYxY&ab_channel=NDCConferences).
 

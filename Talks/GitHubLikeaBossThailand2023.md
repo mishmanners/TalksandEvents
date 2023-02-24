@@ -8,7 +8,7 @@ This is the talk I gave at [Thailand Developers Day 2023]([https://www.youtube.c
 
 ## Talk Title
 
-### GitHub Like a Boss: tips, tricks, and latest GitHub features
+### GitHub Like a Boss: What’s hot and new with GitHub
 
 ## Abstract
 

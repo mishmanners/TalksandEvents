@@ -43,6 +43,7 @@ These are the links to resources and references I mentioned in my talk:
 - [GitHub Desktop](https://github.com/mobile)
 - [GitHub Skills](https://skills.github.com/)
 - [GitHub Copilot](https://copilot.github.com/)
+- [Copilot for Business](https://github.com/github-copilot/business_signup/choose_business_type)
 - [How to use GitHub Copilot for explaining code](https://dev.to/github/understand-your-code-using-github-copilot-5375)
 - [How to use GitHub Copilot for translating code](https://dev.to/github/how-to-translate-code-into-other-languages-using-github-copilot-3n6f)
 - [GitHub YouTube](https://youtube.com/c/github)

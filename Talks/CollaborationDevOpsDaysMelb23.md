@@ -2,9 +2,7 @@
 
 This is a talk I gave at [Deserted Island Ops in 2022](https://desertedislanddevops.com/).
 
-### [Watch the recording](https://youtu.be/KL1yqMp47_A?list=PLVUQjiv8GtwJeezuKvmL2kl6I9Gml0g2a).
-
-![Fa7tn2jWAAA0ujV](https://user-images.githubusercontent.com/36594527/195224431-06b5ac52-77ab-4502-9046-75711188aca3.jpg)
+![Speaker card](https://user-images.githubusercontent.com/36594527/225210561-ee94c5e6-b5dd-4a25-91de-866910799b72.jpg)
 
 ## Talk Title
 

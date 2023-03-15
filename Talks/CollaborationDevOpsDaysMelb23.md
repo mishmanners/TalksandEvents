@@ -21,6 +21,9 @@ In this lightning talk, I'll cover the future of work, soft skills, why collabor
 These are the references I used in my talk:
 
 - Minority Report (Future of Work)
+- [Chat GPT](https://chat-gpt.org/)
+- [Midjourney](https://www.midjourney.com/)
+- [Night Cafe](https://creator.nightcafe.studio/studio)
 - [Top skills for future of work](https://learning.linkedin.com/blog/top-skills/the-skills-companies-need-most-in-2020and-how-to-learn-them)
 - [What is DevOps](https://dev.to/mishmanners/the-pillars-of-devops-what-is-a-devops-engineer-3i8m)
 - [What is DevOps by Emily Freeman](https://youtu.be/kBV8gPVZNEE)

@@ -31,7 +31,7 @@ These are the references I used in my talk:
 - [Gary Kasparov's TED talk](https://www.ted.com/talks/garry_kasparov_don_t_fear_intelligent_machines_work_with_them?language=en)
 - [What is machine learning?](https://www.javatpoint.com/types-of-machine-learning)
 - Jarvis from _Iron Man_ (AI is becoming much more obtainable)
-- [What is AI - definition from IBM](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
+- [What is AI? Definition from IBM](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
 - Examples of AI: Siri, [Google Nest](https://thenextweb.com/news/google-nest-cam-ai-and-batteries), [Subaru Driver Assist](https://www.subaru.com.au/driver-monitoring-system), PhotoShop remove background, [Midjourney](https://www.midjourney.com/), [Fiesta](https://articlefiesta.com/)
 - [Chat GPT](https://chat-gpt.org/), [GitHub Copilot](https://copilot.github.com/)
 - [GitHub Copilot Developer Happiness study](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)

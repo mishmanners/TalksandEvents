@@ -1,8 +1,8 @@
 # Programmable 2023
 
-This is a talk I gave at [Programmable 2023]() in both Melbourne and Sydney.
+This is a talk I gave at [Programmable 2023](https://www.programmable.tech/speakers/michelle-mannering) in both Melbourne and Sydney.
 
-![Speaker card]()
+![Michelle Mannering 1](https://user-images.githubusercontent.com/36594527/227940399-298e8311-4876-4ce4-9b9c-2b2d112a5e0d.png)
 
 ## Talk Title
 
@@ -10,6 +10,14 @@ This is a talk I gave at [Programmable 2023]() in both Melbourne and Sydney.
 
 ## Abstract
 
+With the rise of AI and automation, how do we as humans find our value in the workplace? How do we work with these new technologies? How do we build resilience to changes? What skills are needed for us to thrive in this new world?
+
+People have often felt apprehensive about change, especially big changes to the way we work. It happened in the industrial revolution and now it's happening with the rise of artificial intelligence. Five years ago these things existed, but now they are accessible to almost everyone. In this session I'll cover:
+
+- why people want to work
+- why it's important for us to have a place in the world
+- what skills are needed for the "future of work"
+- how we build resilience, problem solving, and critical thinking
 
 ## Resources and Links
 
@@ -17,17 +25,27 @@ This is a talk I gave at [Programmable 2023]() in both Melbourne and Sydney.
 
 These are the references I used in my talk:
 
-- Minority Report (Future of Work)
-- Wall-E (Future of Work)
-- [Chat GPT](https://chat-gpt.org/)
-- [Midjourney](https://www.midjourney.com/)
-- [Night Cafe](https://creator.nightcafe.studio/studio)
+- _Minority Report_ (Future of Work)
+- _Wall-E_ (Future of Work)
+- [Will a robot take my job?](time.com/robots-jobs-machines-work)
+- [Gary Kasparov's TED talk](https://www.ted.com/talks/garry_kasparov_don_t_fear_intelligent_machines_work_with_them?language=en)
+- [What is machine learning?](https://www.javatpoint.com/types-of-machine-learning)
+- Jarvis from _Iron Man_ (AI is becoming much more obtainable)
+- [What is AI - definition from IBM](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
+- Examples of AI: Siri, [Google Nest](https://thenextweb.com/news/google-nest-cam-ai-and-batteries), [Subaru Driver Assist](https://www.subaru.com.au/driver-monitoring-system), PhotoShop remove background, [Midjourney](https://www.midjourney.com/), [Fiesta](https://articlefiesta.com/)
+- [Chat GPT](https://chat-gpt.org/), [GitHub Copilot](https://copilot.github.com/)
+- [GitHub Copilot Developer Happiness study](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
 - [Top skills for future of work](https://learning.linkedin.com/blog/top-skills/the-skills-companies-need-most-in-2020and-how-to-learn-them)
+- [Night Cafe](https://creator.nightcafe.studio/studio)
+- [GitHub Copilot X](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
+- [Microsoft Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
+- AI in the workplace; as above, including: [Dall-E](https://openai.com/product/dall-e-2), [Bard](https://ai.google/), [IBM Watson](https://www.ibm.com/watson)
 
 ### Other Resources
 
 - [GitHub](https://github.com)
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
+- [Compare will a robot take my job](https://willrobotstakemyjob.com/)
 - [GitHub YouTube](https://youtube.com/c/github)
 - [GitHub on TikTok](https://tiktok.com/github)
 - [GitHub on Twitter](https://twitter.com/github)

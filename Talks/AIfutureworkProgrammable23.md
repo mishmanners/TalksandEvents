@@ -18,6 +18,7 @@ This is a talk I gave at [Programmable 2023]() in both Melbourne and Sydney.
 These are the references I used in my talk:
 
 - Minority Report (Future of Work)
+- Wall-E (Future of Work)
 - [Chat GPT](https://chat-gpt.org/)
 - [Midjourney](https://www.midjourney.com/)
 - [Night Cafe](https://creator.nightcafe.studio/studio)

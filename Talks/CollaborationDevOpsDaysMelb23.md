@@ -1,6 +1,6 @@
 # DevOps Days Melbourne 2023 - Culture and collaboration
 
-This is a talk I gave at [DevOps Days Melbourne 2023]([https://desertedislanddevops.com/](https://devopsdays.org/events/2023-melbourne/welcome/)).
+This is a talk I gave at [DevOps Days Melbourne 2023](https://devopsdays.org/events/2023-melbourne/welcome/).
 
 ![Speaker card](https://user-images.githubusercontent.com/36594527/225210561-ee94c5e6-b5dd-4a25-91de-866910799b72.jpg)
 

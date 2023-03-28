@@ -25,6 +25,7 @@ People have often felt apprehensive about change, especially big changes to the 
 
 These are the references I used in my talk:
 
+- [My Octocat](https://myoctocat.com/?ref=producthunt) make your own GitHub mona octocat
 - _Minority Report_ (Future of Work)
 - _Wall-E_ (Future of Work)
 - [Will a robot take my job?](time.com/robots-jobs-machines-work)

@@ -4,6 +4,8 @@ This is a talk I gave at [Programmable 2023](https://www.programmable.tech/speak
 
 ![Michelle Mannering 1](https://user-images.githubusercontent.com/36594527/227940399-298e8311-4876-4ce4-9b9c-2b2d112a5e0d.png)
 
+[Listen to the recording](https://youtu.be/8WbCLKKZb28).
+
 ## Talk Title
 
 ### AI 🤖 and the future of work: How to build resilience to ensure you still have a job!
@@ -37,11 +39,13 @@ These are the references I used in my talk:
 - [Chat GPT](https://chat-gpt.org/), [GitHub Copilot](https://copilot.github.com/)
 - [GitHub Copilot Developer Happiness study](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
 - [Top skills for future of work](https://learning.linkedin.com/blog/top-skills/the-skills-companies-need-most-in-2020and-how-to-learn-them)
+- [5 Skills needed for the future of work](https://dev.to/mishmanners/dont-let-the-robots-take-your-job-top-5-skills-needed-to-stay-employed-85e)
 - [Night Cafe](https://creator.nightcafe.studio/studio)
 - [GitHub Copilot X](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
 - [Microsoft Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
 - AI in the workplace; as above, including: [Dall-E](https://openai.com/product/dall-e-2), [Bard](https://ai.google/), [IBM Watson](https://www.ibm.com/watson)
 - [Where to learn for free](https://github.com/mishmanners/Free-Learning-Content)
+- [How to cultivate soft skills needed for the future of work](https://dev.to/mishmanners/5-tips-to-future-proof-your-career-how-to-outsmart-automation-62h)
 
 ### Other Resources
 

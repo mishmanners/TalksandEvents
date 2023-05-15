@@ -4,7 +4,7 @@ This is a talk I gave at [Techorama in 2023](https://techorama.be/speakers/sessi
 
 ### [Watch the recording](). RECORDING WILL BE COMING SOON.
 
-![Speaker card](https://user-images.githubusercontent.com/36594527/214283881-3bc51408-a0ff-4a4b-948c-8c589f040ca4.jpg)
+![Speaker card socials2](https://github.com/mishmanners/TalksandEvents/assets/36594527/7339003c-9d4f-4216-8650-efaa49349e7d)
 
 ## Talk Title
 

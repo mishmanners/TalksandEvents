@@ -1,6 +1,6 @@
-# NDC London 2023 - GitHub Copilot
+# Techorama 2023 - Level up with GitHub Copilot
 
-This is a talk I gave at [NDC London in 2023](https://ndclondon.com/speakers/michelle-mannering).
+This is a talk I gave at [Techorama in 2023](https://techorama.be/speakers/session/github-copilot-using-ai-to-help-you-learn-code-and-build/).
 
 ### [Watch the recording](). RECORDING WILL BE COMING SOON.
 
@@ -12,9 +12,7 @@ This is a talk I gave at [NDC London in 2023](https://ndclondon.com/speakers/mic
 
 ## Abstract
 
-GitHub Copilot is fast becoming a fun and educational way for people to learn, grow, and develop their code.
-
-From translating code into different languages, understanding code, and writing code, you'll never want to code again without your trusty AI pair programmer.
+It's time you meet your AI pair programmer. Do you find yourself stuck on a chunk of code? GitHub Copilot can help you. GitHub Copilot can help you get unstuck by suggesting lines or code, whole functions, help you explain what you're trying to build, and even translate your code into other languages. Find out more about GitHub Copilot and watch everything in a demo.
 
 ## Resources and Links
 

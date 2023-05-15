@@ -32,21 +32,28 @@ These are the links to resources and references I mentioned in my talk:
 - [AI programming extension for VS Code](https://marketplace.visualstudio.com/items?itemName=GalilAI.aicoding)
 - [Best AI programming extensions for VS Code](https://sourceforge.net/software/ai-coding-assistants/integrates-with-visual-studio-code/)
 - [GitHub Copilot](https://copilot.github.com/)
-- [Watch the OpenAI Codex Demo](https://youtu.be/SGUCcjHTmGY)
-- [Play with the Codex](https://webcatalog.io/apps/openai-playground/)
-- [Read more about GPT-4](https://neuroflash.com/blog/gpt-4-open-ai/)
-- [How to use GitHub Copilot for explaining code](https://dev.to/github/understand-your-code-using-github-copilot-5375)
-- [How to use GitHub Copilot for translating code](https://dev.to/github/how-to-translate-code-into-other-languages-using-github-copilot-3n6f)
-- [Developer happiness - research study around GitHub Copilot](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
-- [Practical use cases for GitHub Copilot](https://dev.to/github/why-use-github-copilot-and-copilot-labs-practical-use-cases-for-the-ai-pair-programmer-4hf4)
-- [GitHub Next, Hey GitHub!](https://githubnext.com/)
-- [How GitHub Copilot took flight](https://www.youtube.com/watch?v=8JjVNFc2kK4&ab_channel=GitHub)
+- [GitHub Next](https://githubnext.com/)
+- [GitHub Copilot X](https://github.com/features/preview/copilot-x)
+- [All about GitHub Copilot X](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
+- [Join the GitHub Copilot chat waitlist](https://github.com/github-copilot/chat_waitlist_signup/join)
 - [GitHub YouTube](https://youtube.com/c/github)
 - [GitHub on TikTok](https://tiktok.com/github)
 - [GitHub on Twitter](https://twitter.com/github)
 - [GitHub on Instagram](https://instagram.com/github)
 - [How to create and pin a gist](https://dev.to/mishmanners/how-to-create-and-pin-a-gist-on-github-16p0)
 - [Links to MishManners social media](https://mishmanners.info)
+
+### More resources
+- [How GitHub Copilot took flight](https://www.youtube.com/watch?v=8JjVNFc2kK4&ab_channel=GitHub)
+- [Getting start with GitHub Copilot chat](https://www.youtube.com/watch?v=3surPGP7_4o&ab_channel=GitHub)
+- [OpenAI Codex Demo](https://youtu.be/SGUCcjHTmGY)
+- [Play with the Codex](https://webcatalog.io/apps/openai-playground/)
+- [Read more about GPT-4](https://neuroflash.com/blog/gpt-4-open-ai/)
+- [How to use GitHub Copilot for explaining code](https://dev.to/github/understand-your-code-using-github-copilot-5375)
+- [How to use GitHub Copilot for translating code](https://dev.to/github/how-to-translate-code-into-other-languages-using-github-copilot-3n6f)
+- [Developer happiness - research study around GitHub Copilot](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
+- [Practical use cases for GitHub Copilot](https://dev.to/github/why-use-github-copilot-and-copilot-labs-practical-use-cases-for-the-ai-pair-programmer-4hf4)
+
 
 Thank you for listening to my talk and checking out the resources.
 

@@ -1,6 +1,6 @@
 # Techorama 2023 - Working with the GitHub CLI
 
-This is a talk I gave at [Techorama in 2023](https://techorama.be/speakers/session/github-copilot-using-ai-to-help-you-learn-code-and-build/). 🐯
+This is a talk I gave at [Techorama in 2023](https://techorama.be/speakers/session/working-with-the-github-cli/). 🐯
 
 #### This talk was not recorded.
 

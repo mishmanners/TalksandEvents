@@ -32,6 +32,7 @@ These are the links to resources and references I mentioned in my talk:
 - [AI programming extension for VS Code](https://marketplace.visualstudio.com/items?itemName=GalilAI.aicoding)
 - [Best AI programming extensions for VS Code](https://sourceforge.net/software/ai-coding-assistants/integrates-with-visual-studio-code/)
 - [GitHub Copilot](https://copilot.github.com/)
+- [GitHub Like a Boss repo for demo code](https://github.com/mishmanners/github-like-a-boss)
 - [GitHub Next](https://githubnext.com/)
 - [GitHub Copilot X](https://github.com/features/preview/copilot-x)
 - [All about GitHub Copilot X](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)

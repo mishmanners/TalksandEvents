@@ -35,6 +35,7 @@ These are the links to resources and references I mentioned in my talk:
 - [GitHub Next](https://githubnext.com/)
 - [GitHub Copilot X](https://github.com/features/preview/copilot-x)
 - [All about GitHub Copilot X](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
+- [Building an app live uisng GitHub Copilot Chat](https://github.blog/2023-05-05-web-summit-rio-2023-building-an-app-in-18-minutes-with-github-copilot-x/)
 - [Join the GitHub Copilot chat waitlist](https://github.com/github-copilot/chat_waitlist_signup/join)
 - [GitHub YouTube](https://youtube.com/c/github)
 - [GitHub on TikTok](https://tiktok.com/github)

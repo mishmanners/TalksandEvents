@@ -27,6 +27,20 @@ Takeaways:
 These are the links to resources and references I mentioned in my talk:
 
 - [GitHub](https://github.com)
+- [GitHub Codespaces](https://github.com/codespaces)
+- [GitHub Desktop](https://desktop.github.com/)
+- [GitHub Mobile](https://github.com/mobile)
+- [GitHub CLI](https://cli.github.com/)
+- [Install Chocolatey for Windows](https://chocolatey.org/install)
+- [GitHub CLI commands](https://cli.github.com/manual)
+- [GitHub CLI for SSH](https://dev.to/github/how-to-never-type-passwords-when-using-git-18bb)
+- [GitHub CLI extensions](https://github.com/topics/gh-extension)
+- [How to create GitHub CLI extensions](https://docs.github.com/en/github-cli/github-cli/creating-github-cli-extensions)
+- [GitHub Copilot CLI](https://githubnext.com/projects/copilot-cli/)
+- [Installing GitHub Copilot CLI](https://www.npmjs.com/package/@githubnext/github-copilot-cli)
+
+### Other resources
+
 - [What is GitHub](https://youtu.be/pBy1zgt0XPc)
 
 Thank you for listening to my talk and checking out the resources.

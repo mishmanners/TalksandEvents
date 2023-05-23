@@ -2,7 +2,7 @@
 
 This is a talk I gave at [NDC Oslo 2023](https://www.programmable.tech/speakers/michelle-mannering).
 
-![Michelle Mannering 1](https://user-images.githubusercontent.com/36594527/227940399-298e8311-4876-4ce4-9b9c-2b2d112a5e0d.png)
+![Speaker card](https://github.com/mishmanners/TalksandEvents/assets/36594527/200f9d78-83b8-429d-a7a7-e567e8af173f)
 
 [Listen to the recording](). COMING soon
 

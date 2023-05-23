@@ -1,10 +1,10 @@
 # NDC Oslo 2023, Community Edition - Level up with GitHub Copilot
 
-This is a talk I gave at [Techorama in 2023](https://techorama.be/speakers/session/github-copilot-using-ai-to-help-you-learn-code-and-build/).
+This is a talk I gave at [NDC Oslo's Community evening event in 2023](https://app.checkin.no/event/57096/community-tuesday).
 
 #### This talk was not recorded.
 
-![Speaker card socials2](https://github.com/mishmanners/TalksandEvents/assets/36594527/7339003c-9d4f-4216-8650-efaa49349e7d)
+![Speaker card - Community](https://github.com/mishmanners/TalksandEvents/assets/36594527/736134f5-001a-466f-85bb-f0ea3a113781)
 
 ## Talk Title
 

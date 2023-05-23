@@ -1,4 +1,4 @@
-# Programmable 2023
+# Programmable 2023 - AI and the future of work
 
 This is a talk I gave at [Programmable 2023](https://www.programmable.tech/speakers/michelle-mannering) in both Melbourne and Sydney.
 

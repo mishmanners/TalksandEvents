@@ -1,10 +1,10 @@
 # NDC Oslo 2023 - AI and the future of work
 
-This is a talk I gave at [NDC Oslo 2023](https://www.programmable.tech/speakers/michelle-mannering) in both Melbourne and Sydney.
+This is a talk I gave at [NDC Oslo 2023](https://www.programmable.tech/speakers/michelle-mannering).
 
 ![Michelle Mannering 1](https://user-images.githubusercontent.com/36594527/227940399-298e8311-4876-4ce4-9b9c-2b2d112a5e0d.png)
 
-[Listen to the recording](https://youtu.be/8WbCLKKZb28).
+[Listen to the recording](). COMING soon
 
 ## Talk Title
 
@@ -44,6 +44,7 @@ These are the references I used in my talk:
 - [GitHub Copilot X](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
 - [Microsoft Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
 - AI in the workplace; as above, including: [Dall-E](https://openai.com/product/dall-e-2), [Bard](https://ai.google/), [IBM Watson](https://www.ibm.com/watson)
+- [Using GitHub Copilot to build an app in 18 minutes](https://github.blog/2023-05-05-web-summit-rio-2023-building-an-app-in-18-minutes-with-github-copilot-x/)
 - [Where to learn for free](https://github.com/mishmanners/Free-Learning-Content)
 - [How to cultivate soft skills needed for the future of work](https://dev.to/mishmanners/5-tips-to-future-proof-your-career-how-to-outsmart-automation-62h)
 
@@ -52,6 +53,7 @@ These are the references I used in my talk:
 - [GitHub](https://github.com)
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
 - [Compare will a robot take my job](https://willrobotstakemyjob.com/)
+- [Prompt engineering for GitHub Copilot](https://dev.to/github/a-beginners-guide-to-prompt-engineering-with-github-copilot-3ibp)
 - [GitHub YouTube](https://youtube.com/c/github)
 - [GitHub on TikTok](https://tiktok.com/github)
 - [GitHub on Twitter](https://twitter.com/github)

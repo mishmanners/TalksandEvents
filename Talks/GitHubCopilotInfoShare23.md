@@ -4,7 +4,7 @@ This is a talk I gave at [InfoShare Poland in 2023](https://infoshare.pl/confere
 
 #### [Listen to the recording](). COMING SOON.
 
-![Speaker card - Community](https://github.com/mishmanners/TalksandEvents/assets/36594527/736134f5-001a-466f-85bb-f0ea3a113781)
+![OG_conference](https://github.com/mishmanners/TalksandEvents/assets/36594527/1b90f5a8-41ef-4322-a56d-7d2e51de6188)
 
 ## Talk Title
 

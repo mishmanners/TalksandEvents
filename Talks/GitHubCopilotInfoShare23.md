@@ -1,14 +1,14 @@
-# NDC Oslo 2023, Community Edition - Level up with GitHub Copilot
+# InfoShare 2023 - Level up with GitHub Copilot
 
-This is a talk I gave at [NDC Oslo's Community evening event in 2023](https://app.checkin.no/event/57096/community-tuesday).
+This is a talk I gave at [InfoShare Poland in 2023](https://infoshare.pl/conference/speakers/#speaker2026).
 
-#### This talk was not recorded.
+#### [Listen to the recording](). COMING SOON.
 
 ![Speaker card - Community](https://github.com/mishmanners/TalksandEvents/assets/36594527/736134f5-001a-466f-85bb-f0ea3a113781)
 
 ## Talk Title
 
-### GitHub Copilot: Using AI to help you learn, code, and build
+### Level up with GitHub Copilot: Using AI to help you learn, code, and build
 
 ## Abstract
 
@@ -33,17 +33,12 @@ These are the links to resources and references I mentioned in my talk:
 - [Best AI programming extensions for VS Code](https://sourceforge.net/software/ai-coding-assistants/integrates-with-visual-studio-code/)
 - [GitHub Copilot](https://copilot.github.com/)
 - [GitHub Like a Boss repo for demo code](https://github.com/mishmanners/github-like-a-boss)
+- [Developer happiness - research study around GitHub Copilot](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
 - [GitHub Next](https://githubnext.com/)
 - [GitHub Copilot X](https://github.com/features/preview/copilot-x)
 - [All about GitHub Copilot X](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
 - [Building an app live uisng GitHub Copilot Chat](https://github.blog/2023-05-05-web-summit-rio-2023-building-an-app-in-18-minutes-with-github-copilot-x/)
 - [Join the GitHub Copilot chat waitlist](https://github.com/github-copilot/chat_waitlist_signup/join)
-- [GitHub YouTube](https://youtube.com/c/github)
-- [GitHub on TikTok](https://tiktok.com/github)
-- [GitHub on Twitter](https://twitter.com/github)
-- [GitHub on Instagram](https://instagram.com/github)
-- [How to create and pin a gist](https://dev.to/mishmanners/how-to-create-and-pin-a-gist-on-github-16p0)
-- [Links to MishManners social media](https://mishmanners.info)
 
 ### More resources
 - [How GitHub Copilot took flight](https://www.youtube.com/watch?v=8JjVNFc2kK4&ab_channel=GitHub)
@@ -53,8 +48,13 @@ These are the links to resources and references I mentioned in my talk:
 - [Read more about GPT-4](https://neuroflash.com/blog/gpt-4-open-ai/)
 - [How to use GitHub Copilot for explaining code](https://dev.to/github/understand-your-code-using-github-copilot-5375)
 - [How to use GitHub Copilot for translating code](https://dev.to/github/how-to-translate-code-into-other-languages-using-github-copilot-3n6f)
-- [Developer happiness - research study around GitHub Copilot](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
 - [Practical use cases for GitHub Copilot](https://dev.to/github/why-use-github-copilot-and-copilot-labs-practical-use-cases-for-the-ai-pair-programmer-4hf4)
+- [GitHub YouTube](https://youtube.com/c/github)
+- [GitHub on TikTok](https://tiktok.com/github)
+- [GitHub on Twitter](https://twitter.com/github)
+- [GitHub on Instagram](https://instagram.com/github)
+- [How to create and pin a gist](https://dev.to/mishmanners/how-to-create-and-pin-a-gist-on-github-16p0)
+- [Links to MishManners social media](https://mishmanners.info)
 
 Thank you for listening to my talk and checking out the resources.
 

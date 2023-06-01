@@ -1,4 +1,4 @@
-![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/f203eb18-1b53-416d-bd97-6424dbd3f320)# RenderATL 2023 - git, GitHub, and gaming
+# RenderATL 2023 - git, GitHub, and gaming
 
 This is a talk I gave at [RenderATL 2023](https://www.renderatl.com/#speakers).
 

@@ -1,4 +1,4 @@
-# RenderATL 2023 - git, GitHub, and gaming
+![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/f203eb18-1b53-416d-bd97-6424dbd3f320)# RenderATL 2023 - git, GitHub, and gaming
 
 This is a talk I gave at [RenderATL 2023](https://www.renderatl.com/#speakers).
 
@@ -28,9 +28,18 @@ What is git, what is GitHub, how to use it for gaming; open source game engines 
 These are the references I used in my talk:
 
 - [My Octocat](https://myoctocat.com/?ref=producthunt) make your own GitHub mona octocat
-- [GitHub Game Off](https://itch.io/jam/game-off-2022)
-- [Open source game engines](https://itch.io/jam/game-off-2022)
+- [Unity LEGO preoject](https://github.com/mishmanners/LEGO-Unity)
+- _Final Fantasy VII Remake_
+- _Legend of Zelda, Tears of the Kingdom_
+- _Forza Horizon 5_
+- _Pokemon_
+- _Elder Scrolls Online_
+- _League of Legends_
 - [Game companies using GitHub](https://github.com/leereilly/games#major-companies)
+- [Open source game engines](https://itch.io/jam/game-off-2022)
+- [GitHub Game Off](https://itch.io/jam/game-off-2022)
+- [Currently running game jams](https://itch.io/jams)
+- [GitHub Game Bytes](https://gh.io/gamebytes)
 
 ### Other Resources
 

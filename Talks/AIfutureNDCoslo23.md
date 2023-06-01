@@ -4,7 +4,7 @@ This is a talk I gave at [NDC Oslo 2023](https://www.programmable.tech/speakers/
 
 ![Speaker card](https://github.com/mishmanners/TalksandEvents/assets/36594527/200f9d78-83b8-429d-a7a7-e567e8af173f)
 
-[Listen to the recording](). COMING soon
+[Listen to the recording](). COMING SOON.
 
 ## Talk Title
 

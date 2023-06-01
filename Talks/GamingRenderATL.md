@@ -33,7 +33,7 @@ These are the references I used in my talk:
 - _Legend of Zelda, Tears of the Kingdom_
 - _Forza Horizon 5_
 - _Age of Empires_
-- _Pokemon_
+- _Pokémon_
 - _Elder Scrolls Online_
 - _League of Legends_
 - [Game companies using GitHub](https://github.com/leereilly/games#major-companies)

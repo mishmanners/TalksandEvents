@@ -4,7 +4,7 @@ This is a talk I gave at the [Brisbane Data, Power BI, and AI bootcamp in 2023](
 
 #### This talk was not recorded.
 
-![OG_conference](https://github.com/mishmanners/TalksandEvents/assets/36594527/1b90f5a8-41ef-4322-a56d-7d2e51de6188)
+![Speaker card](https://github.com/mishmanners/TalksandEvents/assets/36594527/724325e4-9d1d-45b2-af31-ddc94583d520)
 
 ## Talk Title
 

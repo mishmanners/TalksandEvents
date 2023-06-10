@@ -49,6 +49,8 @@ These are the links to resources and references I mentioned in my talk:
 - [How to use GitHub Copilot for explaining code](https://dev.to/github/understand-your-code-using-github-copilot-5375)
 - [How to use GitHub Copilot for translating code](https://dev.to/github/how-to-translate-code-into-other-languages-using-github-copilot-3n6f)
 - [Practical use cases for GitHub Copilot](https://dev.to/github/why-use-github-copilot-and-copilot-labs-practical-use-cases-for-the-ai-pair-programmer-4hf4)
+- [Beginners' Guide to prompt engineering for GitHub Copilot](https://dev.to/github/a-beginners-guide-to-prompt-engineering-with-github-copilot-3ibp)
+- [Prompt engineering for AI](https://dev.to/github/prompt-engineering-for-ai-what-is-prompt-engineering-and-how-to-get-good-results-from-ai-engines-5ch6)
 - [GitHub YouTube](https://youtube.com/c/github)
 - [GitHub on TikTok](https://tiktok.com/github)
 - [GitHub on Twitter](https://twitter.com/github)

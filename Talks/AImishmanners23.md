@@ -32,6 +32,7 @@ These are the references I used in my talk:
 - [What is AI? Definition from IBM](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
 - Examples of AI: Siri, [Google Nest](https://thenextweb.com/news/google-nest-cam-ai-and-batteries), [Subaru Driver Assist](https://www.subaru.com.au/driver-monitoring-system), PhotoShop remove background, [Midjourney](https://www.midjourney.com/), [Fiesta](https://articlefiesta.com/)
 - [Chat GPT](https://chat-gpt.org/), [GitHub Copilot](https://copilot.github.com/)
+- [Prompt engineering for AI: what is prompt engineering and how to get good results from AI engines](https://dev.to/github/prompt-engineering-for-ai-what-is-prompt-engineering-and-how-to-get-good-results-from-ai-engines-5ch6)
 - [GitHub Copilot Developer Happiness study](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
 - [Top skills for future of work](https://learning.linkedin.com/blog/top-skills/the-skills-companies-need-most-in-2020and-how-to-learn-them)
 - [5 Skills needed for the future of work](https://dev.to/mishmanners/dont-let-the-robots-take-your-job-top-5-skills-needed-to-stay-employed-85e)

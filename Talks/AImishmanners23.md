@@ -42,7 +42,7 @@ These are the references I used in my talk:
 - [GitHub Copilot X](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
 - [Microsoft Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
 - AI in the workplace; as above, including: [Dall-E](https://openai.com/product/dall-e-2), [Bard](https://ai.google/), [IBM Watson](https://www.ibm.com/watson)
-- [There's an AI for that]()
+- [There's an AI for that](https://theresanaiforthat.com/)
 - [Where to learn for free](https://github.com/mishmanners/Free-Learning-Content)
 - [How to cultivate soft skills needed for the future of work](https://dev.to/mishmanners/5-tips-to-future-proof-your-career-how-to-outsmart-automation-62h)
 

@@ -52,6 +52,7 @@ These are the references I used in my talk:
 - [IT Leaders Call Generative AI a ‘Game Changer’ but Seek Progress on Ethics and Trust, by Salesforce](https://www.salesforce.com/news/stories/generative-ai-research/)
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
 - [Compare will a robot take my job](https://willrobotstakemyjob.com/)
+- [Interview with Geoffrey Hinton AKA the "Godfather of AI" - Impact and potential of AI](https://youtu.be/qpoRO378qRY)
 - [Prompt engineering for GitHub Copilot](https://dev.to/github/a-beginners-guide-to-prompt-engineering-with-github-copilot-3ibp)
 - [Using GitHub Copilot to build an app in 18 minutes](https://github.blog/2023-05-05-web-summit-rio-2023-building-an-app-in-18-minutes-with-github-copilot-x/)
 - [Links to MishManners social media](https://mishmanners.info)

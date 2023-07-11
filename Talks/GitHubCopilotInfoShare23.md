@@ -2,7 +2,7 @@
 
 This is a talk I gave at [InfoShare Poland in 2023](https://infoshare.pl/conference/speakers/#speaker2026).
 
-#### [Listen to the recording](). COMING SOON.
+#### [Listen to the recording](https://infoshare.pl/recordings/level-up-with-github-copilot-o2171gc191-one.html).
 
 ![OG_conference](https://github.com/mishmanners/TalksandEvents/assets/36594527/1b90f5a8-41ef-4322-a56d-7d2e51de6188)
 

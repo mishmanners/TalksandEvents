@@ -1,10 +1,8 @@
 # Digital Workplace Conference 2023 - AI and the future of work
 
-This is a talk I gave at [NDC Oslo 2023](https://www.programmable.tech/speakers/michelle-mannering).
+This is a talk I gave at the [Digital Workplace Conference 2023](https://dwcau.com.au/people/ad80056b-0514-4aa6-a6b8-f6f7826c3780).
 
 ![Speaker card](https://github.com/mishmanners/TalksandEvents/assets/36594527/200f9d78-83b8-429d-a7a7-e567e8af173f)
-
-[Listen to the recording](). COMING SOON.
 
 ## Talk Title
 

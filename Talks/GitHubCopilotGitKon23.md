@@ -4,7 +4,7 @@ This is a talk I gave at [GitKon 2023](https://www.gitkraken.com/gitkon).
 
 #### [Listen to the recording](). Coming soon.
 
-![OG_conference](https://github.com/mishmanners/TalksandEvents/assets/36594527/1b90f5a8-41ef-4322-a56d-7d2e51de6188)
+[add image here]
 
 ## Talk Title
 
@@ -12,7 +12,15 @@ This is a talk I gave at [GitKon 2023](https://www.gitkraken.com/gitkon).
 
 ## Abstract
 
-It's time you meet your AI pair programmer. Do you find yourself stuck on a chunk of code? GitHub Copilot can help you. GitHub Copilot can help you get unstuck by suggesting lines or code, whole functions, help you explain what you're trying to build, and even translate your code into other languages. Find out more about GitHub Copilot and watch everything in a demo.
+It's time you meet your AI pair programmer. Do you find yourself stuck on a chunk of code? Unsure of how best to center a div? GitHub Copilot can help. Get unstuck by seeing suggested lines or code, whole functions, and learn more about your development journey through having code explained, and even translate your code into other languages.
+
+Find out more about GitHub Copilot, new features, updates, and see a demo.
+
+The session will cover:
+- What is AI
+- How GitHub Copilot works
+- How to get better results from GitHub Copilot with prompt engineering (the art crafting effective prompts)
+- Power of conversational coding with GitHub Copilot Chat
 
 ## Resources and Links
 

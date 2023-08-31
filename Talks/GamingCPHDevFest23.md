@@ -41,6 +41,7 @@ These are the references I used in my talk:
 - _Legend of Zelda, Tears of the Kingdom_
 - _Forza Horizon 5_
 - _Age of Empires_
+- [Git Large File Storage](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-git-large-file-storage)
 - _Pokémon_
 - _Elder Scrolls Online_
 - _League of Legends_

@@ -42,6 +42,7 @@ These are the references I used in my talk:
 - _Forza Horizon 5_
 - _Age of Empires_
 - [Git Large File Storage](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-git-large-file-storage)
+- [Why you shouldn't use Git](https://gregoryszorc.com/blog/2021/05/12/why-you-shouldn%27t-use-git-lfs/)
 - _Pokémon_
 - _Elder Scrolls Online_
 - _League of Legends_

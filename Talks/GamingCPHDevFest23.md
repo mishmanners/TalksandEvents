@@ -15,7 +15,7 @@ This is a talk I gave at [Copenhagen Developers' Festival 2023](https://cphdevfe
 What is git, what is GitHub, how to use it for gaming; open source game engines that are available to use, issues/limitations when it comes to source control and gaming. I'll cover:
 
 - quick recap of git 🌩️
-- GitHub's main features 
+- GitHub's main non-code features 
 - collaboration and social coding
 - issues with git and gaming
 - open source game development
@@ -30,6 +30,10 @@ What is git, what is GitHub, how to use it for gaming; open source game engines 
 These are the references I used in my talk:
 
 - [My Octocat](https://myoctocat.com/?ref=producthunt) make your own GitHub mona octocat
+- [GitHub](https://github.com)
+- [GitHub's non-code features](https://dev.to/github/githubs-non-code-features-exploring-more-of-github-and-encouraging-your-non-dev-friends-1j1l)
+- [How to build GitHub forms](https://dev.to/github/how-to-build-google-like-forms-with-github-3ig2)
+- [GitHub Projects, AKA Planning and Tracking](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
 - [Unity LEGO preoject](https://github.com/mishmanners/LEGO-Unity)
 - _Final Fantasy VII Remake_
 - _Legend of Zelda, Tears of the Kingdom_
@@ -46,7 +50,8 @@ These are the references I used in my talk:
 
 ### Other Resources
 
-- [GitHub](https://github.com)
+- [GitHub Blog](https://github.blog/)
+- [Collaboration and its importance in DevOps](https://dev.to/github/the-importance-of-collaboration-a-devops-pillar-253d)
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
 - [GitHub YouTube](https://youtube.com/c/github)
 - [GitHub on TikTok](https://tiktok.com/github)

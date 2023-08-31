@@ -2,7 +2,7 @@
 
 This is a talk I gave at [Copenhagen Developers' Festival 2023](https://cphdevfest.com/speakers/michelle-mannering).
 
-![Speaker Card](https://github.com/mishmanners/TalksandEvents/assets/36594527/7edd4bbe-de9e-4266-9364-815a35de8b67)
+![Speaker Card](https://github.com/mishmanners/TalksandEvents/assets/36594527/a8754c8e-40f3-473e-8858-e27a30a9f305)
 
 [Listen to the recording](). COMING SOON.
 

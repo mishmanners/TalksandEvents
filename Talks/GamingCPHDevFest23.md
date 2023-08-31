@@ -35,6 +35,7 @@ These are the references I used in my talk:
 - [How to build GitHub forms](https://dev.to/github/how-to-build-google-like-forms-with-github-3ig2)
 - [Mish Friendly Food Repo](https://github.com/mishmanners/mish-friendly-food)
 - [GitHub Projects, AKA Planning and Tracking](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
+- [GitHub Discussions feedback](https://github.com/orgs/community/discussions/)
 - [Unity LEGO preoject](https://github.com/mishmanners/LEGO-Unity)
 - _Final Fantasy VII Remake_
 - _Legend of Zelda, Tears of the Kingdom_

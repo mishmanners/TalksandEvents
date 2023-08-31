@@ -14,12 +14,14 @@ This is a talk I gave at [Copenhagen Developers' Festival 2023](https://cphdevfe
 
 What is git, what is GitHub, how to use it for gaming; open source game engines that are available to use, issues/limitations when it comes to source control and gaming. I'll cover:
 
-- recap of git and GitHub; super quick 🌩️
+- quick recap of git 🌩️
+- GitHub's main features 
 - collaboration and social coding
 - issues with git and gaming
 - open source game development
 - how to get involved in video game dev
 - GitHub Game Bytes
+- What next?
 
 ## Resources and Links
 

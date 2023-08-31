@@ -33,6 +33,7 @@ These are the references I used in my talk:
 - [GitHub](https://github.com)
 - [GitHub's non-code features](https://dev.to/github/githubs-non-code-features-exploring-more-of-github-and-encouraging-your-non-dev-friends-1j1l)
 - [How to build GitHub forms](https://dev.to/github/how-to-build-google-like-forms-with-github-3ig2)
+- [Mish Friendly Food Repo](https://github.com/mishmanners/mish-friendly-food)
 - [GitHub Projects, AKA Planning and Tracking](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
 - [Unity LEGO preoject](https://github.com/mishmanners/LEGO-Unity)
 - _Final Fantasy VII Remake_

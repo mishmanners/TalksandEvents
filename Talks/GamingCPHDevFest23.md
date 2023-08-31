@@ -1,8 +1,8 @@
 # Copenhagen Developers Festival 2023 - git, GitHub, and gaming
 
-This is a talk I gave at [RenderATL 2023](https://www.renderatl.com/#speakers).
+This is a talk I gave at [Copenhagen Developers' Festival 2023](https://cphdevfest.com/speakers/michelle-mannering).
 
-![Speaker card 3](https://github.com/mishmanners/TalksandEvents/assets/36594527/8b01ca2f-db11-4792-8ac6-3363c0b473b9)
+![Speaker Card](https://github.com/mishmanners/TalksandEvents/assets/36594527/85dd5eee-3667-4317-9c03-5ba5365b88d0)
 
 [Listen to the recording](). COMING SOON.
 

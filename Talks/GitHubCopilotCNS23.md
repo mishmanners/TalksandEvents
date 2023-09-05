@@ -1,6 +1,6 @@
-# GitKon 2023 - Level up with GitHub Copilot
+# Cloud Native Summit 2023 - Level up with GitHub Copilot
 
-This is a talk I gave at [GitKon 2023](https://www.gitkraken.com/gitkon).
+This is a talk I gave at [Cloud Native Summit 2023](https://www.cloudnativesummit.co/Level-up-with-GitHub-Copilot.html).
 
 #### [Listen to the recording](). Coming soon.
 

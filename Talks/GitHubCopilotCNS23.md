@@ -31,6 +31,14 @@ These are the links to resources and references I mentioned in my talk:
 - [GitHub](https://github.com)
 - [What is GitHub](https://youtu.be/pBy1zgt0XPc)
 - [Definition of AI from IBM](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
+- [How Google Nest cameras work](https://thenextweb.com/news/google-nest-cam-ai-and-batteries)
+- [The Subaru Drive Assist monitoring system](https://www.subaru.com.au/driver-monitoring-system)
+- [Fiesta AI article writing program](https://articlefiesta.com/)
+- [Chat GPT](https://chat.openai.com/)
+- [Midjourney AI artwork generator](https://www.midjourney.com/home/)
+- [Night Cafe AI art generator](https://creator.nightcafe.studio/creation/O0iBOpUCgygcGNJsAz9I)
+- [AI programming extension for VS Code](https://marketplace.visualstudio.com/items?itemName=GalilAI.aicoding)
+- [Best AI programming extensions for VS Code](https://sourceforge.net/software/ai-coding-assistants/integrates-with-visual-studio-code/)
 - [GitHub Copilot](https://copilot.github.com/)
 - [GitHub Like a Boss repo for demo code](https://github.com/mishmanners/github-like-a-boss)
 - [Developer happiness - research study around GitHub Copilot](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
@@ -40,7 +48,6 @@ These are the links to resources and references I mentioned in my talk:
 - [Building an app live uisng GitHub Copilot Chat](https://github.blog/2023-05-05-web-summit-rio-2023-building-an-app-in-18-minutes-with-github-copilot-x/)
 - [Join the GitHub Copilot chat waitlist](https://github.com/github-copilot/chat_waitlist_signup/join)
 - [GitHub Copilot chat for organisations](https://github.blog/2023-07-20-github-copilot-chat-beta-now-available-for-every-organization/)
-
 
 ### More resources
 - [How GitHub Copilot took flight](https://www.youtube.com/watch?v=8JjVNFc2kK4&ab_channel=GitHub)

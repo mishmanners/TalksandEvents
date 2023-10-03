@@ -1,8 +1,10 @@
-# Digital Workplace Conference 2023 - AI and the future of work
+# Minnesota Developers Conference 2023 - AI and the future of work
 
-This is a talk I gave at the [Digital Workplace Conference 2023](https://dwcau.com.au/people/ad80056b-0514-4aa6-a6b8-f6f7826c3780).
+This is a talk I gave at the [Minnesota Developers Conference 2023]([https://dwcau.com.au/people/ad80056b-0514-4aa6-a6b8-f6f7826c3780](https://mdc.ilmservice.com/speakers/)).
 
 ![Bio](https://github.com/mishmanners/TalksandEvents/assets/36594527/b2cf2b5f-70fc-4911-81f0-6b724ac7425f)
+
+[Listen to the recording]() - coming soon.
 
 ## Talk Title
 

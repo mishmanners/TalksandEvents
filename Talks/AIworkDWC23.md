@@ -2,13 +2,13 @@
 
 This is a talk I gave at the [Minnesota Developers Conference 2023]([https://dwcau.com.au/people/ad80056b-0514-4aa6-a6b8-f6f7826c3780](https://mdc.ilmservice.com/speakers/)).
 
-![Bio](https://github.com/mishmanners/TalksandEvents/assets/36594527/b2cf2b5f-70fc-4911-81f0-6b724ac7425f)
+![F2duXSkXUAIuxLi](https://github.com/mishmanners/TalksandEvents/assets/36594527/f65610d9-d82e-4df0-acfc-6d7fc6fe50b4)
 
 [Listen to the recording]() - coming soon.
 
 ## Talk Title
 
-### AI 🤖 and the future of work: How to build resilience to ensure you still have a job!
+### AI 🤖 and the future of work: How to build resilience to ensure you still have a job
 
 ## Abstract
 

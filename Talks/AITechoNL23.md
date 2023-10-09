@@ -1,8 +1,8 @@
-# Minnesota Developers Conference 2023 - AI and the future of work
+# Techorama NL 2023 - AI and the future of work
 
-This is a talk I gave at the [Minnesota Developers Conference 2023]([https://dwcau.com.au/people/ad80056b-0514-4aa6-a6b8-f6f7826c3780](https://mdc.ilmservice.com/speakers/)).
+This is a talk I gave at the [Techorama Netherlands 2023](https://www.techorama.nl/speakers/session/level-up-with-github-copilot/).
 
-![F2duXSkXUAIuxLi](https://github.com/mishmanners/TalksandEvents/assets/36594527/f65610d9-d82e-4df0-acfc-6d7fc6fe50b4)
+![My talks](https://github.com/mishmanners/TalksandEvents/assets/36594527/a31a79c8-99fd-49b8-90f7-60fc38267225)
 
 [Listen to the recording]() - coming soon.
 

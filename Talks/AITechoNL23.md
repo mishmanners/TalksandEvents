@@ -1,6 +1,6 @@
 # Techorama NL 2023 - AI and the future of work
 
-This is a talk I gave at the [Techorama Netherlands 2023](https://www.techorama.nl/speakers/session/level-up-with-github-copilot/).
+This is a talk I gave at the [Techorama Netherlands 2023](https://www.techorama.nl/speakers/session/developing-resilience-for-the-future-of-work/).
 
 ![My talks](https://github.com/mishmanners/TalksandEvents/assets/36594527/a31a79c8-99fd-49b8-90f7-60fc38267225)
 

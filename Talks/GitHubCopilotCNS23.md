@@ -4,7 +4,7 @@ This is a talk I gave at [Cloud Native Summit 2023](https://www.cloudnativesummi
 
 #### [Listen to the recording](). Coming soon.
 
-[add image here]
+![Mish bio and pic](https://github.com/mishmanners/TalksandEvents/assets/36594527/eb44fe5b-14a0-4bba-b78a-1e513bd974c6)
 
 ## Talk Title
 

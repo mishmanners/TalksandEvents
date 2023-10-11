@@ -44,6 +44,7 @@ These are the references I used in my talk:
 - [AI raise GDP by 7%](https://www.goldmansachs.com/intelligence/pages/generative-ai-could-raise-global-gdp-by-7-percent.html)
 - [Top skills for future of work](https://learning.linkedin.com/blog/top-skills/the-skills-companies-need-most-in-2020and-how-to-learn-them)
 - [5 Skills needed for the future of work](https://dev.to/mishmanners/dont-let-the-robots-take-your-job-top-5-skills-needed-to-stay-employed-85e)
+- [Quote on resilience by Elizabeth Edwards](https://www.goodreads.com/author/quotes/6439373.Elizabeth_Edwards), and [her book on Resilience](https://www.amazon.com/Resilience-Reflections-Burdens-Facing-Adversities/dp/0767931564)
 - [Night Cafe](https://creator.nightcafe.studio/studio)
 - [GitHub Copilot X](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
 - AI in the workplace; as above, including: [Dall-E](https://openai.com/product/dall-e-2), [Bard](https://ai.google/), [IBM Watson](https://www.ibm.com/watson)

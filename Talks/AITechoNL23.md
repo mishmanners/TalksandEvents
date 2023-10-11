@@ -4,7 +4,7 @@ This is a talk I gave at the [Techorama Netherlands 2023](https://www.techorama.
 
 ![My talks](https://github.com/mishmanners/TalksandEvents/assets/36594527/a31a79c8-99fd-49b8-90f7-60fc38267225)
 
-[Listen to the recording]() - coming soon.
+This talk was not recorded.
 
 ## Talk Title
 

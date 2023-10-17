@@ -45,6 +45,9 @@ These are the references I used in my talk:
 - _Elder Scrolls Online_
 - _League of Legends_
 - [Game companies using GitHub](https://github.com/leereilly/games#major-companies)
+- [Perforce](https://www.perforce.com/solutions/game-development)
+- [Resources for game devs](https://www.perforce.com/resources/vcs/game-dev-resources)
+- _Assassin's Creed Mirage_
 - [Open source game engines](https://itch.io/jam/game-off-2022)
 - [GitHub Game Off](https://itch.io/jam/game-off-2022)
 - [Currently running game jams](https://itch.io/jams)

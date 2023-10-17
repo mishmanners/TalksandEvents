@@ -1,4 +1,4 @@
-# Copenhagen Developers Festival 2023 - git, GitHub, and gaming
+# All Things Open 2023 - git, GitHub, and gaming
 
 This is a talk I gave at [Copenhagen Developers' Festival 2023](https://cphdevfest.com/speakers/michelle-mannering).
 

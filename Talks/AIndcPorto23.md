@@ -2,6 +2,8 @@
 
 This is the talk I gave at [NDC Porto in 2023](https://ndcporto.com/speakers/michelle-mannering).
 
+![Speaker card](https://github.com/mishmanners/TalksandEvents/assets/36594527/da9752ee-c69a-4e5c-b694-acfaf7cc944a)
+
 Listen to the recording - [COMING SOON]().
 
 ## Talk Title

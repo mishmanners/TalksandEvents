@@ -1,5 +1,4 @@
-# Artificial Intelligence (AI) and the future of work
-### How to build resilience and ensure you still have a job
+# Minnesota Developers Conference - Artificial Intelligence (AI) and the future of work
 
 ![F2duXSkXUAIuxLi](https://github.com/mishmanners/TalksandEvents/assets/36594527/f68feeaf-1140-4704-970a-591f9fdfe3dd)
 
@@ -7,7 +6,7 @@ This is for the talk I gave at [Minnesota Developers Conference](https://mdc.ilm
 
 ## Talk Title
 
-### AI 🤖 and the future of work: How to build resilience to ensure you still have a job!
+### AI 🤖 and the future of work: How to build resilience to ensure you still have a job
 
 ## Abstract
 

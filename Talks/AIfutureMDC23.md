@@ -3,7 +3,7 @@
 
 ![F2duXSkXUAIuxLi](https://github.com/mishmanners/TalksandEvents/assets/36594527/f68feeaf-1140-4704-970a-591f9fdfe3dd)
 
-This is for the talk I gave at Minnesota Developers Conference. It was not recorded.
+This is for the talk I gave at [Minnesota Developers Conference](https://mdc.ilmservice.com/speakers/michelle-mannering). It was not recorded.
 
 ## Talk Title
 

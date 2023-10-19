@@ -1,9 +1,12 @@
-# Artificial Intelligence (AI) and the future of work
-### How to build resilience and ensure you still have a job
+# NDC Porto 2023 - Artificial Intelligence (AI) and the future of work
+
+This is the talk I gave at [NDC Porto in 2023](https://ndcporto.com/speakers/michelle-mannering).
+
+Listen to the recording - [COMING SOON]().
 
 ## Talk Title
 
-### AI 🤖 and the future of work: How to build resilience to ensure you still have a job!
+### AI 🤖 and the future of work: How to build resilience to ensure you still have a job
 
 ## Abstract
 

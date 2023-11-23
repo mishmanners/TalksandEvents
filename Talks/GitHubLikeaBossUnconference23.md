@@ -1,4 +1,4 @@
-![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/ab854fa1-b486-45ee-b7c3-00d08aef33dd)![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/fbc290a1-b988-4837-997f-0eabdb109c72)![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/9a01ff03-1e93-443c-9845-18f2481cb8b1)![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/d9cc6d02-6d51-4810-88fe-3c85a7d54d34)![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/2974c1bd-ec94-44f7-b3e0-16a7390274ca)# ANZ Unconference 2023 - GitHub Like a Boss
+# ANZ Unconference 2023 - GitHub Like a Boss
 
 This is the talk I gave at [The Unconference 2023](https://www.eventbrite.com.au/e/anz-unconference23-devops-open-day-registration-tickets-735028067737).
 
@@ -59,6 +59,18 @@ These are the references I used in my talk:
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
 - [Prompt engineering for GitHub Copilot](https://dev.to/github/a-beginners-guide-to-prompt-engineering-with-github-copilot-3ibp)
 - [Using GitHub Copilot to build an app in 18 minutes](https://github.blog/2023-05-05-web-summit-rio-2023-building-an-app-in-18-minutes-with-github-copilot-x/)
+- [How GitHub Copilot took flight](https://www.youtube.com/watch?v=8JjVNFc2kK4&ab_channel=GitHub)
+- [Getting start with GitHub Copilot chat](https://www.youtube.com/watch?v=3surPGP7_4o&ab_channel=GitHub)
+- [OpenAI Codex Demo](https://youtu.be/SGUCcjHTmGY)
+- [Play with the Codex](https://webcatalog.io/apps/openai-playground/)
+- [Read more about GPT-4](https://neuroflash.com/blog/gpt-4-open-ai/)
+- [How to use GitHub Copilot for explaining code](https://dev.to/github/understand-your-code-using-github-copilot-5375)
+- [How to use GitHub Copilot for translating code](https://dev.to/github/how-to-translate-code-into-other-languages-using-github-copilot-3n6f)
+- [Practical use cases for GitHub Copilot](https://dev.to/github/why-use-github-copilot-and-copilot-labs-practical-use-cases-for-the-ai-pair-programmer-4hf4)
+- [GitHub CLI commands](https://cli.github.com/manual)
+- [GitHub CLI for SSH](https://dev.to/github/how-to-never-type-passwords-when-using-git-18bb)
+- [GitHub CLI extensions](https://github.com/topics/gh-extension)
+- [How to create GitHub CLI extensions](https://docs.github.com/en/github-cli/github-cli/creating-github-cli-extensions)
 - [Links to MishManners social media](https://mishmanners.info)
 
 Thank you for listening to my talk and checking out the resources.

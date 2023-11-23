@@ -1,8 +1,8 @@
-# NDC Porto 2023 - Artificial Intelligence (AI) and the future of work
+# ANZ Unconference 2023 - GitHub Like a Boss
 
-This is the talk I gave at [NDC Porto in 2023](https://ndcporto.com/speakers/michelle-mannering).
+This is the talk I gave at [The Unconference 2023](https://www.eventbrite.com.au/e/anz-unconference23-devops-open-day-registration-tickets-735028067737).
 
-![Speaker card](https://github.com/mishmanners/TalksandEvents/assets/36594527/da9752ee-c69a-4e5c-b694-acfaf7cc944a)
+
 
 Listen to the recording - [COMING SOON]().
 

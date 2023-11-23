@@ -2,24 +2,17 @@
 
 This is the talk I gave at [The Unconference 2023](https://www.eventbrite.com.au/e/anz-unconference23-devops-open-day-registration-tickets-735028067737).
 
+![https___cdn evbuc com_images_621826989_173029763825_1_original](https://github.com/mishmanners/TalksandEvents/assets/36594527/c1951b8e-2ead-496a-b04b-eb0a6cddccc0)
 
-
-Listen to the recording - [COMING SOON]().
+This talk was not recorded.
 
 ## Talk Title
 
-### AI 🤖 and the future of work: How to build resilience to ensure you still have a job
+### GitHub Like a Boss - the latest updates, tips, and tricks
 
 ## Abstract
 
-With the rise of AI and automation, how do we as humans find our value in the workplace? How do we work with these new technologies? How do we build resilience to changes? What skills are needed for us to thrive in this new world?
-
-People have often felt apprehensive about change, especially big changes to the way we work. It happened in the industrial revolution and now it's happening with the rise of artificial intelligence. Five years ago these things existed, but now they are accessible to almost everyone. In this session I'll cover:
-
-- why people want to work
-- why it's important for us to have a place in the world
-- what skills are needed for the "future of work"
-- how we build resilience, problem solving, and critical thinking
+Join MishManners from GitHub to share all your tips and tricks, Mish will be throwing in some of her own personal favourites and dig into the latest feature announcements.
 
 ## Resources and Links
 

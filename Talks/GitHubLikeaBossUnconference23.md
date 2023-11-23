@@ -1,4 +1,4 @@
-# ANZ Unconference 2023 - GitHub Like a Boss
+![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/41024c38-1a12-4d4b-ad52-1d437af2a980)# ANZ Unconference 2023 - GitHub Like a Boss
 
 This is the talk I gave at [The Unconference 2023](https://www.eventbrite.com.au/e/anz-unconference23-devops-open-day-registration-tickets-735028067737).
 
@@ -29,6 +29,7 @@ These are the references I used in my talk:
 - [Security overview dashboard](https://docs.github.com/en/enterprise-cloud@latest/code-security/security-overview/viewing-security-insights-for-your-organization)
 - [GitHub Enterprise Server](https://docs.github.com/en/enterprise-server@3.9/admin/overview/about-github-enterprise-server)
 - [Managing custom org level roles](https://docs.github.com/en/enterprise-cloud@latest/organizations/managing-peoples-access-to-your-organization-with-roles/managing-custom-organization-roles)
+- [Creating rulesets at the org level](https://github.blog/changelog/2023-10-12-github-repository-custom-properties-beta/)
 - [GitHub Projects powered by GitHub Issues](https://github.com/features/issues)
 - [Project templates](https://github.com/github/releases/issues/2930)
 - [Project swimlanes and repository groups](https://github.blog/changelog/2023-07-27-github-issues-projects-july-27th-update/)

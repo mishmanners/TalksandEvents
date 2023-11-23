@@ -1,4 +1,4 @@
-# ANZ Unconference 2023 - GitHub Like a Boss
+![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/9a01ff03-1e93-443c-9845-18f2481cb8b1)![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/d9cc6d02-6d51-4810-88fe-3c85a7d54d34)![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/2974c1bd-ec94-44f7-b3e0-16a7390274ca)# ANZ Unconference 2023 - GitHub Like a Boss
 
 This is the talk I gave at [The Unconference 2023](https://www.eventbrite.com.au/e/anz-unconference23-devops-open-day-registration-tickets-735028067737).
 
@@ -20,34 +20,33 @@ Join MishManners from GitHub to share all your tips and tricks, Mish will be thr
 
 These are the references I used in my talk:
 
-- _Minority Report_ (Future of Work)
-- _Wall-E_ (Future of Work)
-- [Will a robot take my job?](time.com/robots-jobs-machines-work)
-- [Gary Kasparov's TED talk](https://www.ted.com/talks/garry_kasparov_don_t_fear_intelligent_machines_work_with_them?language=en)
-- [What is machine learning?](https://www.javatpoint.com/types-of-machine-learning)
-- Jarvis from _Iron Man_ (AI is becoming much more obtainable)
-- [What is AI? Definition from IBM](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
-- Examples of AI: Siri, [Google Nest](https://thenextweb.com/news/google-nest-cam-ai-and-batteries), [Subaru Driver Assist](https://www.subaru.com.au/driver-monitoring-system), PhotoShop remove background, [Midjourney](https://www.midjourney.com/), [Fiesta](https://articlefiesta.com/)
-- [Chat GPT](https://chat-gpt.org/), [GitHub Copilot](https://copilot.github.com/)
-- [Prompt engineering for AI: what is prompt engineering and how to get good results from AI engines](https://dev.to/github/prompt-engineering-for-ai-what-is-prompt-engineering-and-how-to-get-good-results-from-ai-engines-5ch6)
-- [Compare will a robot take my job](https://willrobotstakemyjob.com/)
-- [GitHub Copilot Developer Happiness study](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
-- [Generative AI productivity boost](https://www.forbes.com/sites/brentdykes/2023/04/12/generative-ai-why-an-ai-enabled-workforce-is-a-productivity-game-changer)
-- [AI raise GDP by 7%](https://www.goldmansachs.com/intelligence/pages/generative-ai-could-raise-global-gdp-by-7-percent.html)
-- [Top skills for future of work](https://learning.linkedin.com/blog/top-skills/the-skills-companies-need-most-in-2020and-how-to-learn-them)
-- [5 Skills needed for the future of work](https://dev.to/mishmanners/dont-let-the-robots-take-your-job-top-5-skills-needed-to-stay-employed-85e)
-- [Night Cafe](https://creator.nightcafe.studio/studio)
-- [GitHub Copilot X](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
-- [Microsoft Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
-- AI in the workplace; as above, including: [Dall-E](https://openai.com/product/dall-e-2), [Bard](https://ai.google/), [IBM Watson](https://www.ibm.com/watson)
-- [There's an AI for that](https://theresanaiforthat.com/)
-- [Where to learn for free](https://github.com/mishmanners/Free-Learning-Content)
-- [How to cultivate soft skills needed for the future of work](https://dev.to/mishmanners/5-tips-to-future-proof-your-career-how-to-outsmart-automation-62h)
+- [GitHub](https://github.com)
+- [Watch GitHub Universe](https://githubuniverse.com)
+- [GitHub Universe all the announcements](https://github.blog/2023-11-15-universes-key-takeaway-innovate-better-with-ai-powered-workflows-on-a-single-unified-platform/)
+- [AI powered security](https://github.blog/2023-11-08-ai-powered-appsec/)
+- [Join the waitlist for AI-Powered AppSec](https://github.com/features/preview/security)
+- [Security risk overview](https://github.com/github/roadmap/issues/789) and [more](https://github.com/github/roadmap/issues/791)
+- [Security overview dashboard](https://docs.github.com/en/enterprise-cloud@latest/code-security/security-overview/viewing-security-insights-for-your-organization)
+- [GitHub Enterprise Server](https://docs.github.com/en/enterprise-server@3.9/admin/overview/about-github-enterprise-server)
+- [Managing custom org level roles](https://docs.github.com/en/enterprise-cloud@latest/organizations/managing-peoples-access-to-your-organization-with-roles/managing-custom-organization-roles)
+- [GitHub Projects powered by GitHub Issues](https://github.com/features/issues)
+- [Project templates](https://github.com/github/releases/issues/2930)
+- [Project swimlanes and repository groups](https://github.blog/changelog/2023-07-27-github-issues-projects-july-27th-update/)
+- [GitHub Copilot](https://github.com/features/copilot/)
+- [What is GitHub Copilot](https://youtu.be/Z7hp241--vc)
+- [Developer productivity with GitHub Copilot](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
+- [Join the waitlist for GitHub Copilot chat for JetBrains IDEs](https://github.com/github-copilot/chat_jetbrains_waitlist_signup/join)
+- [GitHub Copilot for CLI](https://githubnext.com/projects/copilot-cli/)
+- [GitHUb Copilot in the CLI is avaialble in public beta](https://docs.github.com/en/copilot/github-copilot-in-the-cli)
+- [GitHub Copilot for Business](https://resources.github.com/copilot-for-business/)
+- [GitHub Copilot context exclusions](https://docs.github.com/en/copilot/managing-copilot-business/configuring-content-exclusions-for-github-copilot)
+- [GitHub Copilot Enterprise](https://docs.github.com/en/enterprise-cloud@latest/copilot/github-copilot-enterprise/overview/about-github-copilot-enterprise)
+- [Join the waitlist for GitHub Copilot Enterprise](https://github.com/github-copilot/copilot_enterprise_waitlist_signup/join)
+- [GitHub Copilot for Pull Requests](https://githubnext.com/projects/copilot-for-pull-requests/)
 
 ### Other Resources
 
-- [Artificial intelligence will both disrupt and benefit the workplace, by Stanford](https://news.stanford.edu/2018/05/17/artificial-intelligence-workplace/)
-- [IT Leaders Call Generative AI a ‘Game Changer’ but Seek Progress on Ethics and Trust, by Salesforce](https://www.salesforce.com/news/stories/generative-ai-research/)
+- [GitHub Next - what GitHub is working on](https://githubnext.com/)
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
 - [Interview with Geoffrey Hinton AKA the "Godfather of AI" - Impact and potential of AI](https://youtu.be/qpoRO378qRY)
 - [Prompt engineering for GitHub Copilot](https://dev.to/github/a-beginners-guide-to-prompt-engineering-with-github-copilot-3ibp)

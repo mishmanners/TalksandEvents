@@ -1,4 +1,4 @@
-![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/9a01ff03-1e93-443c-9845-18f2481cb8b1)![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/d9cc6d02-6d51-4810-88fe-3c85a7d54d34)![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/2974c1bd-ec94-44f7-b3e0-16a7390274ca)# ANZ Unconference 2023 - GitHub Like a Boss
+![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/ab854fa1-b486-45ee-b7c3-00d08aef33dd)![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/fbc290a1-b988-4837-997f-0eabdb109c72)![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/9a01ff03-1e93-443c-9845-18f2481cb8b1)![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/d9cc6d02-6d51-4810-88fe-3c85a7d54d34)![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/2974c1bd-ec94-44f7-b3e0-16a7390274ca)# ANZ Unconference 2023 - GitHub Like a Boss
 
 This is the talk I gave at [The Unconference 2023](https://www.eventbrite.com.au/e/anz-unconference23-devops-open-day-registration-tickets-735028067737).
 
@@ -43,12 +43,20 @@ These are the references I used in my talk:
 - [GitHub Copilot Enterprise](https://docs.github.com/en/enterprise-cloud@latest/copilot/github-copilot-enterprise/overview/about-github-copilot-enterprise)
 - [Join the waitlist for GitHub Copilot Enterprise](https://github.com/github-copilot/copilot_enterprise_waitlist_signup/join)
 - [GitHub Copilot for Pull Requests](https://githubnext.com/projects/copilot-for-pull-requests/)
+- [Personalised GitHub Copilot fine-tuned models](https://github.com/github-copilot/fine_tuning_waitlist_signup/join)
+- [Apply to the GitHUb Copilot partner program](https://github.com/features/preview/copilot-partner-program)
+- [GitHub Certifications](https://resources.github.com/learn/certifications/)
+- [GitHub on X, formerly Twitter]()
+- [GitHub on Instagram](https://www.instagram.com/github)
+- [GitHub on YouTube](https://www.youtube.com/@GitHub)
+- [GitHub on LinkedIn](https://www.linkedin.com/company/github/)
+- [GitHub on Facebook](https://www.facebook.com/GitHub/)
+- [GitHub on TikTok](https://www.tiktok.com/@github)
 
 ### Other Resources
 
 - [GitHub Next - what GitHub is working on](https://githubnext.com/)
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
-- [Interview with Geoffrey Hinton AKA the "Godfather of AI" - Impact and potential of AI](https://youtu.be/qpoRO378qRY)
 - [Prompt engineering for GitHub Copilot](https://dev.to/github/a-beginners-guide-to-prompt-engineering-with-github-copilot-3ibp)
 - [Using GitHub Copilot to build an app in 18 minutes](https://github.blog/2023-05-05-web-summit-rio-2023-building-an-app-in-18-minutes-with-github-copilot-x/)
 - [Links to MishManners social media](https://mishmanners.info)

@@ -1,4 +1,4 @@
-![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/41024c38-1a12-4d4b-ad52-1d437af2a980)# ANZ Unconference 2023 - GitHub Like a Boss
+# ANZ Unconference 2023 - GitHub Like a Boss
 
 This is the talk I gave at [The Unconference 2023](https://www.eventbrite.com.au/e/anz-unconference23-devops-open-day-registration-tickets-735028067737).
 

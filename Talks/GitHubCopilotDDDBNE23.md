@@ -1,8 +1,8 @@
-![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/41024c38-1a12-4d4b-ad52-1d437af2a980)# ANZ Unconference 2023 - GitHub Like a Boss
+# DDD Brisbane 2023 - Level up with GitHub Copilot
 
 This is the talk I gave at [The Unconference 2023](https://www.eventbrite.com.au/e/anz-unconference23-devops-open-day-registration-tickets-735028067737).
 
-![https___cdn evbuc com_images_621826989_173029763825_1_original](https://github.com/mishmanners/TalksandEvents/assets/36594527/c1951b8e-2ead-496a-b04b-eb0a6cddccc0)
+
 
 This talk was not recorded.
 

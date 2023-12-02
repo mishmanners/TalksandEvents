@@ -1,10 +1,9 @@
 # DDD Brisbane 2023 - Level up with GitHub Copilot
 
-This is the talk I gave at [The Unconference 2023](https://www.eventbrite.com.au/e/anz-unconference23-devops-open-day-registration-tickets-735028067737).
+![DDD Talk promo](https://github.com/mishmanners/TalksandEvents/assets/36594527/bc866619-830b-44f5-8bfa-994db0b00478)
 
 
-
-This talk was not recorded.
+This is the talk I gave at [DDD Brisbane 2023](https://www.dddbrisbane.com/agenda).
 
 ## Talk Title
 

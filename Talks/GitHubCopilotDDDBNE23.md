@@ -2,16 +2,23 @@
 
 ![DDD Talk promo](https://github.com/mishmanners/TalksandEvents/assets/36594527/bc866619-830b-44f5-8bfa-994db0b00478)
 
-
 This is the talk I gave at [DDD Brisbane 2023](https://www.dddbrisbane.com/agenda).
 
 ## Talk Title
 
-### GitHub Like a Boss - the latest updates, tips, and tricks
+### Level up with GitHub Copilot: Using AI to help you learn, code, and build
 
 ## Abstract
 
-Join MishManners from GitHub to share all your tips and tricks, Mish will be throwing in some of her own personal favourites and dig into the latest feature announcements.
+It's time you meet your AI pair programmer. Do you find yourself stuck on a chunk of code? Unsure of how best to center a div? GitHub Copilot can help. Get unstuck by seeing suggested lines or code, whole functions, and learn more about your development journey through having code explained, and even translate your code into other languages.
+
+Find out more about GitHub Copilot, new features, updates, and see a demo.
+
+The session will cover:
+- What is AI
+- How GitHub Copilot works
+- How to get better results from GitHub Copilot with prompt engineering (the art crafting effective prompts)
+- Power of conversational coding with GitHub Copilot Chat
 
 ## Resources and Links
 

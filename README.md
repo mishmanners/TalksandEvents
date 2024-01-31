@@ -6,7 +6,7 @@ Hi, and thanks for finding your way to this corner of the internet.
 
 This is a list of resources and links from Mish's talks. You'll find the talk and event under the ["Talks" folder](https://github.com/mishmanners/TalksandEvents/tree/main/Talks). Click the appropriate markdown file and check out all the resources.
 
-### Don't forget to follow me around for talk updates, links to events, and more:
+### Don't forget to follow me for talk updates, links to events, and more:
 
 <p align="left">
 <a href="http://twitter.com/MishManners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a> 

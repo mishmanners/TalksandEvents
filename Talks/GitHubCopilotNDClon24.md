@@ -1,6 +1,10 @@
 # NDC London 2024 - Level up with GitHub Copilot
 
-This is the talk I gave at [DDD Brisbane 2023](https://www.dddbrisbane.com/agenda).
+![Speaker card](https://github.com/mishmanners/TalksandEvents/assets/36594527/502c4b41-0410-4c1c-80b8-2b2469e81169)
+
+This is the talk I gave at [NDC London 2024](https://ndclondon.com/agenda/level-up-with-github-copilot-using-ai-to-learn-code-and-build-0nw3/0jzbqlvym3b).
+
+**[Recording coming soon]**
 
 ## Talk Title
 
@@ -14,9 +18,11 @@ Find out more about GitHub Copilot, new features, updates, and see a demo.
 
 The session will cover:
 - What is AI
+- Applications of AI
 - How GitHub Copilot works
 - How to get better results from GitHub Copilot with prompt engineering (the art crafting effective prompts)
 - Power of conversational coding with GitHub Copilot Chat
+- What's coming next
 
 ## Resources and Links
 
@@ -30,6 +36,7 @@ These are the references I used in my talk:
 - [Chat GPT](https://chat.openai.com/)
 - [Midjourney AI artwork generator](https://www.midjourney.com/home/)
 - [Night Cafe AI art generator](https://creator.nightcafe.studio/creation/O0iBOpUCgygcGNJsAz9I)
+- [Microsoft Designer](https://designer.microsoft.com/)
 - [AI programming extension for VS Code](https://marketplace.visualstudio.com/items?itemName=GalilAI.aicoding)
 - [Best AI programming extensions for VS Code](https://sourceforge.net/software/ai-coding-assistants/integrates-with-visual-studio-code/)
 - [GitHub Copilot](https://copilot.github.com/)

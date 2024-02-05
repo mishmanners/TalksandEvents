@@ -1,14 +1,14 @@
 # State of Open Con 2024 - Building resilience for the future of work
 
-This is a talk I gave at the [Techorama Netherlands 2023](https://www.techorama.nl/speakers/session/developing-resilience-for-the-future-of-work/).
+This is a talk I gave at the [State of Open Con 2024](https://stateofopencon.com/schedule2024/).
 
-![My talks](https://github.com/mishmanners/TalksandEvents/assets/36594527/a31a79c8-99fd-49b8-90f7-60fc38267225)
+![Speaker card](https://github.com/mishmanners/TalksandEvents/assets/36594527/4732ce28-d73d-463e-8577-f364868c371c)
 
 This talk was not recorded.
 
 ## Talk Title
 
-### AI 🤖 and the future of work: How to build resilience to ensure you still have a job
+### AI  and the future of work: How to build resilience to ensure you still have a job
 
 ## Abstract
 

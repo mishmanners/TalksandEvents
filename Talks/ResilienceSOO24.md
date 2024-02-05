@@ -1,4 +1,4 @@
-# Techorama NL 2023 - AI and the future of work
+# State of Open Con 2024 - Building resilience for the future of work
 
 This is a talk I gave at the [Techorama Netherlands 2023](https://www.techorama.nl/speakers/session/developing-resilience-for-the-future-of-work/).
 

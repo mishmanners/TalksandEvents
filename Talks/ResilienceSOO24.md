@@ -2,7 +2,7 @@
 
 This is a talk I gave at the [State of Open Con 2024](https://stateofopencon.com/schedule2024/).
 
-![Speaker card](https://github.com/mishmanners/TalksandEvents/assets/36594527/4732ce28-d73d-463e-8577-f364868c371c)
+![Speaker cardDuke](https://github.com/mishmanners/TalksandEvents/assets/36594527/8b249fb4-9d72-4f9d-9526-592c0cdeb42d)
 
 This talk was not recorded.
 

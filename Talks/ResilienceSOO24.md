@@ -1,4 +1,4 @@
-# State of Open Con 2024 - Building resilience for the future of work
+# State of Open Con 2024 - Developing resilience for the future of work
 
 This is a talk I gave at the [State of Open Con 2024](https://stateofopencon.com/schedule2024/).
 
@@ -12,13 +12,12 @@ This talk was not recorded.
 
 ## Abstract
 
-With the rise of AI and automation, how do we as humans find our value in the workplace? How do we work with these new technologies? How do we build resilience to changes? What skills are needed for us to thrive in this new world?
+With the rise of AI and automation, how do we as humans find our value in the workplace? How do we work with these new technologises? How do we build resilience to changes? What skills are needed for us to thrive in this new world?
 
 People have often felt apprehensive about change, especially big changes to the way we work. It happened in the industrial revolution and now it's happening with the rise of artificial intelligence. Five years ago these things existed, but now they are accessible to almost everyone. In this session I'll cover:
-
-- why people want to work
-- why it's important for us to have a place in the world
+- the age of AI
 - what skills are needed for the "future of work"
+- working with AI
 - how we build resilience, problem solving, and critical thinking
 
 ## Resources and Links

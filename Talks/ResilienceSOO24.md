@@ -30,12 +30,12 @@ These are the references I used in my talk:
 - Examples of AI: - AI in the workplace; as above, including: [Chat GPT](https://chat-gpt.org/), [IBM Watson](https://www.ibm.com/watson), [Lensa](https://prisma-ai.com/lensa), [Microsoft Designer](https://designer.microsoft.com/), [Microsoft 365 Copilot](https://adoption.microsoft.com/en-us/copilot/), [Adobe Firefly](https://www.adobe.com/products/firefly.html), [Dall-E](https://openai.com/product/dall-e-2), [Synthesia](https://www.synthesia.io/), [GitHub Copilot](https://copilot.github.com/), [Midjourney](https://www.midjourney.com/explore), [Bard](https://ai.google/)
 - [There's an AI for that](https://theresanaiforthat.com/)
 - [Will a robot take my job?](time.com/robots-jobs-machines-work)
-- [Gary Kasparov's TED talk](https://www.ted.com/talks/garry_kasparov_don_t_fear_intelligent_machines_work_with_them?language=en)
 - [What is machine learning?](https://www.javatpoint.com/types-of-machine-learning)
 - [What is AI? Definition from IBM](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
 - [AI raise GDP by 7%](https://www.goldmansachs.com/intelligence/pages/generative-ai-could-raise-global-gdp-by-7-percent.html)
 - [Top skills for future of work](https://learning.linkedin.com/blog/top-skills/the-skills-companies-need-most-in-2020and-how-to-learn-them)
 - [5 Skills needed for the future of work](https://dev.to/mishmanners/dont-let-the-robots-take-your-job-top-5-skills-needed-to-stay-employed-85e)
+- Bumblebee and Charlie from _Bumblebee_
 - [Quote on resilience by Elizabeth Edwards](https://www.goodreads.com/author/quotes/6439373.Elizabeth_Edwards), and [her book on Resilience](https://www.amazon.com/Resilience-Reflections-Burdens-Facing-Adversities/dp/0767931564)
 - Developing with AI including: [Open AI](https://openai.com/product), [Meta AI](https://ai.meta.com/resources/models-and-libraries/), [Tensorflow](https://www.tensorflow.org/), [NVIDIA Developer](https://developer.nvidia.com/deep-learning), and [PyTorch](https://pytorch.org/features/)
 - [Where to learn for free](https://github.com/mishmanners/Free-Learning-Content)

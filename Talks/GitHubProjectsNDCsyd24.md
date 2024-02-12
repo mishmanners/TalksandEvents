@@ -25,6 +25,12 @@ In this talk, you'll see GitHub Projects in action, and see how I used GitHub is
 These are the references I used in my talk:
 
 - [Create your own Octocat](https://myoctocat.com/?ref=producthunt)
+- [GitHub Projects, powered by GitHub Issues](https://github.com/features/issues)
+- [GitHub Issues overview video](https://youtu.be/o1wuW24Nv4E)
+- [Planning and tracking with GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects)
+- [All about GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
+- 
+- [Using GitHub Projects for feature planning](https://youtu.be/yFQ-p6wMS_Y)
 
 ### Other Resources
 

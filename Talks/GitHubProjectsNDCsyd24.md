@@ -28,8 +28,16 @@ These are the references I used in my talk:
 
 ### Other Resources
 
-
+- [GitHub](https://github.com)
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
+- [Top Tips for using GitHub](https://dev.to/mishmanners/top-tips-for-using-github-l4m)
+- [Importance of Collaboration](https://dev.to/mishmanners/the-importance-of-collaboration-a-devops-pillar-253d)
+- [GitHub Tools for non-developers](https://dev.to/mishmanners/githubs-non-code-features-exploring-more-of-github-and-encouraging-your-non-dev-friends-1j1l)
+- [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
+- [GitHub YouTube](https://youtube.com/c/github)
+- [GitHub on TikTok](https://tiktok.com/github)
+- [GitHub on Twitter](https://twitter.com/github)
+- [GitHub on Instagram](https://instagram.com/github)
 - [Links to MishManners social media](https://mishmanners.info)
 
 Thank you for listening to my talk and checking out the resources.

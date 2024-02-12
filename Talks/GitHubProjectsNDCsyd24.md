@@ -1,23 +1,22 @@
-# Minnesota Developers Conference - Artificial Intelligence (AI) and the future of work
+# NDC Sydney 2024 - How I used GitHub Projects to move my house
 
-![F2duXSkXUAIuxLi](https://github.com/mishmanners/TalksandEvents/assets/36594527/f68feeaf-1140-4704-970a-591f9fdfe3dd)
 
-This is for the talk I gave at [Minnesota Developers Conference](https://mdc.ilmservice.com/speakers/michelle-mannering). It was not recorded.
+
+This is for the talk I gave at [NDC Sydney 2024](https://ndcsydney.com/agenda/how-i-used-github-projects-to-move-my-house-0ww1/0pdlfog1wij).
+
+[Recording coming soon]().
 
 ## Talk Title
 
-### AI 🤖 and the future of work: How to build resilience to ensure you still have a job
+### How I used GitHub Projects to move my house
 
 ## Abstract
 
-With the rise of AI and automation, how do we as humans find our value in the workplace? How do we work with these new technologies? How do we build resilience to changes? What skills are needed for us to thrive in this new world?
+GitHub Projects is an often forgotten or underutilised GitHub feature. It's a powerful tool for managing your projects, whether they be software development, or a personal hobby.
 
-People have often felt apprehensive about change, especially big changes to the way we work. It happened in the industrial revolution and now it's happening with the rise of artificial intelligence. Five years ago these things existed, but now they are accessible to almost everyone. In this session I'll cover:
+This adaptable, flexible tool for planning and tracking work can be used by developers and non-developers alike. It's one of the best ways you can have your team working together across all disciplines.
 
-- why people want to work
-- why it's important for us to have a place in the world
-- what skills are needed for the "future of work"
-- how we build resilience, problem solving, and critical thinking
+In this talk, you'll see GitHub Projects in action, and see how I used GitHub issues, forms, tasks, milestones, timelines, and automation to help plan my house move.
 
 ## Resources and Links
 

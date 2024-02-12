@@ -24,7 +24,7 @@ In this talk, you'll see GitHub Projects in action, and see how I used GitHub is
 
 These are the references I used in my talk:
 
--
+- [Create your own Octocat](https://myoctocat.com/?ref=producthunt)
 
 ### Other Resources
 

@@ -29,8 +29,20 @@ These are the references I used in my talk:
 - [GitHub Issues overview video](https://youtu.be/o1wuW24Nv4E)
 - [Planning and tracking with GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects)
 - [All about GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
-- 
+- [Customising your Project board](https://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/customizing-the-board-layout)
+- [GitHub Actions - customising automation](https://github.com/features/actions)
+- [GitHub Global Projects](https://github.blog/changelog/2023-11-30-github-issues-projects-november-30th-update/)
+- [Migrating from GitHub Classic Projects to new Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/migrating-from-projects-classic)
+- [New Project Templates](https://github.blog/changelog/2023-12-14-github-issues-projects-december-14th-update/)
+- [Creating a Project Template](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project)
+- [Side panel update with status](https://github.blog/changelog/2024-01-18-github-issues-projects-project-status-updates-issues-side-panel/)
+- [Discuss the new side panel update](https://github.com/orgs/community/discussions/86507)
+- [Tips and tricks for using GitHub Projects for personal productivity](https://github.blog/2022-07-21-tips-tricks-for-using-github-projects-for-personal-productivity/)
+- [Planning and tracking work of your team or project](https://docs.github.com/en/issues/tracking-your-work-with-issues/planning-and-tracking-work-for-your-team-or-project)
 - [Using GitHub Projects for feature planning](https://youtu.be/yFQ-p6wMS_Y)
+- [Android Project board for features](https://github.com/orgs/android/projects/7/views/1)
+- [GitHub Public Roadmap](https://github.com/orgs/github/projects/4247)
+- [Ten things you didn't know you could do with GitHub Projects](https://github.blog/2023-08-28-10-things-you-didnt-know-you-could-do-with-github-projects/)
 
 ### Other Resources
 

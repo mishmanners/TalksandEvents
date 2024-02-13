@@ -1,6 +1,6 @@
 # NDC Sydney 2024 - How I used GitHub Projects to move my house
 
-
+![Speaker card](https://github.com/mishmanners/TalksandEvents/assets/36594527/1a313a96-52e3-490c-90e5-b8341f3ea3e7)
 
 This is for the talk I gave at [NDC Sydney 2024](https://ndcsydney.com/agenda/how-i-used-github-projects-to-move-my-house-0ww1/0pdlfog1wij).
 

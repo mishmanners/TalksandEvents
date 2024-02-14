@@ -32,6 +32,7 @@ These are the references I used in my talk:
 - [Customising your Project board](https://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/customizing-the-board-layout)
 - [GitHub Actions - customising automation](https://github.com/features/actions)
 - [GitHub Global Projects](https://github.blog/changelog/2023-11-30-github-issues-projects-november-30th-update/)
+- [GitHub Projects now generally available](https://github.blog/2022-07-27-planning-next-to-your-code-github-projects-is-now-generally-available/)
 - [Migrating from GitHub Classic Projects to new Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/migrating-from-projects-classic)
 - [New Project Templates](https://github.blog/changelog/2023-12-14-github-issues-projects-december-14th-update/)
 - [Creating a Project Template](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project)

@@ -61,6 +61,7 @@ These are the references I used in my talk:
 ### Other Resources
 
 - [GitHub Next - what GitHub is working on](https://githubnext.com/)
+- [Four ways engineers use GitHub Copilot](https://github.blog/2024-04-09-4-ways-github-engineers-use-github-copilot/)
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
 - [Using GitHub Copilot to build an app in 18 minutes](https://github.blog/2023-05-05-web-summit-rio-2023-building-an-app-in-18-minutes-with-github-copilot-x/)
 - [How GitHub Copilot took flight](https://www.youtube.com/watch?v=8JjVNFc2kK4&ab_channel=GitHub)

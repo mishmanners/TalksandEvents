@@ -46,8 +46,9 @@ These are the references I used in my talk:
 - [GitHub Copilot context exclusions](https://docs.github.com/en/copilot/managing-copilot-business/configuring-content-exclusions-for-github-copilot)
 - [Slash commands for GitHub Copilot](https://github.blog/changelog/2024-01-30-code-faster-and-better-with-github-copilots-new-features-in-visual-studio/)
 - [Developer happiness - research study around GitHub Copilot](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
-
 - [Mish & Max's wedding website](https://mishandmax.com)
+- [AI's impact on GDP](https://www.goldmansachs.com/intelligence/pages/generative-ai-could-raise-global-gdp-by-7-percent.html)
+- [Economic impact of  GitHub Copilot](https://github.blog/2023-06-27-the-economic-impact-of-the-ai-powered-developer-lifecycle-and-lessons-from-github-copilot/)
 - [GitHub Copilot Enterprise](https://docs.github.com/en/enterprise-cloud@latest/copilot/github-copilot-enterprise/overview/about-github-copilot-enterprise)
 - [Join the waitlist for GitHub Copilot Enterprise](https://github.com/github-copilot/copilot_enterprise_waitlist_signup/join)
 - [GitHub Copilot for Pull Requests](https://githubnext.com/projects/copilot-for-pull-requests/)
@@ -64,6 +65,7 @@ These are the references I used in my talk:
 - [GitHub Next - what GitHub is working on](https://githubnext.com/)
 - [Four ways engineers use GitHub Copilot](https://github.blog/2024-04-09-4-ways-github-engineers-use-github-copilot/)
 - [Measuring GitHub Copilot's productivity](https://gh.io/productivity-impact)
+- [Productivity impact of GitHub Copilot](https://www.harness.io/blog/the-impact-of-github-copilot-on-developer-productivity-a-case-study)
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
 - [Using GitHub Copilot to build an app in 18 minutes](https://github.blog/2023-05-05-web-summit-rio-2023-building-an-app-in-18-minutes-with-github-copilot-x/)
 - [How GitHub Copilot took flight](https://www.youtube.com/watch?v=8JjVNFc2kK4&ab_channel=GitHub)

@@ -4,7 +4,7 @@ This is a talk I gave at [RenderATL 2023](https://www.renderatl.com/#speakers).
 
 ![Speaker card 3](https://github.com/mishmanners/TalksandEvents/assets/36594527/8b01ca2f-db11-4792-8ac6-3363c0b473b9)
 
-[Listen to the recording](). COMING SOON.
+[Listen to the recording](https://www.youtube.com/watch?v=mGnFGvQPWog&ab_channel=RenderATL).
 
 ## Talk Title
 

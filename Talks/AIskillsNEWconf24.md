@@ -2,11 +2,11 @@
 
 This is a talk I gave at the 2024 [/NEW conf](https://slashnew.tech/program/).
 
-[Talk recording coming soon].
+[Talk recording coming soon]().
 
 ## Talk title
 
-Skills for the Age of AI
+### Skills for the Age of AI
 
 ## Abstract
 

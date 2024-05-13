@@ -52,7 +52,7 @@ These are the references I used in my talk:
 - [GitHub Copilot Developer Happiness study](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
 - [GitHub Copilot X and the developer experience](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
 - [Accenture productivity boost](https://itbrief.com.au/story/developer-efficiency-boosted-by-github-copilot-enterprise-availability)
-- [Prompt engineering for AI: what is prompt engineering and how to get good results from AI engines](https://dev.to/github/prompt-engineering-for-ai-what-is-prompt-engineering-and-how-to-get-good-results-from-ai-engines-5ch6)
+- [How to write better prompts for GitHub Copilot](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/)
 - [Generative AI productivity boost](https://www.forbes.com/sites/brentdykes/2023/04/12/generative-ai-why-an-ai-enabled-workforce-is-a-productivity-game-changer)
 - [Harvard study on ChatGPT](https://www.mi-3.com.au/20-09-2023/harvard-business-school-study-bcg-finds-knowledge-workers-using-chat-gpt-outperform)
 - [AI raise GDP by 7%](https://www.goldmansachs.com/intelligence/pages/generative-ai-could-raise-global-gdp-by-7-percent.html)
@@ -84,6 +84,7 @@ These are the references I used in my talk:
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
 - [Interview with Geoffrey Hinton AKA the "Godfather of AI" - Impact and potential of AI](https://youtu.be/qpoRO378qRY)
 - [Prompt engineering for GitHub Copilot](https://dev.to/github/a-beginners-guide-to-prompt-engineering-with-github-copilot-3ibp)
+- [Prompt engineering for AI: what is prompt engineering and how to get good results from AI engines](https://dev.to/github/prompt-engineering-for-ai-what-is-prompt-engineering-and-how-to-get-good-results-from-ai-engines-5ch6)
 - [Using GitHub Copilot to build an app in 18 minutes](https://github.blog/2023-05-05-web-summit-rio-2023-building-an-app-in-18-minutes-with-github-copilot-x/)
 - [Links to MishManners social media](https://mishmanners.info)
 Thank you for listening to my talk and checking out the resources.

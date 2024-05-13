@@ -30,14 +30,20 @@ In this session I’ll cover:
 
 These are the references I used in my talk:
 
+- [Industry 1.0 to 4.0](https://www.desouttertools.com/your-industry/news/503/industrial-revolution-from-industry-1-0-to-industry-4-0)
+- [What is Industry 4.0 and what defines it?](https://www.ibm.com/topics/industry-4-0)
 - _Minority Report_ (Future of Work)
 - _Wall-E_ (Future of Work)
+- _R2D2, Star Wars_
+- _The Mandalorian_
+- Jarvis from _The Avengers: Age of Ultron_ (AI is becoming much more obtainable)
 - [Will a robot take my job?](time.com/robots-jobs-machines-work)
 - [Gary Kasparov's TED talk](https://www.ted.com/talks/garry_kasparov_don_t_fear_intelligent_machines_work_with_them?language=en)
 - [What is machine learning?](https://www.javatpoint.com/types-of-machine-learning)
-- Jarvis from _Iron Man_ (AI is becoming much more obtainable)
+- [Will a robot take my job?](https://willrobotstakemyjob.com/)
+- [Gary Kasparov's TED talk](https://www.ted.com/talks/garry_kasparov_don_t_fear_intelligent_machines_work_with_them?language=en)
 - [What is AI? Definition from IBM](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
-- Examples of AI: Siri, [Google Nest](https://thenextweb.com/news/google-nest-cam-ai-and-batteries), [Subaru Driver Assist](https://www.subaru.com.au/driver-monitoring-system), PhotoShop remove background, [Midjourney](https://www.midjourney.com/), [Fiesta](https://articlefiesta.com/)
+- Examples of AI: Siri, [Google Nest](https://thenextweb.com/news/google-nest-cam-ai-and-batteries), [Subaru Driver Assist](https://www.subaru.com.au/driver-monitoring-system), PhotoShop remove background, [Midjourney](https://www.midjourney.com/), [Fiesta](https://articlefiesta.com/), [Microsoft Designer](https://designer.microsoft.com/)
 - [Chat GPT](https://chat-gpt.org/)
 - [GitHub Copilot](https://copilot.github.com/)
 - [Prompt engineering for AI: what is prompt engineering and how to get good results from AI engines](https://dev.to/github/prompt-engineering-for-ai-what-is-prompt-engineering-and-how-to-get-good-results-from-ai-engines-5ch6)

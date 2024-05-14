@@ -45,6 +45,7 @@ These are the references I used in my talk:
 - [What is machine learning?](https://www.javatpoint.com/types-of-machine-learning)
 - [Will a robot take my job?](https://willrobotstakemyjob.com/)
 - [Gary Kasparov's TED talk](https://www.ted.com/talks/garry_kasparov_don_t_fear_intelligent_machines_work_with_them?language=en)
+- [Boston Dynamics](https://newatlas.com/boston-dynamics-new-atlas/42007/)
 - [What is AI? Definition from IBM](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
 - Examples of AI: Siri, [Google Nest](https://thenextweb.com/news/google-nest-cam-ai-and-batteries), [Subaru Driver Assist](https://www.subaru.com.au/driver-monitoring-system), PhotoShop remove background, [Midjourney](https://www.midjourney.com/), [Microsoft Designer](https://designer.microsoft.com/) [Fiesta](https://articlefiesta.com/), 
 - [Chat GPT](https://chat-gpt.org/)

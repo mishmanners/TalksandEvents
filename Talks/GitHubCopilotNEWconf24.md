@@ -63,6 +63,7 @@ These are the references I used in my talk:
 - [GitHub on LinkedIn](https://www.linkedin.com/company/github/)
 - [GitHub on Facebook](https://www.facebook.com/GitHub/)
 - [GitHub on TikTok](https://www.tiktok.com/@github)
+- [GitHub Universe](https://githubuniverse.com/)
 
 ### Other Resources
 

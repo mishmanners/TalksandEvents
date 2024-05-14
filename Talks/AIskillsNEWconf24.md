@@ -36,6 +36,7 @@ These are the references I used in my talk:
 - [What is Industry 4.0 and what defines it?](https://www.ibm.com/topics/industry-4-0)
 - _Minority Report_ (Future of Work)
 - _Wall-E_ (Future of Work)
+- _The Terminator_
 - _R2D2, Star Wars_
 - _The Mandalorian_
 - Jarvis from _The Avengers: Age of Ultron_ (AI is becoming much more obtainable)

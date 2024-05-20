@@ -1,4 +1,4 @@
-![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/7147f720-1345-4d3e-ac99-28f5c8d909ba)# Serverless Days ANZ - Level up with GitHub Copilot
+# Serverless Days ANZ - Level up with GitHub Copilot
 
 This is a talk I gave at the 2024 [Serverless Days conferences](https://anz.serverlessdays.io/speakers/mishmanners/) in Sydney and Auckland.
 

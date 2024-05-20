@@ -1,8 +1,8 @@
-# /NEW Conf 2024 - Level up with GitHub Copilot
+![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/7147f720-1345-4d3e-ac99-28f5c8d909ba)# Serverless Days ANZ - Level up with GitHub Copilot
 
-This is a talk I gave at the 2024 [/NEW conf](https://slashnew.tech/program/).
+This is a talk I gave at the 2024 [Serverless Days conferences](https://anz.serverlessdays.io/speakers/mishmanners/) in Sydney and Auckland.
 
-![Speaker banner](https://github.com/mishmanners/TalksandEvents/assets/36594527/f531935b-657e-48d1-96cc-59b84d7f537b)
+![1715903026993](https://github.com/mishmanners/TalksandEvents/assets/36594527/4ef20220-e345-4bc6-b28f-9503fc728568)
 
 [Talk recording coming soon]().
 

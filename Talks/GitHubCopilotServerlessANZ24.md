@@ -32,11 +32,7 @@ These are the references I used in my talk:
 
 - [GitHub](https://github.com)
 - [What is GitHub](https://youtu.be/pBy1zgt0XPc)
-- [Definition of AI from IBM](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
-- [Chat GPT](https://chat.openai.com/)
 - [Midjourney AI artwork generator](https://www.midjourney.com/home/)
-- [Night Cafe AI art generator](https://creator.nightcafe.studio/creation/O0iBOpUCgygcGNJsAz9I)
-- [Microsoft Designer](https://designer.microsoft.com/)
 - [AI programming extension for VS Code](https://marketplace.visualstudio.com/items?itemName=GalilAI.aicoding)
 - [Best AI programming extensions for VS Code](https://sourceforge.net/software/ai-coding-assistants/integrates-with-visual-studio-code/)
 - [GitHub Copilot](https://copilot.github.com/)
@@ -67,6 +63,8 @@ These are the references I used in my talk:
 
 ### Other Resources
 
+- [Definition of AI from IBM](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
+- [Chat GPT](https://chat.openai.com/)
 - [GitHub Next - what GitHub is working on](https://githubnext.com/)
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
 - [Using GitHub Copilot to build an app in 18 minutes](https://github.blog/2023-05-05-web-summit-rio-2023-building-an-app-in-18-minutes-with-github-copilot-x/)

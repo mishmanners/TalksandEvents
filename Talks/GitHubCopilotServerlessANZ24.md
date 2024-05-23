@@ -30,6 +30,8 @@ The session will cover:
 
 These are the references I used in my talk:
 
+- [Definition of AI from IBM](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
+- [Chat GPT](https://chat.openai.com/)
 - [GitHub](https://github.com)
 - [What is GitHub](https://youtu.be/pBy1zgt0XPc)
 - [Midjourney AI artwork generator](https://www.midjourney.com/home/)
@@ -63,8 +65,6 @@ These are the references I used in my talk:
 
 ### Other Resources
 
-- [Definition of AI from IBM](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
-- [Chat GPT](https://chat.openai.com/)
 - [GitHub Next - what GitHub is working on](https://githubnext.com/)
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
 - [Using GitHub Copilot to build an app in 18 minutes](https://github.blog/2023-05-05-web-summit-rio-2023-building-an-app-in-18-minutes-with-github-copilot-x/)

@@ -1,7 +1,6 @@
-![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/958b4f71-5d60-4a21-91fd-e3f8866182e5)![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/b95db210-dde5-4873-a2cd-233eb8c5ff8a)![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/4c35e95c-9cd0-464f-81cc-c32142b30147)![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/f685739f-6829-40f3-981f-30708f8a2104)![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/759341ba-0981-41ff-9e59-a245dbc7cc86)![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/349ffc8e-65ef-4146-94b6-21a2c0d05c09)![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/a634cb58-4b40-4c52-b289-33d6dde02848)![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/14f1e55e-d5a9-4ca0-b93b-7043bdea8254)![image](https://github.com/mishmanners/TalksandEvents/assets/36594527/4a5b8efd-bae8-4a2a-929d-fd75eeb53164)# NDC Oslo 2024 - DevOps isn't just about developing
+# NDC Oslo 2024 - DevOps isn't just about developing
 
 This is a talk I gave at [NDC Oslo 2023](https://ndcoslo.com/speakers/michelle-mannering).
-
 
 
 [Listen to the recording](). COMING SOON.

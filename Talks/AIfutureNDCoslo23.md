@@ -1,6 +1,6 @@
 # NDC Oslo 2023 - AI and the future of work
 
-This is a talk I gave at [NDC Oslo 2023](https://www.programmable.tech/speakers/michelle-mannering).
+This is a talk I gave at [NDC Oslo 2023](https://ndcoslo.com/speakers/michelle-mannering).
 
 ![Speaker card](https://github.com/mishmanners/TalksandEvents/assets/36594527/200f9d78-83b8-429d-a7a7-e567e8af173f)
 

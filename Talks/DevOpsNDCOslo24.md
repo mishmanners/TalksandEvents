@@ -1,7 +1,8 @@
 # NDC Oslo 2024 - DevOps isn't just about developing
 
-This is a talk I gave at [NDC Oslo 2023](https://ndcoslo.com/speakers/michelle-mannering).
+This is a talk I gave at [NDC Oslo 2024](https://ndcoslo.com/speakers/michelle-mannering).
 
+![Duke_-_DevOps_isnt_just_about_developing_623322](https://github.com/mishmanners/TalksandEvents/assets/36594527/d67f6278-abb2-45b3-9c74-05f728bb7c90)
 
 [Listen to the recording](). COMING SOON.
 

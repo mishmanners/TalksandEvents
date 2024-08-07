@@ -1,8 +1,8 @@
-# NDC London 2024 - Level up with GitHub Copilot
+# Code Like a Girl, Virtual Engineers Summit - Level up with GitHub Copilot
 
-![Speaker card](https://github.com/mishmanners/TalksandEvents/assets/36594527/502c4b41-0410-4c1c-80b8-2b2469e81169)
+![449836776_818697820361652_5936168455499613652_n](https://github.com/user-attachments/assets/9a36c2f4-f523-4122-8eb5-bb4a8b019023)
 
-This is the talk I gave at [NDC London 2024](https://ndclondon.com/agenda/level-up-with-github-copilot-using-ai-to-learn-code-and-build-0nw3/0jzbqlvym3b).
+This is the talk I gave at [Code Like a Girls' Virtual Engineers Summit 2024](https://www.codelikeagirl.com/virtual-summit/).
 
 **[Recording coming soon]**
 
@@ -20,9 +20,9 @@ The session will cover:
 - What is AI
 - Applications of AI
 - How GitHub Copilot works
+- AI pair programming
 - How to get better results from GitHub Copilot with prompt engineering (the art crafting effective prompts)
 - Power of conversational coding with GitHub Copilot Chat
-- What's coming next
 
 ## Resources and Links
 
@@ -42,18 +42,16 @@ These are the references I used in my talk:
 - [GitHub Copilot](https://copilot.github.com/)
 - [GitHub Copilot chat](https://docs.github.com/en/copilot/github-copilot-chat/about-github-copilot-chat)
 - [GitHub Like a Boss repo for demo code](https://github.com/mishmanners/github-like-a-boss)
-- [Join the waitlist for GitHub Copilot chat for JetBrains IDEs](https://github.com/github-copilot/chat_jetbrains_waitlist_signup/join)
+- [Writing unit tests with SIRV and Playwright, Test Driven Development](https://dev.to/mishmanners/how-to-test-websites-using-sirv-and-playwright-for-test-driven-development-tdd-8ph)
 - [GitHub Copilot for CLI](https://githubnext.com/projects/copilot-cli/)
 - [Prompt engineering for GitHub Copilot](https://dev.to/github/a-beginners-guide-to-prompt-engineering-with-github-copilot-3ibp)
-- [GitHub Copilot context exclusions](https://docs.github.com/en/copilot/managing-copilot-business/configuring-content-exclusions-for-github-copilot)
 - [Slash commands for GitHub Copilot](https://github.blog/changelog/2024-01-30-code-faster-and-better-with-github-copilots-new-features-in-visual-studio/)
+- [Language support for GitHub Copilot](https://docs.github.com/en/enterprise-cloud@latest/get-started/learning-about-github/github-language-support)
 - [Developer happiness - research study around GitHub Copilot](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
+- [Quantifying GitHub Copilot’s impact in the enterprise with Accenture](https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-in-the-enterprise-with-accenture/)
 - [Mish & Max's wedding website](https://mishandmax.com)
 - [GitHub Copilot Enterprise](https://docs.github.com/en/enterprise-cloud@latest/copilot/github-copilot-enterprise/overview/about-github-copilot-enterprise)
-- [Join the waitlist for GitHub Copilot Enterprise](https://github.com/github-copilot/copilot_enterprise_waitlist_signup/join)
-- [GitHub Copilot for Pull Requests](https://githubnext.com/projects/copilot-for-pull-requests/)
-- [Personalised GitHub Copilot fine-tuned models](https://github.com/github-copilot/fine_tuning_waitlist_signup/join)
-- [GitHub on X, formerly Twitter]()
+- [GitHub on X, formerly Twitter](https://www.x.com/github))
 - [GitHub on Instagram](https://www.instagram.com/github)
 - [GitHub on YouTube](https://www.youtube.com/@GitHub)
 - [GitHub on LinkedIn](https://www.linkedin.com/company/github/)
@@ -62,7 +60,6 @@ These are the references I used in my talk:
 
 ### Other Resources
 
-- [GitHub Next - what GitHub is working on](https://githubnext.com/)
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
 - [Using GitHub Copilot to build an app in 18 minutes](https://github.blog/2023-05-05-web-summit-rio-2023-building-an-app-in-18-minutes-with-github-copilot-x/)
 - [How GitHub Copilot took flight](https://www.youtube.com/watch?v=8JjVNFc2kK4&ab_channel=GitHub)
@@ -73,7 +70,6 @@ These are the references I used in my talk:
 - [How to use GitHub Copilot for explaining code](https://dev.to/github/understand-your-code-using-github-copilot-5375)
 - [How to use GitHub Copilot for translating code](https://dev.to/github/how-to-translate-code-into-other-languages-using-github-copilot-3n6f)
 - [Practical use cases for GitHub Copilot](https://dev.to/github/why-use-github-copilot-and-copilot-labs-practical-use-cases-for-the-ai-pair-programmer-4hf4)
-- [GitHub Universe all the announcements](https://github.blog/2023-11-15-universes-key-takeaway-innovate-better-with-ai-powered-workflows-on-a-single-unified-platform/)
 - [What is GitHub Copilot](https://youtu.be/Z7hp241--vc)
 - [GitHub Copilot for Business](https://resources.github.com/copilot-for-business/)
 - [Apply to the GitHUb Copilot partner program](https://github.com/features/preview/copilot-partner-program)

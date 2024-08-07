@@ -53,7 +53,7 @@ These are the references I used in my talk:
 - [Join the waitlist for GitHub Copilot Enterprise](https://github.com/github-copilot/copilot_enterprise_waitlist_signup/join)
 - [GitHub Copilot for Pull Requests](https://githubnext.com/projects/copilot-for-pull-requests/)
 - [Personalised GitHub Copilot fine-tuned models](https://github.com/github-copilot/fine_tuning_waitlist_signup/join)
-- [GitHub on X, formerly Twitter]()
+- [GitHub on X, formerly Twitter](https://www.x.com/github)
 - [GitHub on Instagram](https://www.instagram.com/github)
 - [GitHub on YouTube](https://www.youtube.com/@GitHub)
 - [GitHub on LinkedIn](https://www.linkedin.com/company/github/)

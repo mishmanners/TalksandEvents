@@ -4,8 +4,6 @@ This is a talk I gave at the 2024 [/NEW conf](https://slashnew.tech/program/).
 
 ![Speaker banner](https://github.com/mishmanners/TalksandEvents/assets/36594527/b4abc59f-0cdf-4a3f-8b7e-9d63044f521c)
 
-[Talk recording coming soon]().
-
 ## Talk title
 
 ### Skills for the Age of AI

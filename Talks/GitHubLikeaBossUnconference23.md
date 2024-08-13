@@ -20,6 +20,7 @@ Join MishManners from GitHub to share all your tips and tricks, Mish will be thr
 
 These are the references I used in my talk:
 
+- [My Octocat](https://myoctocat.com/?ref=producthunt) make your own GitHub mona octocat
 - [GitHub](https://github.com)
 - [Watch GitHub Universe](https://githubuniverse.com)
 - [GitHub Universe all the announcements](https://github.blog/2023-11-15-universes-key-takeaway-innovate-better-with-ai-powered-workflows-on-a-single-unified-platform/)
@@ -45,7 +46,7 @@ These are the references I used in my talk:
 - [Join the waitlist for GitHub Copilot Enterprise](https://github.com/github-copilot/copilot_enterprise_waitlist_signup/join)
 - [GitHub Copilot for Pull Requests](https://githubnext.com/projects/copilot-for-pull-requests/)
 - [Personalised GitHub Copilot fine-tuned models](https://github.com/github-copilot/fine_tuning_waitlist_signup/join)
-- [Apply to the GitHUb Copilot partner program](https://github.com/features/preview/copilot-partner-program)
+- [Apply to the GitHub Copilot partner program](https://github.com/features/preview/copilot-partner-program)
 - [GitHub Certifications](https://resources.github.com/learn/certifications/)
 - [GitHub on X, formerly Twitter]()
 - [GitHub on Instagram](https://www.instagram.com/github)

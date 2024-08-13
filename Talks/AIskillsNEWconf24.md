@@ -30,6 +30,7 @@ In this session I’ll cover:
 
 These are the references I used in my talk:
 
+- [My Octocat](https://myoctocat.com/?ref=producthunt) make your own GitHub mona octocat
 - [Industry 1.0 to 4.0](https://www.desouttertools.com/your-industry/news/503/industrial-revolution-from-industry-1-0-to-industry-4-0)
 - [What is Industry 4.0 and what defines it?](https://www.ibm.com/topics/industry-4-0)
 - _Minority Report_ (Future of Work)

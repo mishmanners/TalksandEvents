@@ -34,6 +34,7 @@ Key Takeaways:
 These are the references I used in my talk:
 
 - [GitHub](https://github.com)
+- [Build your own Octocat](https://myoctocat.com/?ref=producthunt)
 - [What is GitHub](https://youtu.be/pBy1zgt0XPc)
 - [Definition of AI from IBM](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
 - [Chat GPT](https://chat.openai.com/)

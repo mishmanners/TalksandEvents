@@ -28,6 +28,7 @@ The session will cover:
 
 These are the references I used in my talk:
 
+- [My Octocat](https://myoctocat.com/?ref=producthunt) make your own GitHub mona octocat
 - [GitHub](https://github.com)
 - [What is GitHub](https://youtu.be/pBy1zgt0XPc)
 - [Definition of AI from IBM](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
@@ -79,7 +80,7 @@ These are the references I used in my talk:
 - [GitHub Universe all the announcements](https://github.blog/2023-11-15-universes-key-takeaway-innovate-better-with-ai-powered-workflows-on-a-single-unified-platform/)
 - [What is GitHub Copilot](https://youtu.be/Z7hp241--vc)
 - [GitHub Copilot for Business](https://resources.github.com/copilot-for-business/)
-- [Apply to the GitHUb Copilot partner program](https://github.com/features/preview/copilot-partner-program)
+- [Apply to the GitHub Copilot partner program](https://github.com/features/preview/copilot-partner-program)
 - [GitHub CLI commands](https://cli.github.com/manual)
 - [GitHub CLI for SSH](https://dev.to/github/how-to-never-type-passwords-when-using-git-18bb)
 - [GitHub CLI extensions](https://github.com/topics/gh-extension)

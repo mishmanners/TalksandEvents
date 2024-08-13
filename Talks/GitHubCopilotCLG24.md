@@ -30,6 +30,7 @@ The session will cover:
 
 These are the references I used in my talk:
 
+- [My Octocat](https://myoctocat.com/?ref=producthunt) make your own GitHub mona octocat
 - [GitHub](https://github.com)
 - [What is GitHub](https://youtu.be/pBy1zgt0XPc)
 - [Definition of AI from IBM](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
@@ -72,7 +73,7 @@ These are the references I used in my talk:
 - [Practical use cases for GitHub Copilot](https://dev.to/github/why-use-github-copilot-and-copilot-labs-practical-use-cases-for-the-ai-pair-programmer-4hf4)
 - [What is GitHub Copilot](https://youtu.be/Z7hp241--vc)
 - [GitHub Copilot for Business](https://resources.github.com/copilot-for-business/)
-- [Apply to the GitHUb Copilot partner program](https://github.com/features/preview/copilot-partner-program)
+- [Apply to the GitHub Copilot partner program](https://github.com/features/preview/copilot-partner-program)
 - [GitHub CLI commands](https://cli.github.com/manual)
 - [GitHub CLI for SSH](https://dev.to/github/how-to-never-type-passwords-when-using-git-18bb)
 - [GitHub CLI extensions](https://github.com/topics/gh-extension)

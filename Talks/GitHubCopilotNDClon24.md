@@ -30,6 +30,7 @@ The session will cover:
 
 These are the references I used in my talk:
 
+- [My Octocat](https://myoctocat.com/?ref=producthunt) make your own GitHub mona octocat
 - [GitHub](https://github.com)
 - [What is GitHub](https://youtu.be/pBy1zgt0XPc)
 - [Definition of AI from IBM](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)

@@ -4,7 +4,7 @@ This is a talk I gave at the 2024 [Serverless Days conferences](https://anz.serv
 
 ![1715903026993](https://github.com/mishmanners/TalksandEvents/assets/36594527/4ef20220-e345-4bc6-b28f-9503fc728568)
 
-[Talk recording coming soon]().
+[Watch the talk recording](https://youtu.be/623aKNEWOsc?list=PLK8O7pdiMg13C6TIyzERc_O_Ug1G4DvJS).
 
 ## Talk Title
 

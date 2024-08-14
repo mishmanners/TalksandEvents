@@ -54,6 +54,7 @@ These are the references I used in my talk:
 - [Playwright testing](https://playwright.dev/)
 - [HTTPS vs. HTTP for local testing](https://community.localwp.com/t/error-https-is-not-available-when-using-the-localhost-routing-mode/28339)
 - [Test driven development humour](https://www.reddit.com/r/ProgrammerHumor/comments/tgogft/sometimes_progress_looks_like_failure/)
+- [Microsoft Learn module for testing](https://learn.microsoft.com/en-us/training/modules/develop-unit-tests-using-github-copilot-tools/)
 - [Mish Friendly Food repository](https://github.com/mishmanners/mish-friendly-food/)
 - [Mish Friendly Food website](https://mishfriendlyfood.com/)
 - [GitHub Actions](https://github.com/features/actions)

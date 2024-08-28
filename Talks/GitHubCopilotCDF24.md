@@ -1,6 +1,6 @@
 # Copenhagen Developers Festival 2024 - Level up with GitHub Copilot
 
-![Michelle_Duke_SpeakerCreatives2](https://github.com/user-attachments/assets/837b8222-2d55-4b02-9f0e-a7dfd0c80560)
+![Speaker Card](https://github.com/user-attachments/assets/40c376d7-6524-41d5-84c0-466e03994939)
 
 This is the talk I gave at [Testμ Conference 2024](https://www.lambdatest.com/testmuconf-2024/michelle-duke).
 

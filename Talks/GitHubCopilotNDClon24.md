@@ -4,7 +4,7 @@
 
 This is the talk I gave at [NDC London 2024](https://ndclondon.com/agenda/level-up-with-github-copilot-using-ai-to-learn-code-and-build-0nw3/0jzbqlvym3b).
 
-**[Recording coming soon]**
+**[Recording avaialble on YouTube](https://www.youtube.com/watch?v=nRz7zkKfpXw)**
 
 ## Talk Title
 

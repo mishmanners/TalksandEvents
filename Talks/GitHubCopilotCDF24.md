@@ -2,7 +2,7 @@
 
 ![Speaker Card](https://github.com/user-attachments/assets/40c376d7-6524-41d5-84c0-466e03994939)
 
-This is the talk I gave at [Testμ Conference 2024](https://www.lambdatest.com/testmuconf-2024/michelle-duke).
+This is the talk I gave at [Copenhagen Developers Festival 2024](https://cphdevfest.com/agenda/level-up-with-github-copilot-using-ai-to-learn-code-and-build-08xb/e7da7c3eeb58).
 
 **[Recording coming soon]**
 
@@ -12,7 +12,7 @@ This is the talk I gave at [Testμ Conference 2024](https://www.lambdatest.com/t
 
 ## Abstract
 
-t's time you meet your AI pair programmer. Do you find yourself stuck on a chunk of code? Unsure of how best to center a div? GitHub Copilot can help. Get unstuck by seeing suggested lines or code, whole functions, and learn more about your development journey through having code explained, and even translate your code into other languages.
+Get unstuck by seeing suggested lines or code, whole functions, and learn more about your development journey through having code explained, and even translate your code into other languages.
 
 Find out more about GitHub Copilot, new features, updates, and see a demo.
 
@@ -44,17 +44,27 @@ These are the references I used in my talk:
 - [GitHub Copilot chat](https://docs.github.com/en/copilot/github-copilot-chat/about-github-copilot-chat)
 - [GitHub Copilot chat on mobile](https://docs.github.com/en/copilot/using-github-copilot/asking-github-copilot-questions-in-github-mobile)
 - [GitHub Copilot CLI](https://docs.github.com/en/copilot/using-github-copilot/using-github-copilot-in-the-command-line)
+- [How to test websites: Using SIRV and Playwright for test driven development (TDD)](https://dev.to/mishmanners/how-to-test-
 - [Prompt engineering for GitHub Copilot](https://dev.to/github/a-beginners-guide-to-prompt-engineering-with-github-copilot-3ibp)
 - [Slash commands for GitHub Copilot](https://github.blog/changelog/2024-01-30-code-faster-and-better-with-github-copilots-new-features-in-visual-studio/)
 - [GitHub Copilot context exclusions](https://docs.github.com/en/copilot/managing-copilot-business/configuring-content-exclusions-for-github-copilot)
 - [PetSpotR repository](https://github.com/gh-productivity-workshops/PetSpotR/)
 - [GitHub Copilot Enterprise](https://docs.github.com/en/enterprise-cloud@latest/copilot/github-copilot-enterprise/overview/about-github-copilot-enterprise)
-- [GitHub Copilot for Pull Requests](https://githubnext.com/projects/copilot-for-pull-requests/)
-- [Personalised GitHub Copilot fine-tuned models](https://github.com/github-copilot/fine_tuning_waitlist_signup/join)
-- [How to test websites: Using SIRV and Playwright for test driven development (TDD)](https://dev.to/mishmanners/how-to-test-
 - [Developer happiness - research study around GitHub Copilot](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
 - [Research: Quantifying GitHub Copilot’s impact in the enterprise with Accenture](https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-in-the-enterprise-with-accenture/)
 - [The economic impact of AI developer tools](https://github.blog/2023-06-27-the-economic-impact-of-the-ai-powered-developer-lifecycle-and-lessons-from-github-copilot/)
+- [Mish and Max Wedding website](https://mishandmax.com)
+- [GitHub Next](https://githubnext.com/)
+- [GitHub Copilot for Pull Requests](https://githubnext.com/projects/copilot-for-pull-requests/)
+- [Sign up for GitHub Copilot customisation](https://github.com/features/preview/copilot-customization)
+- [Customising your LLM](https://github.blog/ai-and-ml/llms/customizing-and-fine-tuning-llms-what-you-need-to-know/)
+- [Introducing GitHub Copilot extensions](https://github.blog/news-insights/product-news/introducing-github-copilot-extensions/)
+- [GitHub Copilot Marketplace extensions](https://github.com/marketplace?type=apps&copilot_app=true)
+- [GitHub Copilot Workspace](https://github.blog/news-insights/product-news/github-copilot-workspace/)
+- [What is GitHub Copilot Workspace and how does it work?](https://youtu.be/pkotufZchjE)
+- [Join the GitHub Copilot Workspace Technical Preview](https://githubnext.com/projects/copilot-workspace)
+- [js13Kgames](https://js13kgames.com/)
+- [Breakout games template](https://github.com/js13kGames/js13kBreakouts/)
 - [GitHub on X, formerly Twitter](https://www.x.com/github)
 - [GitHub on Instagram](https://www.instagram.com/github)
 - [GitHub on YouTube](https://www.youtube.com/@GitHub)

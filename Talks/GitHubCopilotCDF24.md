@@ -44,7 +44,6 @@ These are the references I used in my talk:
 - [GitHub Copilot chat](https://docs.github.com/en/copilot/github-copilot-chat/about-github-copilot-chat)
 - [GitHub Copilot chat on mobile](https://docs.github.com/en/copilot/using-github-copilot/asking-github-copilot-questions-in-github-mobile)
 - [GitHub Copilot CLI](https://docs.github.com/en/copilot/using-github-copilot/using-github-copilot-in-the-command-line)
-- [How to test websites: Using SIRV and Playwright for test driven development (TDD)](https://dev.to/mishmanners/how-to-test-
 - [Prompt engineering for GitHub Copilot](https://dev.to/github/a-beginners-guide-to-prompt-engineering-with-github-copilot-3ibp)
 - [Slash commands for GitHub Copilot](https://github.blog/changelog/2024-01-30-code-faster-and-better-with-github-copilots-new-features-in-visual-studio/)
 - [GitHub Copilot context exclusions](https://docs.github.com/en/copilot/managing-copilot-business/configuring-content-exclusions-for-github-copilot)
@@ -77,6 +76,7 @@ These are the references I used in my talk:
 
 - [What is GitHub](https://youtu.be/pBy1zgt0XPc)
 - [GitHub Copilot for Business](https://resources.github.com/copilot-for-business/)
+- [How to test websites: Using SIRV and Playwright for test driven development (TDD)](https://dev.to/mishmanners/how-to-test-websites-using-sirv-and-playwright-for-test-driven-development-tdd-8ph)
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
 - [Using GitHub Copilot to build an app in 18 minutes](https://github.blog/2023-05-05-web-summit-rio-2023-building-an-app-in-18-minutes-with-github-copilot-x/)
 - [How GitHub Copilot took flight](https://www.youtube.com/watch?v=8JjVNFc2kK4&ab_channel=GitHub)

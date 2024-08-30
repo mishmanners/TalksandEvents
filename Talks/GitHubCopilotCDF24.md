@@ -62,6 +62,8 @@ These are the references I used in my talk:
 - [GitHub Copilot Workspace](https://github.blog/news-insights/product-news/github-copilot-workspace/)
 - [What is GitHub Copilot Workspace and how does it work?](https://youtu.be/pkotufZchjE)
 - [Join the GitHub Copilot Workspace Technical Preview](https://githubnext.com/projects/copilot-workspace)
+- [Mish Friendly Food repo](https://github.com/mishmanners/mish-friendly-food)
+- [Mish Friendly Food website](https://mishfriendlyfood.com/)
 - [js13Kgames](https://js13kgames.com/)
 - [Breakout games template](https://github.com/js13kGames/js13kBreakouts/)
 - [GitHub on X, formerly Twitter](https://www.x.com/github)

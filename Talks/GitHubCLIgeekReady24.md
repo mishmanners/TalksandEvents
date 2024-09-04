@@ -60,7 +60,6 @@ These are the links to resources and references I mentioned in my talk:
 - [GitHub Copilot available via the command line](https://www.youtube.com/watch?v=fHwtrOcLAnI&ab_channel=GitHub)
 - [GitHub Copilot for Business](https://resources.github.com/copilot-for-business/)
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
-
 - [What is GitHub Copilot](https://youtu.be/Z7hp241--vc)
 - [Build your own Octocat](https://myoctocat.com/?ref=producthunt)
 - [Links to MishManners social media](https://mishmanners.info)

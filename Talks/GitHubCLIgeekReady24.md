@@ -32,6 +32,7 @@ These are the links to resources and references I mentioned in my talk:
 - [GitHub Desktop](https://desktop.github.com/)
 - [GitHub Mobile](https://github.com/mobile)
 - [GitHub CLI](https://cli.github.com/)
+- [GitHub CLI 1.0 available](https://github.blog/news-insights/product-news/github-cli-1-0-is-now-available/)
 - [Install Chocolatey for Windows](https://chocolatey.org/install)
 - [GitHub CLI commands](https://cli.github.com/manual)
 - [GitHub CLI for SSH](https://dev.to/github/how-to-never-type-passwords-when-using-git-18bb)
@@ -53,7 +54,10 @@ These are the links to resources and references I mentioned in my talk:
 ### Other resources
 
 - [What is GitHub](https://youtu.be/pBy1zgt0XPc)
+- [What is GitHub CLI](https://www.youtube.com/watch?v=uy_PEGgUF4U&ab_channel=GitHub)
 - [GitHub Changelog](https://github.blog/changelog/)
+- [GitHub Projects available via the command line](https://github.blog/developer-skills/github/github-cli-project-command-is-now-generally-available/)
+- [GitHub Copilot available via the command line](https://www.youtube.com/watch?v=fHwtrOcLAnI&ab_channel=GitHub)
 - [GitHub Copilot for Business](https://resources.github.com/copilot-for-business/)
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
 

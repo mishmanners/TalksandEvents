@@ -28,6 +28,8 @@ These are the links to resources and references I mentioned in my talk:
 
 - [GitHub](https://github.com)
 - [What is GitHub](https://youtu.be/pBy1zgt0XPc)
+- [The Unicorn Project](https://www.infoq.com/articles/unicorn-project/ )
+- [Developer Tooling is critical](https://www.forbes.com/councils/forbestechcouncil/2023/09/13/uncovering-the-keys-to-developer-happiness-and-productivity/)
 - [GitHub Codespaces](https://github.com/codespaces)
 - [GitHub Desktop](https://desktop.github.com/)
 - [GitHub Mobile](https://github.com/mobile)

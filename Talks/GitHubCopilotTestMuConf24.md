@@ -4,7 +4,7 @@
 
 This is the talk I gave at [Testμ Conference 2024](https://www.lambdatest.com/testmuconf-2024/michelle-duke).
 
-**[Recording coming soon]**
+**[Watch the recording](https://www.youtube.com/watch?v=abbQF2NpmNw&ab_channel=LambdaTest)**
 
 ## Talk Title
 

@@ -18,7 +18,7 @@ Takeaways:
 - Learn about the GitHub CLI is and why you should use it
 - Learn the features of the CLI and how it can help your workflow
 - Learn about some useful extensions to do more with the CLI
-- Plus find out how you can contribute and build your own 
+- Find out how you can contribute and build your own 
 
 ## Resources and Links
 

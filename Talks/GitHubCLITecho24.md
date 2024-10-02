@@ -29,7 +29,10 @@ These are the links to resources and references I mentioned in my talk:
 - [GitHub](https://github.com)
 - [What is GitHub](https://youtu.be/pBy1zgt0XPc)
 - [The Unicorn Project](https://www.infoq.com/articles/unicorn-project/ )
-- [Developer Tooling is critical](https://www.forbes.com/councils/forbestechcouncil/2023/09/13/uncovering-the-keys-to-developer-happiness-and-productivity/)
+- [Uncovering the keys to developer happiness and productivity](https://www.forbes.com/councils/forbestechcouncil/2023/09/13/uncovering-the-keys-to-developer-happiness-and-productivity/)
+- _The Elder Scrolls Online_
+- [GitHub](https://github.com)
+- [GitHub.dev](https://github.dev)
 - [GitHub Codespaces](https://github.com/codespaces)
 - [GitHub Desktop](https://desktop.github.com/)
 - [GitHub Mobile](https://github.com/mobile)
@@ -38,6 +41,7 @@ These are the links to resources and references I mentioned in my talk:
 - [Install Chocolatey for Windows](https://chocolatey.org/install)
 - [GitHub CLI commands](https://cli.github.com/manual)
 - [GitHub CLI for SSH](https://dev.to/github/how-to-never-type-passwords-when-using-git-18bb)
+- [GitHub Projects on GitHub CLI](https://cli.github.com/manual/gh_project)
 - [GitHub CLI extensions](https://github.com/topics/gh-extension)
 - [How to create GitHub CLI extensions](https://docs.github.com/en/github-cli/github-cli/creating-github-cli-extensions)
 - [GitHub Copilot CLI](https://githubnext.com/projects/copilot-cli/)
@@ -69,19 +73,6 @@ These are the links to resources and references I mentioned in my talk:
 Thank you for listening to my talk and checking out the resources.
 
 ![LOVE_112px_TWITCH](https://github.com/user-attachments/assets/b5b55810-0f76-4887-a3e5-c9455b18ec7b)
-
-
-
-- [The Unicorn Project](https://www.infoq.com/articles/unicorn-project)
-- [Uncovering the keys to developer happiness and productivity](https://www.forbes.com/councils/forbestechcouncil/2023/09/13/uncovering-the-keys-to-developer-happiness-and-productivity/)
-- _The Elder Scrolls Online_
-- [GitHub](https://github.com)
-- [GitHub.dev](https://github.dev)
-- [GitHub Codespaces](https://github.com/features/codespaces)
-- [GitHub Desktop](https://github.com/apps/desktop)
-- [GitHub Mobile](https://github.com/mobile)
-- [GitHub Projects on GitHub CLI](https://cli.github.com/manual/gh_project)
-
 
 
 - [What is Codespaces](https://youtu.be/sYJ3CHtT6WM)

@@ -2,7 +2,7 @@
 
 This is for the talk I gave at [Techorama Netherlands 2024](https://techorama.nl/speakers/session/how-i-used-github-projects-to-move-my-house/).
 
-![image](https://github.com/user-attachments/assets/721a4d02-011a-4995-8c0d-f0dbf101df1a)
+![Landscape - Project](https://github.com/user-attachments/assets/37412e95-81f8-4727-9d56-86c816923e90)
 
 This talk was not recorded.
 

@@ -44,6 +44,8 @@ These are the references I used in my talk:
 - [Try using GitHub Issue forms](https://github.com/mishmanners/GitHub-Like-A-Boss/issues/new?template=RequestDemo.yml)
 - [Swimlanes released](https://github.com/orgs/community/discussions/61871)
 - [GitHub Issues updates](https://github.blog/changelog/2023-07-27-github-issues-projects-july-27th-update/)
+- [GitHub Projects on GitHub Mobile](https://github.blog/changelog/2023-03-14-projects-on-github-mobile-is-now-generally-available/)
+- [GitHub Projects on GitHub CLI](https://cli.github.com/manual/gh_project)
 - [Tips and tricks for using GitHub Projects for personal productivity](https://github.blog/2022-07-21-tips-tricks-for-using-github-projects-for-personal-productivity/)
 - [Planning and tracking work of your team or project](https://docs.github.com/en/issues/tracking-your-work-with-issues/planning-and-tracking-work-for-your-team-or-project)
 - [Using GitHub Projects for feature planning](https://youtu.be/yFQ-p6wMS_Y)
@@ -54,7 +56,6 @@ These are the references I used in my talk:
 
 ### Other Resources
 
-- [GitHub](https://github.com)
 - [Create your own Octocat](https://myoctocat.com/?ref=producthunt)
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
 - [Top Tips for using GitHub](https://dev.to/mishmanners/top-tips-for-using-github-l4m)

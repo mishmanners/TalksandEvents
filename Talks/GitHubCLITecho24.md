@@ -2,8 +2,6 @@
 
 This is for the talk I gave at [Techorama Netherlands 2024](https://techorama.nl/speakers/session/working-with-the-github-cli/).
 
-![Landscape - Project](https://github.com/user-attachments/assets/37412e95-81f8-4727-9d56-86c816923e90)
-
 ### This talk was not recorded.
 
 ![Landscape](https://github.com/user-attachments/assets/01920859-19c5-49db-ac2a-8800913d033c)

@@ -7,6 +7,8 @@
 - [GitHub Codespaces](https://github.com/features/codespaces)
 - [GitHub Desktop](https://github.com/apps/desktop)
 - [GitHub Mobile](https://github.com/mobile)
+- [GitHub Projects on GitHub CLI](https://cli.github.com/manual/gh_project)
+
 
 
 - [What is Codespaces](https://youtu.be/sYJ3CHtT6WM)

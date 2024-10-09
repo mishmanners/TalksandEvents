@@ -41,6 +41,7 @@ These are the references I used in my talk:
 - [Task list in beta](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/about-task-lists)
 - [Creating a task list](https://docs.github.com/en/issues/managing-your-tasks-with-tasklists/creating-a-tasklist)
 - [Creating Issue forms](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-issue-forms)
+- [GitHub Evolving Issues - task list, issue type](https://github.blog/changelog/2024-10-01-evolving-github-issues-public-beta/)
 - [Try using GitHub Issue forms](https://github.com/mishmanners/GitHub-Like-A-Boss/issues/new?template=RequestDemo.yml)
 - [Swimlanes released](https://github.com/orgs/community/discussions/61871)
 - [GitHub Issues updates](https://github.blog/changelog/2023-07-27-github-issues-projects-july-27th-update/)

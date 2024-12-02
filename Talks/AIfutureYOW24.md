@@ -1,5 +1,10 @@
-# Skills for the Age of AI
-### How to build resilience and ensure you still have a job
+# YOW! Conference 2024 - Skills for the Age of AI
+
+This is a talk I gave at the [YOW Conferences, Melbourne, Brisbane, Sydney](https://yowcon.com/melbourne-2024/speakers/3650/michelle-mishmanners-duke).
+
+![Horizontal promo](https://github.com/user-attachments/assets/a3e68037-4592-49b6-b873-1040e2f5cbaa)
+
+Recording coming.
 
 ## Talk Title
 

@@ -12,15 +12,20 @@ Recording coming.
 
 ## Abstract
 
-With the rise of AI and automation, how do we as humans find our value in the workplace? How do we work with these new technologies? How do we build resilience to changes? What skills are needed for us to thrive in this new world?
+What skills are needed to ensure I still have a job, and how do I obtain them?
 
-People have often felt apprehensive about change, especially big changes to the way we work. It happened in the industrial revolution and now it's happening with the rise of artificial intelligence. Five years ago these things existed, but now they are accessible to almost everyone. In this session I'll cover:
+With the rise of AI and automation, how do we as humans find our value in the workplace? How do we work with these new technologises? How do we build resilience to changes? What soft skills are needed for us to thrive in this new world?
 
-- why people want to work
-- why it's important for us to have a place in the world
-- what skills are needed for the "future of work"
-- how we build resilience, problem solving, and critical thinking
+People have often felt apprehensive about change, especially big changes to the way we work. It happened in the industrial revolution and now it's happening with the rise of artificial intelligence. Five years ago these things existed, but now they are accessible to almost everyone, and in a lot of cases they are doing our jobs for us.
 
+In this session I'll cover:
+
+Why people want to work
+Why is this industrial revolution different to the others
+What is AI and its applications
+What skills are needed for the ""age of AI""
+How do we obtain those skills
+What's next for the future of work
 ## Resources and Links
 
 ### References

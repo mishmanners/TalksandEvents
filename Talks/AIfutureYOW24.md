@@ -20,12 +20,13 @@ People have often felt apprehensive about change, especially big changes to the 
 
 In this session I'll cover:
 
-Why people want to work
-Why is this industrial revolution different to the others
-What is AI and its applications
-What skills are needed for the ""age of AI""
-How do we obtain those skills
-What's next for the future of work
+- Why people want to work
+- Why is this industrial revolution different to the others
+- What is AI and its applications
+- What skills are needed for the ""age of AI""
+- How do we obtain those skills
+- What's next for the future of work
+
 ## Resources and Links
 
 ### References

@@ -1,4 +1,4 @@
-# YOW! Conference 2024 - Skills for the Age of AI
+![image](https://github.com/user-attachments/assets/92cf3f73-4254-49d9-a26a-1221fa558f2f)# YOW! Conference 2024 - Skills for the Age of AI
 
 This is a talk I gave at the [YOW Conferences, Melbourne, Brisbane, Sydney](https://yowcon.com/melbourne-2024/speakers/3650/michelle-mishmanners-duke).
 
@@ -37,6 +37,9 @@ These are the references I used in my talk:
 - [The Four Industrial Revolutions](https://ied.eu/project-updates/the-4-industrial-revolutions/)
 - [Why do people go to work?](https://www.engageemployee.com/blog/top-20-reasons-we-go-to-work)
 - [History of AI](https://www.tableau.com/data-insights/ai/history)
+- [Sushi village server BellaBot waiter](https://www.youtube.com/watch?v=jCCSYtmPtag&ab_channel=OttawaCitizen)
+- [China's first robot restaurant](https://www.youtube.com/watch?v=kXIV0LVQx6E&ab_channel=CarrosShow)
+- [Atlas, Boston Dynamics Robot](https://www.youtube.com/watch?v=F_7IPm7f1vI&ab_channel=BostonDynamics)
 - What is machine learning? [Definition from IBM](https://www.javatpoint.com/types-of-machine-learning)
 - What is AI? [Definition from IBM](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
 - Generative text: [Chat GPT](https://chat-gpt.org/)

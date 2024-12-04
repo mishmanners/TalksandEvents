@@ -56,7 +56,7 @@ These are the references I used in my talk:
 - [Generative AI to add to the GDP](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#key-insights)
 - [Generative AI to add to the world economy](https://www.pwc.com/gx/en/issues/artificial-intelligence/publications/artificial-intelligence-study.html)
 - Rise of AI could cut wages, [ABC](https://www.abc.net.au/news/2024-03-13/ai-jobs-linkedin-artificial-intelligence-worker-future/103570268)
-- Core skills will change, employees need upskilling, [World Economic Forum](https://www.weforum.org/publications/the-future-of-jobs-report-2023/in-full/executive-summary/
+- Core skills will change, employees need upskilling, [World Economic Forum](https://www.weforum.org/publications/the-future-of-jobs-report-2023/in-full/executive-summary/)
 - [Occuptional transitions needed](https://www.mckinsey.com/mgi/our-research/generative-ai-and-the-future-of-work-in-America)
 - [Will a Robot Take my job?](https://willrobotstakemyjob.com)
 - What is Resilience? [Excert/definion from Resilience: Reflections on the Burdens and Gifts of Facing Life's Adversities](https://www.goodreads.com/author/quotes/6439373.Elizabeth_Edwards)

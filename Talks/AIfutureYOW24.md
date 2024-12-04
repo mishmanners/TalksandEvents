@@ -8,7 +8,7 @@ Recording coming.
 
 ## Talk Title
 
-### AI 🤖 and the future of work: How to build resilience to ensure you still have a job!
+### AI 🤖 and the future of work: How to build resilience to ensure you still have a job
 
 ## Abstract
 

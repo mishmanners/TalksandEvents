@@ -39,12 +39,24 @@ These are the references I used in my talk:
 - What is machine learning? [Definition from IBM](https://www.javatpoint.com/types-of-machine-learning)
 - [What is AI? Definition from IBM](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
 - Generative text: [Chat GPT](https://chat-gpt.org/)
-- Productivity enhancement: [Microsoft Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
+- Productivity enhancement of tools: [Microsoft Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
 - Generative image: [Microsoft Designer](https://designer.microsoft.com/)
-- Generative video: [Sora AI](https://openai.com/index/sora/), also [InVideo](https://ai.invideo.io/)
-- [GitHub Copilot](https://copilot.github.com/)
-- [Aider](https://github.com/Aider-AI/aider)
-- Examples of AI: Siri, [Google Nest](https://thenextweb.com/news/google-nest-cam-ai-and-batteries), [Subaru Driver Assist](https://www.subaru.com.au/driver-monitoring-system), PhotoShop remove background, [Midjourney](https://www.midjourney.com/), [Fiesta](https://articlefiesta.com/)
+- Generative video: [Sora AI](https://openai.com/index/sora/)
+- Generative code: [GitHub Copilot](https://copilot.github.com/)
+- Generative code in the terminal [Aider](https://github.com/Aider-AI/aider)
+- Productivity enhancement of tools: [Atlassian AI](https://www.atlassian.com/platform/artificial-intelligence)
+- [There's an AI for that](https://theresanaiforthat.com/)
+- [Increased productivity with GitHub Copilot](https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-code-quality/)
+- [Productivity efficiency with AI tools](https://newsletter.pragmaticengineer.com/p/ai-coding-tools)
+- [Time spent on tasks](https://www.nngroup.com/articles/chatgpt-productivity/)
+- [Generative AI at work](https://www.microsoft.com/en-us/worklab/work-trend-index/copilots-earliest-users-teach-us-about-generative-ai-at-work)
+- [Atlassian AI Collaboration Report](https://www.atlassian.com/blog/productivity/ai-collaboration-report)
+- [Why an AI workforce is more productive, ChatGPT writing task](https://www.forbes.com/sites/brentdykes/2023/04/12/generative-ai-why-an-ai-enabled-workforce-is-a-productivity-game-changer/)
+- [Harvard Study on ChatGPT](https://www.mi-3.com.au/20-09-2023/harvard-business-school-study-bcg-finds-knowledge-workers-using-chat-gpt-outperform)
+- [Generative AI to add to the GDP](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#key-insights)
+- [Generative AI to add to the world economy](https://www.pwc.com/gx/en/issues/artificial-intelligence/publications/artificial-intelligence-study.html)
+
+- Examples of AI: Siri, [Google Nest](https://thenextweb.com/news/google-nest-cam-ai-and-batteries), [Subaru Driver Assist](https://www.subaru.com.au/driver-monitoring-system), PhotoShop remove background, [Midjourney](https://www.midjourney.com/), [Fiesta](https://articlefiesta.com/), [InVideo](https://ai.invideo.io/)
 , 
 - [Prompt engineering for AI: what is prompt engineering and how to get good results from AI engines](https://dev.to/github/prompt-engineering-for-ai-what-is-prompt-engineering-and-how-to-get-good-results-from-ai-engines-5ch6)
 - [Compare will a robot take my job](https://willrobotstakemyjob.com/)
@@ -57,7 +69,7 @@ These are the references I used in my talk:
 - [GitHub Copilot X](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
 
 - AI in the workplace; as above, including: [Dall-E](https://openai.com/product/dall-e-2), [Bard](https://ai.google/), [IBM Watson](https://www.ibm.com/watson)
-- [There's an AI for that](https://theresanaiforthat.com/)
+
 - [Where to learn for free](https://github.com/mishmanners/Free-Learning-Content)
 - [How to cultivate soft skills needed for the future of work](https://dev.to/mishmanners/5-tips-to-future-proof-your-career-how-to-outsmart-automation-62h)
 

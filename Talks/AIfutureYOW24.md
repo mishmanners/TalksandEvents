@@ -74,7 +74,7 @@ These are the references I used in my talk:
 - _Wall-E_ (2008)
 - _The Terminator_ Series (1984-2019)
 - _Blade Runner_ (1982)
-- R2D2, _Star Wars_ Series (1977-)
+- R2D2, _Star Wars_ Series (1977—)
 - _The Mandalorian_ Season 3, Episode 6 “Guns for Hire" (2023)
 
 

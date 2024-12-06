@@ -51,6 +51,7 @@ These are the references I used in my talk:
 - Productivity enhancement of tools: [Atlassian AI](https://www.atlassian.com/platform/artificial-intelligence)
 - [There's an AI for that](https://theresanaiforthat.com/)
 - [Increased productivity with GitHub Copilot](https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-code-quality/)
+- [Westpac coding experiment](https://www.itnews.com.au/news/westpac-sees-46-percent-productivity-gain-from-ai-coding-experiment-596423)
 - [Productivity efficiency with AI tools](https://newsletter.pragmaticengineer.com/p/ai-coding-tools)
 - [Time spent on tasks](https://www.nngroup.com/articles/chatgpt-productivity/)
 - [Generative AI at work](https://www.microsoft.com/en-us/worklab/work-trend-index/copilots-earliest-users-teach-us-about-generative-ai-at-work)

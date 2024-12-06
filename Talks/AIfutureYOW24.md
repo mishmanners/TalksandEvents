@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/92cf3f73-4254-49d9-a26a-1221fa558f2f)# YOW! Conference 2024 - Skills for the Age of AI
+# YOW! Conference 2024 - Skills for the Age of AI
 
 This is a talk I gave at the [YOW Conferences, Melbourne, Brisbane, Sydney](https://yowcon.com/melbourne-2024/speakers/3650/michelle-mishmanners-duke).
 

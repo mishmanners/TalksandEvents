@@ -19,4 +19,4 @@ This is a list of resources and links from Mish's talks. You'll find the talk an
 <a href="https://dev.to/mishmanners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/devto.png" alt="" height="30" /></a>
 </p>
 
-[Follow all links via mishmanners.info](https://mishmanners.info).
+[Check out all links via mishmanners.info](https://mishmanners.info).

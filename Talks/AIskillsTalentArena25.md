@@ -1,5 +1,7 @@
-![image](https://github.com/user-attachments/assets/371082a8-1745-4c5e-88d4-2b044c7643e0)# Talent Arena 2025 - Skills for the age of AI developer tools
+# Talent Arena 2025 - Skills for the age of AI developer tools
 ### How to build resilience and effectively use the technology available
+
+This is for the talk I gave at Minnesota Developers Conference. It was not recorded.
 
 ## Talk Title
 
@@ -31,7 +33,6 @@ These are the references I used in my talk:
 - [Will a robot take my job?](time.com/robots-jobs-machines-work)
 - [Gary Kasparov's TED talk](https://www.ted.com/talks/garry_kasparov_don_t_fear_intelligent_machines_work_with_them?language=en)
 - [What is machine learning?](https://www.javatpoint.com/types-of-machine-learning)
-
 - [What is AI? Definition from IBM](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
 - Examples of AI: Siri, [Google Nest](https://thenextweb.com/news/google-nest-cam-ai-and-batteries), [Subaru Driver Assist](https://www.subaru.com.au/driver-monitoring-system), PhotoShop remove background, [Midjourney](https://www.midjourney.com/), [Fiesta](https://articlefiesta.com/)
 - [Chat GPT](https://chat-gpt.org/), [GitHub Copilot](https://copilot.github.com/)

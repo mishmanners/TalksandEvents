@@ -65,7 +65,7 @@ These are the references I used in my talk:
 
 Thank you for listening to my talk and checking out the resources.
 
-![mish heart large](https://user-images.githubusercontent.com/36594527/195619762-82827b2e-bfdd-49b6-b8df-5b9e15f4f044.png)
+![LOVE_112px_TWITCH](https://github.com/user-attachments/assets/5c3f8e3f-d3a2-48ee-bbd8-a9a905cbd6f8)
 
 If you have the [SSW Rewards App](https://www.ssw.com.au/products/rewards) and you'd like to check into this talk and earn points, scan the QR code using the SSW Rewards app:
 

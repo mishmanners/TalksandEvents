@@ -55,6 +55,7 @@ These are the references I used in my talk:
 - [TinaCMS](https://tina.io)
 - [YakShaver](https://yakshaver.ai)
 - [There's an AI for that](https://theresanaiforthat.com/)
+- [Rules to better AI](https://www.ssw.com.au/rules/rules-to-better-ai/)
 - [Atlassian collaboration report](https://www.atlassian.com/blog/productivity/ai-collaboration-report)
 - [Harvard Business School study on ChatGPT](https://www.mi-3.com.au/20-09-2023/harvard-business-school-study-bcg-finds-knowledge-workers-using-chat-gpt-outperform)
 - [The economic potential of AI](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#key-insights)

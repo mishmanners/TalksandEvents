@@ -49,7 +49,7 @@ These are the references I used in my talk:
 - [GitHub Copilot's impact on Accenture developers](https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-in-the-enterprise-with-accenture/)
 - [Software developer time](https://www.software.com/reports/code-time-report)
 - [Developers spend less than 10% of their time coding](https://drpicox.medium.com/developers-spend-less-than-10-of-time-coding-51c36c73a93b)
-- [Chat GPT](https://chat-gpt.org/), 
+- [Chat GPT](https://chat-gpt.org/)
 - [Rules to better prompt engineering](https://www.ssw.com.au/rules/rules-to-better-chatgpt-prompt-engineering/)
 - [Being polite with AI](https://www.microsoft.com/en-us/worklab/why-using-a-polite-tone-with-ai-matters)
 - [TinaCMS](https://tina.io)

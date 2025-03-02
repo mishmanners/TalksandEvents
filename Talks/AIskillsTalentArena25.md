@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/510d58a7-6e01-429a-aa92-be72a41b234f)# Talent Arena 2025 - Skills for the age of AI developer tools
+# Talent Arena 2025 - Skills for the age of AI developer tools
 ### How to build resilience and effectively use the technology available
 
 This is for the talk I gave at [Talent Arena, Spain](https://talentarena.tech/speakers/)
@@ -41,25 +41,26 @@ These are the references I used in my talk:
 - [Boston Dynamics humanoid robot](https://www.youtube.com/watch?v=F_7IPm7f1vI&ab_channel=BostonDynamics)
 - [GitHub Copilot](https://copilot.github.com/)
 - [GitHub Copilot Agent Mode](https://www.youtube.com/watch?v=C95drFKy4ss)
-- [Chat GPT](https://chat-gpt.org/), 
 - [What is Resilience](https://www.goodreads.com/author/quotes/6439373.Elizabeth_Edwards)
 - [Mish Friendly Food](https://mishfriendlyfood.com)
 - [Prompt engineering for AI: what is prompt engineering and how to get good results from AI engines](https://dev.to/github/prompt-engineering-for-ai-what-is-prompt-engineering-and-how-to-get-good-results-from-ai-engines-5ch6)
 - [Research: quantifying GitHub Copilot's impact](https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-code-quality/)
 - [Westpac productivity with GitHub Copilot](https://www.itnews.com.au/news/westpac-sees-46-percent-productivity-gain-from-ai-coding-experiment-596423)
-- [Compare will a robot take my job](https://willrobotstakemyjob.com/)
-- [GitHub Copilot Developer Happiness study](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
-- [Generative AI productivity boost](https://www.forbes.com/sites/brentdykes/2023/04/12/generative-ai-why-an-ai-enabled-workforce-is-a-productivity-game-changer)
-- [AI raise GDP by 7%](https://www.goldmansachs.com/intelligence/pages/generative-ai-could-raise-global-gdp-by-7-percent.html)
-- [Top skills for future of work](https://learning.linkedin.com/blog/top-skills/the-skills-companies-need-most-in-2020and-how-to-learn-them)
-- [5 Skills needed for the future of work](https://dev.to/mishmanners/dont-let-the-robots-take-your-job-top-5-skills-needed-to-stay-employed-85e)
-- [Night Cafe](https://creator.nightcafe.studio/studio)
-- [GitHub Copilot X](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
-- [Microsoft Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
-- AI in the workplace; as above, including: [Dall-E](https://openai.com/product/dall-e-2), [Bard](https://ai.google/), [IBM Watson](https://www.ibm.com/watson)
+- [GitHub Copilot's impact on Accenture developers](https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-in-the-enterprise-with-accenture/)
+- [Software developer time](https://www.software.com/reports/code-time-report)
+- [Developers spend less than 10% of their time coding](https://drpicox.medium.com/developers-spend-less-than-10-of-time-coding-51c36c73a93b)
+- [Chat GPT](https://chat-gpt.org/), 
+- [Rules to better prompt engineering](https://www.ssw.com.au/rules/rules-to-better-chatgpt-prompt-engineering/)
+- [Being polite with AI](https://www.microsoft.com/en-us/worklab/why-using-a-polite-tone-with-ai-matters)
+- [TinaCMS](https://tina.io)
+- [YakShaver](https://yakshaver.ai)
 - [There's an AI for that](https://theresanaiforthat.com/)
+- [Atlassian collaboration report](https://www.atlassian.com/blog/productivity/ai-collaboration-report)
+- [Harvard Business School study on ChatGPT](https://www.mi-3.com.au/20-09-2023/harvard-business-school-study-bcg-finds-knowledge-workers-using-chat-gpt-outperform)
+- [The economic potential of AI](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#key-insights)
 - [Where to learn for free](https://github.com/mishmanners/Free-Learning-Content)
 - [How to cultivate soft skills needed for the future of work](https://dev.to/mishmanners/5-tips-to-future-proof-your-career-how-to-outsmart-automation-62h)
+- [Links to MishManners social media](https://mishmanners.info)
 
 ### Other Resources
 
@@ -68,8 +69,11 @@ These are the references I used in my talk:
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
 - [Interview with Geoffrey Hinton AKA the "Godfather of AI" - Impact and potential of AI](https://youtu.be/qpoRO378qRY)
 - [Prompt engineering for GitHub Copilot](https://dev.to/github/a-beginners-guide-to-prompt-engineering-with-github-copilot-3ibp)
-- [Using GitHub Copilot to build an app in 18 minutes](https://github.blog/2023-05-05-web-summit-rio-2023-building-an-app-in-18-minutes-with-github-copilot-x/)
-- [Links to MishManners social media](https://mishmanners.info)
+- [Generative AI productivity boost](https://www.forbes.com/sites/brentdykes/2023/04/12/generative-ai-why-an-ai-enabled-workforce-is-a-productivity-game-changer)
+- [AI raise GDP by 7%](https://www.goldmansachs.com/intelligence/pages/generative-ai-could-raise-global-gdp-by-7-percent.html)
+- [Top skills for future of work](https://learning.linkedin.com/blog/top-skills/the-skills-companies-need-most-in-2020and-how-to-learn-them)
+- [5 Skills needed for the future of work](https://dev.to/mishmanners/dont-let-the-robots-take-your-job-top-5-skills-needed-to-stay-employed-85e)
+- [Microsoft Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
 
 Thank you for listening to my talk and checking out the resources.
 

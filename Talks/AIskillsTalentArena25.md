@@ -30,8 +30,6 @@ These are the references I used in my talk:
 
 - [Industrial Revolutions](https://ied.eu/project-updates/the-4-industrial-revolutions/)
 - _Avengers, Age of Ultron_
-- _Imitation Game_
-- [AI History and Alan Turing](https://www.tableau.com/data-insights/ai/history)
  [What is AI? Definition from IBM](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
 - [Building AI literacy in your organisation](https://www.linkedin.com/learning/build-ai-literacy-in-your-organization-as-a-business-leader/dispelling-common-ai-fears)
 - _Wall-E_

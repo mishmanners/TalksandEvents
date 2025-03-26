@@ -3,6 +3,7 @@
 
 This is for the talk I gave at [Women Coders Meetup Melbourne](https://www.meetup.com/women-coders/events/306322375/)
 
+![image](https://github.com/user-attachments/assets/1609303a-5bf8-4d8c-bda3-9a5cbeb4fabf)
 
 ## Talk Title
 

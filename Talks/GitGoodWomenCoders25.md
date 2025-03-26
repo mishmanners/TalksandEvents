@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c8f8fc38-f4a4-4e27-a507-b566d40e7dfb)# Women Coders Meetup 2025 - Git Good and level up your version control
+# Women Coders Meetup 2025 - Git Good and level up your version control
 ### Why does Git exist and why should you use it? 
 
 This is for the talk I gave at [Women Coders Meetup Melbourne](https://www.meetup.com/women-coders/events/306322375/)

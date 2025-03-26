@@ -17,14 +17,14 @@ In this talk we'll explore why Git exists, how it helps teams (and even solo dev
 
 What You'll Learn:
 
-✅ What is version control
-✅ What is Git
-✅ Why Git is essential for every developer
-✅ How to track changes, collaborate, and avoid disasters
-✅ The magic of branches and why you should use them
-✅ How to recover from mistakes like a pro
-✅ How you can use GitHub with Git
-✅ What to do when you get stuck
+- What is version control
+- What is Git
+- Why Git is essential for every developer
+- How to track changes, collaborate, and avoid disasters
+- The magic of branches and why you should use them
+- How to recover from mistakes like a pro
+- How you can use GitHub with Git
+- What to do when you get stuck
 
 No prior Git experience required. All genders are welcome to attend!
 

@@ -1,4 +1,4 @@
-# Women Coders Meetup 2025 - Git Good and level up your version control
+![image](https://github.com/user-attachments/assets/c8f8fc38-f4a4-4e27-a507-b566d40e7dfb)# Women Coders Meetup 2025 - Git Good and level up your version control
 ### Why does Git exist and why should you use it? 
 
 This is for the talk I gave at [Women Coders Meetup Melbourne](https://www.meetup.com/women-coders/events/306322375/)
@@ -34,12 +34,25 @@ No prior Git experience required. All genders are welcome to attend!
 
 These are the references I used in my talk:
 
-- 
+- [Using Git everyday](https://git-scm.com/docs/giteveryday)
+- [Getting started with version control](https://git-scm.com/book/ms/v2/Getting-Started-About-Version-Control)
+- [Download Git](https://git-scm.com/)
+- [Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
+- [What is a Git branch](https://nulab.com/learn/software-development/git-tutorial/git-collaboration/branches/what-is-a-git-branch/)
+- [GitHub](https://github.com)
+- [TinaCMS, example of commits](https://github.com/tinacms/tinacms)
+- [Mish Friendly Food, demo repo](https://github.com/mishmanners/mish-friendly-food)
+- [Git switch vs. Git checkout](https://kodekloud.com/blog/git-switch-vs-checkout/)
 - [Links to MishManners social media](https://mishmanners.info)
 
 ### Other Resources
 
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
+- [Forks vs. Branches](https://www.ssw.com.au/rules/fork-vs-branch/)
+- [Using gitignore](https://www.ssw.com.au/rules/do-you-use-gitignore-for-your-repo/)
+- [GitHub CLI](https://github.blog/developer-skills/github/how-to-level-up-your-git-game-with-github-cli/)
+- [GitHub Copilot CLI](https://github.blog/developer-skills/programming-languages-and-frameworks/boost-your-cli-skills-with-github-copilot/)
+- [Using GitHub CLI on your phone](https://github.blog/changelog/2025-02-11-github-copilot-chat-and-github-copilot-extension-now-available-for-free-on-github-mobile-and-github-cli/)
 
 Thank you for listening to my talk and checking out the resources.
 

@@ -43,6 +43,8 @@ These are the references I used in my talk:
 - [TinaCMS, example of commits](https://github.com/tinacms/tinacms)
 - [Mish Friendly Food, demo repo](https://github.com/mishmanners/mish-friendly-food)
 - [Git switch vs. Git checkout](https://kodekloud.com/blog/git-switch-vs-checkout/)
+- [GitHub CLI](https://cli.github.com/)
+- [GitHub Copilot CLI](https://cli.github.com/)
 - [Links to MishManners social media](https://mishmanners.info)
 
 ### Other Resources

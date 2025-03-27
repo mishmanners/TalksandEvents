@@ -1,4 +1,4 @@
-# Women Coders Meetup 2025 - Git Good and level up your version control
+9# Women Coders Meetup 2025 - Git Good and level up your version control
 ### Why does Git exist and why should you use it? 
 
 This is for the talk I gave at [Women Coders Meetup Melbourne](https://www.meetup.com/women-coders/events/306322375/)
@@ -51,6 +51,7 @@ These are the references I used in my talk:
 
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
 - [Forks vs. Branches](https://www.ssw.com.au/rules/fork-vs-branch/)
+- [Git squash](https://www.git-tower.com/learn/git/faq/git-squash)
 - [Using gitignore](https://www.ssw.com.au/rules/do-you-use-gitignore-for-your-repo/)
 - [GitHub CLI](https://github.blog/developer-skills/github/how-to-level-up-your-git-game-with-github-cli/)
 - [GitHub Copilot CLI](https://github.blog/developer-skills/programming-languages-and-frameworks/boost-your-cli-skills-with-github-copilot/)

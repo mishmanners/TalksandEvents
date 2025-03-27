@@ -52,6 +52,7 @@ These are the references I used in my talk:
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
 - [Forks vs. Branches](https://www.ssw.com.au/rules/fork-vs-branch/)
 - [Git squash](https://www.git-tower.com/learn/git/faq/git-squash)
+- [Git rebase](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase)
 - [Using gitignore](https://www.ssw.com.au/rules/do-you-use-gitignore-for-your-repo/)
 - [GitHub CLI](https://github.blog/developer-skills/github/how-to-level-up-your-git-game-with-github-cli/)
 - [GitHub Copilot CLI](https://github.blog/developer-skills/programming-languages-and-frameworks/boost-your-cli-skills-with-github-copilot/)

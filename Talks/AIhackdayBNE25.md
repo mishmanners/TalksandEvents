@@ -6,7 +6,7 @@ This is a talk I gave at the [AI Hack Day Brisbane](https://aihackday.com/brisba
 
 ## Talk Title
 
-### 🤖 Skills for the age of AI tools: How to build resilience and effectively use the technology available
+### 🤖 Skills for the age of AI tools: How to effectively use the technology available
 
 ## Abstract
 

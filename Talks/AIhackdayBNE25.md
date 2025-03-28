@@ -1,14 +1,12 @@
 # AI Hack Day - Brisbane 2025
 
-This is a talk I gave at the [YOW Conferences, Melbourne, Brisbane, Sydney](https://yowcon.com/melbourne-2024/speakers/3650/michelle-mishmanners-duke).
+This is a talk I gave at the [AI Hack Day Brisbane](https://aihackday.com/brisbane/).
 
-![Horizontal promo](https://github.com/user-attachments/assets/a3e68037-4592-49b6-b873-1040e2f5cbaa)
-
-Recording coming.
+![image (11)](https://github.com/user-attachments/assets/8abecd41-740e-456a-b073-84cf7fa5e29f)
 
 ## Talk Title
 
-### AI 🤖 and the future of work: How to build resilience to ensure you still have a job
+### 🤖 Skills for the age of AI tools: How to build resilience and effectively use the technology available
 
 ## Abstract
 
@@ -37,39 +35,34 @@ These are the references I used in my talk:
 - [The Four Industrial Revolutions](https://ied.eu/project-updates/the-4-industrial-revolutions/)
 - [Why do people go to work?](https://www.engageemployee.com/blog/top-20-reasons-we-go-to-work)
 - [History of AI](https://www.tableau.com/data-insights/ai/history)
+- What is AI? [Definition from IBM](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
 - [Sushi village server BellaBot waiter](https://www.youtube.com/watch?v=jCCSYtmPtag&ab_channel=OttawaCitizen)
 - [China's first robot restaurant](https://www.youtube.com/watch?v=kXIV0LVQx6E&ab_channel=CarrosShow)
 - [Atlas, Boston Dynamics Robot](https://www.youtube.com/watch?v=F_7IPm7f1vI&ab_channel=BostonDynamics)
-- What is machine learning? [Definition from IBM](https://www.javatpoint.com/types-of-machine-learning)
-- What is AI? [Definition from IBM](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
-- Generative text: [Chat GPT](https://chat-gpt.org/)
 - Productivity enhancement of tools: [Microsoft Copilot](https://blogs.microsoft.com/blog/2023/03/16/introducing-microsoft-365-copilot-your-copilot-for-work/)
 - Generative image: [Microsoft Designer](https://designer.microsoft.com/)
 - Generative video: [Sora AI](https://openai.com/index/sora/)
 - Generative code: [GitHub Copilot](https://copilot.github.com/)
 - Generative code in the terminal [Aider](https://github.com/Aider-AI/aider)
 - Productivity enhancement of tools: [Atlassian AI](https://www.atlassian.com/platform/artificial-intelligence)
-- [There's an AI for that](https://theresanaiforthat.com/)
+- [GitHub Copilot Agent Mode](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
 - [Increased productivity with GitHub Copilot](https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-code-quality/)
 - [Westpac coding experiment](https://www.itnews.com.au/news/westpac-sees-46-percent-productivity-gain-from-ai-coding-experiment-596423)
-- [Productivity efficiency with AI tools](https://newsletter.pragmaticengineer.com/p/ai-coding-tools)
-- [Time spent on tasks](https://www.nngroup.com/articles/chatgpt-productivity/)
-- [Generative AI at work](https://www.microsoft.com/en-us/worklab/work-trend-index/copilots-earliest-users-teach-us-about-generative-ai-at-work)
-- [Atlassian AI Collaboration Report](https://www.atlassian.com/blog/productivity/ai-collaboration-report)
-- [Why an AI workforce is more productive, ChatGPT writing task](https://www.forbes.com/sites/brentdykes/2023/04/12/generative-ai-why-an-ai-enabled-workforce-is-a-productivity-game-changer/)
-- [Harvard Study on ChatGPT](https://www.mi-3.com.au/20-09-2023/harvard-business-school-study-bcg-finds-knowledge-workers-using-chat-gpt-outperform)
-- [Generative AI to add to the GDP](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#key-insights)
-- [Generative AI to add to the world economy](https://www.pwc.com/gx/en/issues/artificial-intelligence/publications/artificial-intelligence-study.html)
+- [Accenture coding experiment](https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-in-the-enterprise-with-accenture/)
 - Rise of AI could cut wages, [ABC](https://www.abc.net.au/news/2024-03-13/ai-jobs-linkedin-artificial-intelligence-worker-future/103570268)
 - Core skills will change, employees need upskilling, [World Economic Forum](https://www.weforum.org/publications/the-future-of-jobs-report-2023/in-full/executive-summary/)
 - [Occuptional transitions needed](https://www.mckinsey.com/mgi/our-research/generative-ai-and-the-future-of-work-in-America)
 - [Will a Robot Take my job?](https://willrobotstakemyjob.com)
 - What is Resilience? [Excert/definion from Resilience: Reflections on the Burdens and Gifts of Facing Life's Adversities](https://www.goodreads.com/author/quotes/6439373.Elizabeth_Edwards)
-- Additional examples of AI tools to use: [Adobe Firefly](https://www.adobe.com/products/firefly.html), [Atlassian Rovo](https://www.atlassian.com/software/rovo), [Asana](https://asana.com/), [InVideo](https://ai.invideo.io/), [Grammarly](https://www.grammarly.com/), [Midjourney](https://www.midjourney.com/), [Jasper](https://www.jasper.ai/), [Claude](https://claude.ai/), [Descript](https://www.descript.com/), [Gemini](https://gemini.google.com/)
-- Examples of building using AI tools: [Meta AI](https://ai.meta.com/resources/models-and-libraries/), [Hugging Face](https://huggingface.co/), [OpenCV](https://opencv.org/), [BlenderGPT](https://github.com/gd3kr/BlenderGPT), [Rasa](https://rasa.com/), [OpenAI API](https://openai.com/product), [TensorFlow](https://www.tensorflow.org/), [NVIDIA Developer](https://developer.nvidia.com/deep-learning), [BionicGPT](https://github.com/bionic-gpt/bionic-gpt), [Ivy](https://github.com/ivy-llc/ivy), [PyTorch](https://pytorch.org/features/)
-- [Ethics in the age of generative AI](https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai/generative-ai-and-ethics-the-urgency-of-now)
-- [Where to learn for free](https://github.com/mishmanners/Free-Learning-Content)
-- [How to cultivate soft skills needed for the future of work](https://dev.to/mishmanners/5-tips-to-future-proof-your-career-how-to-outsmart-automation-62h)
+- [Global Time Code Report](https://www.software.com/reports/code-time-report) 
+- Generative text: [Chat GPT](https://chat-gpt.org/)
+- [Rules to better ChatGPT](https://www.ssw.com.au/rules/rules-to-better-chatgpt-prompt-engineering/)
+- [TinaCMS](https://tina.io)
+- Additional examples of AI tools to use: [Adobe Firefly](https://www.adobe.com/products/firefly.html), [Atlassian Rovo](https://www.atlassian.com/software/rovo), [Asana](https://asana.com/), [InVideo](https://ai.invideo.io/), [Grammarly](https://www.grammarly.com/), [Midjourney](https://www.midjourney.com/), [Jasper](https://www.jasper.ai/), [Claude](https://claude.ai/), [Descript](https://www.descript.com/), [Gemini](https://gemini.google.com/), [YakShaver](https://yakshaver.ai)
+- [There's an AI for that](https://theresanaiforthat.com/)
+- [Atlassian AI Collaboration Report](https://www.atlassian.com/blog/productivity/ai-collaboration-report)
+- [Harvard Study on ChatGPT](https://www.mi-3.com.au/20-09-2023/harvard-business-school-study-bcg-finds-knowledge-workers-using-chat-gpt-outperform)
+- [Generative AI to add to the GDP](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#key-insights)
 
 ### Movie and popular culture references
 
@@ -80,7 +73,6 @@ These are the references I used in my talk:
 - _Blade Runner_ (1982)
 - R2D2, _Star Wars_ Series (1977—)
 - _The Mandalorian_ Season 3, Episode 6 “Guns for Hire" (2023)
-
 
 ### Other Resources
 
@@ -97,7 +89,13 @@ These are the references I used in my talk:
 - [Prompt engineering for AI: what is prompt engineering and how to get good results from AI engines](https://dev.to/github/prompt-engineering-for-ai-what-is-prompt-engineering-and-how-to-get-good-results-from-ai-engines-5ch6)
 - [Prompt engineering for GitHub Copilot](https://dev.to/github/a-beginners-guide-to-prompt-engineering-with-github-copilot-3ibp)
 - [Links to MishManners social media](https://mishmanners.info)
+- Examples of building using AI tools: [Meta AI](https://ai.meta.com/resources/models-and-libraries/), [Hugging Face](https://huggingface.co/), [OpenCV](https://opencv.org/), [BlenderGPT](https://github.com/gd3kr/BlenderGPT), [Rasa](https://rasa.com/), [OpenAI API](https://openai.com/product), [TensorFlow](https://www.tensorflow.org/), [NVIDIA Developer](https://developer.nvidia.com/deep-learning), [BionicGPT](https://github.com/bionic-gpt/bionic-gpt), [Ivy](https://github.com/ivy-llc/ivy), [PyTorch](https://pytorch.org/features/)
+- [Ethics in the age of generative AI](https://www.linkedin.com/learning/ethics-in-the-age-of-generative-ai/generative-ai-and-ethics-the-urgency-of-now)
+- [Where to learn for free](https://github.com/mishmanners/Free-Learning-Content)
+- [How to cultivate soft skills needed for the future of work](https://dev.to/mishmanners/5-tips-to-future-proof-your-career-how-to-outsmart-automation-62h)
 
 Thank you for listening to my talk and checking out the resources.
 
 ![mish heart large](https://user-images.githubusercontent.com/36594527/195619762-82827b2e-bfdd-49b6-b8df-5b9e15f4f044.png)
+
+Don't forget to check into the Hack Day and get your SSW

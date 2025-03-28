@@ -44,6 +44,8 @@ These are the references I used in my talk:
 - Generative video: [Sora AI](https://openai.com/index/sora/)
 - Generative code: [GitHub Copilot](https://copilot.github.com/)
 - Generative code in the terminal [Aider](https://github.com/Aider-AI/aider)
+- [Sora](https://openai.com/sora/)
+- [Razer WYVRN](https://techau.com.au/razer-wyvrn/)
 - Productivity enhancement of tools: [Atlassian AI](https://www.atlassian.com/platform/artificial-intelligence)
 - [GitHub Copilot Agent Mode](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
 - [Increased productivity with GitHub Copilot](https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-code-quality/)

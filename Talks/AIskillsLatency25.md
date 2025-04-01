@@ -1,8 +1,8 @@
-# AI Hack Day - Brisbane 2025
+# Skills for the age of AI developer tools - Latency Conference 2025
 
-This is a talk I gave at the [AI Hack Day Brisbane](https://aihackday.com/brisbane/).
+This is a talk I gave at [Latency Conference 2025](https://latencyconf.io/sessions/keynote).
 
-![image (11)](https://github.com/user-attachments/assets/8abecd41-740e-456a-b073-84cf7fa5e29f)
+![Banner_MichelleDuke](https://github.com/user-attachments/assets/010fbb52-9e8d-4cbf-a6de-2491c8e393cd)
 
 ## Talk Title
 

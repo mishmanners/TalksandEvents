@@ -1,4 +1,4 @@
-9# Women Coders Meetup 2025 - Git Good and level up your version control
+# Women Coders Meetup 2025 - Git Good and level up your version control
 ### Why does Git exist and why should you use it? 
 
 This is for the talk I gave at [Women Coders Meetup Melbourne](https://www.meetup.com/women-coders/events/306322375/)

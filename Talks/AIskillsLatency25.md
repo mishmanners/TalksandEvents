@@ -36,7 +36,7 @@ These are the references I used in my talk:
 - [Why do people go to work?](https://www.engageemployee.com/blog/top-20-reasons-we-go-to-work)
 - [History of AI](https://www.tableau.com/data-insights/ai/history)
 - What is AI? [Definition from IBM](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
-- [Atlas, Boston Dynamics Robot](https://www.youtube.com/watch?v=F_7IPm7f1vI&ab_channel=BostonDynamics)
+- [China Robot Chef](https://www.youtube.com/watch?v=kXIV0LVQx6E&ab_channel=CarrosShow )
 - [GitHub Copilot](https://copilot.github.com)
 - [GitHub Copilot Agent Mode](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
 - What is Resilience? [Excert/definion from Resilience: Reflections on the Burdens and Gifts of Facing Life's Adversities](https://www.goodreads.com/author/quotes/6439373.Elizabeth_Edwards)

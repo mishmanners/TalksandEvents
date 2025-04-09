@@ -1,10 +1,8 @@
 #  Microsoft Global AI Bootcamp 2025 - Ensuring Quality Testing in an AI-Driven World
 
-![Michelle_Duke_SpeakerCreatives2](https://github.com/user-attachments/assets/837b8222-2d55-4b02-9f0e-a7dfd0c80560)
+![Duke_-_Ensuring_quality_testing_in_an_AI-driven_world_892697](https://github.com/user-attachments/assets/2f688181-8696-442c-a147-c677978587fe)
 
-This is the talk I gave at [Testμ Conference 2024](https://www.lambdatest.com/testmuconf-2024/michelle-duke).
-
-**[Watch the recording](https://www.youtube.com/watch?v=abbQF2NpmNw&ab_channel=LambdaTest)**.
+This is the talk I gave at [Global AI Bootcamp Melbourne](https://www.meetup.com/melbourne-azure-nights/events/306036197/).
 
 ## Talk Title
 

@@ -4,26 +4,24 @@
 
 This is the talk I gave at [Global AI Bootcamp Melbourne](https://www.meetup.com/melbourne-azure-nights/events/306036197/).
 
-## Talk Title
+## Ensuring Quality Testing in an AI-Driven World
 
 ### Master Test Writing with GitHub Copilot
 
 ## Abstract
 
-Unleash the power of GitHub Copilot, your AI pair programmer. GitHub Copilot can be a game-changer when it comes to writing tests. GitHub Copilot can generate code snippets based on your .natural language descriptions.
+As artificial intelligence continues to reshape the software development landscape, testing is evolving at a rapid pace. Traditional testing methods are being augmented or replaced, by AI-driven automation, predictive analytics, and intelligent quality assurance. But with these advancements come new challenges. Can AI really understand human intent? How do we ensure fairness, reliability, and ethical considerations? Where does empathy fit in a world increasingly dominated by algorithms?
 
-In this session we'll introduce you to GitHub Copilot and how it leverages machine learning to assist developers in writing code. When it comes to writing code however, many developers enjoy focusing on the code aspect. We love writing code and moving onto the next exciting project. Writing tests is an important aspect of software development, and one many developers dread doing.
+In this keynote, we’ll explore the intersection of AI and software testing, diving into how quality assurance professionals can adapt, innovate, and stay ahead. We’ll discuss the role of human oversight in AI-driven testing, strategies for balancing automation with critical thinking, and the future of testing in an era where software quality directly impacts real-world experiences.
 
-We'll cover the different types of tests, and how to use GitHub Copilot to help you write different types of tests for your projects. We'll discuss some of the best practices when it comes to prompt engineering, and how to get the most out of GitHub Copilot.
+It's an exciting future of testing, where AI enhances our capabilities, yet human empathy and intuition remain irreplaceable.
 
-Key Takeaways:
-
-- Introduction to GitHub and how it leverages machine learning to provide lines or whole code functions
-- The basics of testing: why it's important, different test types
-- Using GitHub Copilot to write tests
-- Generating test cases
-- Testing automation
-- How to get the most out of GitHub Copilot (prompt engineering)
+In this talk, I'll cover:
+- Evolution of software testing
+- What is AI-driven testing
+- How to effectively use AI in testing
+- Role of people in testing
+- Future of testing
 
 ## Resources and Links
 

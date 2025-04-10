@@ -6,7 +6,7 @@ This is the talk I gave at [Global AI Bootcamp Melbourne](https://www.meetup.com
 
 ## Ensuring Quality Testing in an AI-Driven World
 
-### Master Test Writing with GitHub Copilot
+### How do we test software in this era?
 
 ## Abstract
 

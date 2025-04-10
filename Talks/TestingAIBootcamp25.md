@@ -1,4 +1,4 @@
-#  Microsoft Global AI Bootcamp 2025 - Ensuring Quality Testing in an AI-Driven World
+![image](https://github.com/user-attachments/assets/c0ac5499-17d6-4bca-9598-390cef7d7669)#  Microsoft Global AI Bootcamp 2025 - Ensuring Quality Testing in an AI-Driven World
 
 ![Duke_-_Ensuring_quality_testing_in_an_AI-driven_world_892697](https://github.com/user-attachments/assets/2f688181-8696-442c-a147-c677978587fe)
 
@@ -37,7 +37,6 @@ These are the references I used in my talk:
 - [Microsoft Designer](https://designer.microsoft.com/)
 - [Sora](https://openai.com/sora/)
 - [GitHub Copilot](https://copilot.github.com/)
-- [GitHub Copilot Agent mode](https://github.blog/news-insights/product-news/github-copilot-agent-mode-activated/)
 - [There's an AI for that](https://theresanaiforthat)
 - [Mish Friendly Food repo for code](https://github.com/mishmanners/mish-friendly-food)
 - [Prompt engineering for GitHub Copilot](https://dev.to/github/a-beginners-guide-to-prompt-engineering-with-github-copilot-3ibp)
@@ -49,6 +48,10 @@ These are the references I used in my talk:
 - [Westpac - 46% productivity gain](https://www.itnews.com.au/news/westpac-sees-46-percent-productivity-gain-from-ai-coding-experiment-596423)
 - [Research: Quantifying GitHub Copilot’s impact in the enterprise with Accenture](https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-in-the-enterprise-with-accenture/)
 - [GitHub Copilot's impact on Accenture developers](https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-in-the-enterprise-with-accenture/)
+- [Atlassian AI Collaboration Report](https://www.atlassian.com/blog/productivity/ai-collaboration-report)
+- [Economic production of generative AI](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#key-insights)
+- [AI jobs](https://www.abc.net.au/news/2024-03-13/ai-jobs-linkedin-artificial-intelligence-worker-future/103570268)
+- [GitHub Copilot Agent mode](https://github.blog/news-insights/product-news/github-copilot-agent-mode-activated/)
 - [Links to MishManners social media](https://mishmanners.info)
 
 ### Other Resources

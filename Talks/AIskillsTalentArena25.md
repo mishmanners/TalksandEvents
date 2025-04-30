@@ -1,7 +1,7 @@
 # Talent Arena 2025 - Skills for the age of AI developer tools
 ### How to build resilience and effectively use the technology available
 
-This is for the talk I gave at [Talent Arena, Spain](https://talentarena.tech/speakers/)
+This is for the talk I gave at [Talent Arena, Spain](https://talentarena.tech/speakers/).
 
 ![be754e78-a78c-4780-bb4e-7fbfa58564b2](https://github.com/user-attachments/assets/71f7b800-5ddf-46b6-838d-42840f6eb7ff)
 

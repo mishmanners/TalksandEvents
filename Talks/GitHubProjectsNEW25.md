@@ -1,6 +1,6 @@
-# GitHub User Meetup - How I used GitHub Projects to move my house
+# SlashNEW Conference - How I used GitHub Projects to move my house
 
-This is for the talk I gave at [Melbourne GitHub User Group's Meetup](https://www.meetup.com/melbourne-github-user-group/events/302451558/).
+This is for the talk I gave at [SlashNEW](https://agenda.slashnew.tech/session/michelle-duke?returnTo=day%201).
 
 ![Horizontal promo](https://github.com/user-attachments/assets/28ff66e4-e56d-4041-a7f5-f89e39dec0ef)
 

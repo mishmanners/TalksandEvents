@@ -2,7 +2,7 @@
 
 This is for the talk I gave at [Melbourne GitHub User Group's Meetup](https://www.meetup.com/melbourne-github-user-group/events/302451558/).
 
-![image](https://github.com/user-attachments/assets/721a4d02-011a-4995-8c0d-f0dbf101df1a)
+![Horizontal promo](https://github.com/user-attachments/assets/28ff66e4-e56d-4041-a7f5-f89e39dec0ef)
 
 This talk was not recorded.
 

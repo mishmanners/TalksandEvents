@@ -50,7 +50,7 @@ These are the references I used in my talk:
 - [VS Code project board](https://github.com/orgs/microsoft/projects/1367)
 - [Ten things you didn't know you could do with GitHub Projects](https://github.blog/2023-08-28-10-things-you-didnt-know-you-could-do-with-github-projects/)
 - [Girl Geek Academy](https://girlgeekacademy.com/)
-- 
+- [Learn how to use GitHub Projects via Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/manage-work-github-projects/)
 
 ### Other Resources
 

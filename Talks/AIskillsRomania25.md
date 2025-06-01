@@ -53,9 +53,9 @@ These are the references I used in my talk:
 - Additional examples of AI tools to use: [Adobe Firefly](https://www.adobe.com/products/firefly.html), [Atlassian Rovo](https://www.atlassian.com/software/rovo), [Asana](https://asana.com/), [InVideo](https://ai.invideo.io/), [Grammarly](https://www.grammarly.com/), [Midjourney](https://www.midjourney.com/), [Jasper](https://www.jasper.ai/), [Claude](https://claude.ai/), [Descript](https://www.descript.com/), [Gemini](https://gemini.google.com/)
 - Developing with AI models: [Open AI](https://openai.com/product), [Blender GPT](https://github.com/gd3kr/BlenderGPT), [Meta AI](https://ai.meta.com/resources/models-and-libraries/), [TensorFlow](https://www.tensorflow.org/), [NVIDIA Developer](https://developer.nvidia.com/deep-learning), [PyTorch](https://pytorch.org/features/), [DocsGPT](https://github.com/arc53/DocsGPT), [BionicGPT](data center: https://github.com/bionic-gpt/bionic-gpt), [Hugging Face](https://huggingface.co/), [Ivy](https://github.com/ivy-llc/ivy) [Rasa](https://rasa.com/)
 - [There's an AI for that](https://theresanaiforthat.com/)
+- [Modes, Models, and Methods](https://dev.to/mishmanners/github-copilot-methods-modes-and-models-which-one-is-the-best-g6f)
 - [Atlassian AI Collaboration Report](https://www.atlassian.com/blog/productivity/ai-collaboration-report)
 - [Harvard Study on ChatGPT](https://www.mi-3.com.au/20-09-2023/harvard-business-school-study-bcg-finds-knowledge-workers-using-chat-gpt-outperform)
-- [Generative AI to add to the GDP](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#key-insights)
 - [Where to learn for free](https://github.com/mishmanners/Free-Learning-Content)
 
 ### Movie and popular culture references
@@ -76,6 +76,7 @@ These are the references I used in my talk:
 - [GitHub Copilot Developer Happiness study](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
 - [Generative AI productivity boost](https://www.forbes.com/sites/brentdykes/2023/04/12/generative-ai-why-an-ai-enabled-workforce-is-a-productivity-game-changer)
 - [AI raise GDP by 7%](https://www.goldmansachs.com/intelligence/pages/generative-ai-could-raise-global-gdp-by-7-percent.html)
+- [Generative AI to add to the GDP](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#key-insights)
 - [Top skills for future of work](https://learning.linkedin.com/blog/top-skills/the-skills-companies-need-most-in-2020and-how-to-learn-them)
 - [5 Skills needed for the future of work](https://dev.to/mishmanners/dont-let-the-robots-take-your-job-top-5-skills-needed-to-stay-employed-85e)
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)

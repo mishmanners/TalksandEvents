@@ -1,10 +1,10 @@
-# NDC Melbourne 2025 - Skills for the age of AI developer tools
+# Dev<Talks/> Romania 2025 - Skills for the age of AI developer tools
 
 ### How to build resilience and effectively use the technology available
 
-This is for the talk I gave at [NDC Melbourne 2025](https://ndcmelbourne.com/slots/skills-for-the-age-of-ai-developer-tools/793569)
+This is for the talk I gave at [DevTalks Romania in 2025](https://www.devtalks.ro/speakers/543-michelle-duke)
 
-![Duke_-_Skills_for_the_age_of_AI_developer_tools_793569](https://github.com/user-attachments/assets/51c99d34-5e85-47ab-9ed6-f2df609207ce)
+![1738245849729 (1)](https://github.com/user-attachments/assets/67368c5d-30cf-4c25-bc98-32009d028908)
 
 ## Talk Title
 

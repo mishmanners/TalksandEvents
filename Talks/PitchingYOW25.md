@@ -22,11 +22,20 @@ At the end of my session, you'll walk away with a playbook on how to "sell" your
 
 These are the references I used in my talk:
 
-- Add here
+- [45 minute version of Mish's AI Skills talk](https://youtu.be/rnZbQFZZU_c)
+- [Business Model Canvas](https://www.alexandercowan.com/business-model-canvas-templates/)
+- [Lean Canvas](https://www.leanfoundry.com/tools/lean-canvas)
 
 ### Other Resources
 
 - [Links to MishManners social media](https://mishmanners.info)
+- [1 minute elevator pitch on selling coffee cups](https://www.youtube.com/watch?v=i6O98o2FRHw)
+- [5 minute comedy pitch on selling horse pants](https://www.youtube.com/watch?v=opNiKBP7hQo)
+- [Top 5 startup pitches of all time](https://www.youtube.com/watch?v=XbbpqHp77dY&ab_channel=CoolTechNews)
+- [2019 Startupfest pitch competition](https://www.youtube.com/watch?v=X1M2LcL5Oo4&ab_channel=Startupfest)
+- [“Slideology The Art and Science of Creating Great Presentations” by Nancy Duarte](https://www.amazon.com/slide-ology-Science-Creating-Presentations/dp/0596522347?&language=en_US&ref_=as_li_ss_tl)
+- [“Talk Like TED: The 9 Public-Speaking Secrets of the World’s Top Minds” by Carmine Gallo](https://www.amazon.com/Talk-Like-TED-Public-Speaking-Secrets/dp/1250041120?&language=en_US&ref_=as_li_ss_tl)
+- [“Made to Stick: Why Some Ideas Survive and Others Die” by Chip Heath & Dan Heath](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287?&language=en_US&ref_=as_li_ss_tl)
 
 Thank you for listening to my talk and checking out the resources.
 

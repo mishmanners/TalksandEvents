@@ -4,9 +4,9 @@
 
 This is for the talk I gave at [YOW! Tech Leaders Summit 2025](https://yowcon.com/tech-leaders-melbourne-2025/sessions/3750/how-to-effectively-pitch-your-idea).
 
-## Pitch Like a Pro
-
-### How to effectively present your idea
+## Talk Title
+### Pitch Like a Pro
+#### How to effectively present your idea
 
 ## Abstract
 

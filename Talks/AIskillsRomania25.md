@@ -6,9 +6,9 @@ This is for the talk I gave at [DevTalks Romania in 2025](https://www.devtalks.r
 
 ![1738245849729 (1)](https://github.com/user-attachments/assets/67368c5d-30cf-4c25-bc98-32009d028908)
 
-## Talk Title
+## Skills for the age of AI developer tools 🤖
 
-### Skills for the age of AI developer tools 🤖 How to build resilience and effectively use the technology available
+###  How to build resilience and effectively use the technology available
 
 ## Abstract
 

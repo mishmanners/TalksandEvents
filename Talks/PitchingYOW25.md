@@ -2,28 +2,20 @@
 
 ### How to effectively pitch your idea
 
-This is for the talk I gave at [YOW! Tech Leaders Summit 2025]().
+This is for the talk I gave at [YOW! Tech Leaders Summit 2025](https://yowcon.com/tech-leaders-melbourne-2025/sessions/3750/how-to-effectively-pitch-your-idea).
 
 
 ## Talk Title
 
-### Skills for the age of AI developer tools 🤖 How to build resilience and effectively use the technology available
+### How to Effectively Pitch Your Idea
 
 ## Abstract
 
-With the rise of AI and automation, how do we as humans find our value in the workplace? How do we work with these new technologies? How do we build resilience to changes? What skills are needed for us to thrive in this new world?
+When it comes to building a business, or creating a team, you will be required to pitch your ideas. Selling your idea to investors, stakeholders, PR companies, potential teammates, partners, and event organisations will be crucial to the success of your idea.
 
-People have often felt apprehensive about change, especially big changes to the way we work. It happened in the industrial revolution and now it's happening with the rise of artificial intelligence. Five years ago these things existed, but now they are accessible to almost everyone.
+How does one do this effectively without sounding egotistical? I'll teach you the MAGIC formula for pitching any idea, any game, to anyone. You can use this magic formula for an elevator pitch, a 5 minute lighting round, a 20 minute session, or even an hour long workshop.
 
-In this session I'll cover:
-
-- What is work and why should we work
-- Industrial revolutions
-- Artificial Intelligence and applications
-- Fears and concerns
-- Working with AI
-- Skills for AI developer tooling
-- Soft skills and how to cultivate them
+At the end of my session, you'll walk away with a playbook on how to "sell" your idea, get people on board with your proposal, and make real changes. You'll also receive tips and tricks for effectively presenting to your audience; whether that's a big board room conversation, a presentation on stage, or even just a coffee chat.
 
 ## Resources and Links
 

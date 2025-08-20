@@ -32,6 +32,7 @@ These are the references I used in my talk:
 - [The basics of test writing, testing pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 - [Types of testing](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
 - [History of software testing](https://www.geeksforgeeks.org/software-testing/history-of-software-testing/)
+- [First bug found in a computer](https://todayinconservation.com/2018/07/september-9-first-bug-found-in-computer-1945/)
 - [History of AI](https://www.tableau.com/data-insights/ai/history)
 - [Definition of AI from IBM](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
 - [There's an AI for that](https://theresanaiforthat)

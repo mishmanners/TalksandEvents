@@ -40,15 +40,16 @@ These are the references I used in my talk:
 - [How to test websites: Using SIRV and Playwright for test driven development (TDD)](https://dev.to/mishmanners/how-to-test-websites-using-sirv-and-playwright-for-test-driven-development-tdd-8ph)
 - [Playwright testing](https://playwright.dev/)
 - [Test driven development humour](https://www.reddit.com/r/ProgrammerHumor/comments/tgogft/sometimes_progress_looks_like_failure/)
+- [GitHub Copilot Agent mode](https://github.blog/news-insights/product-news/github-copilot-agent-mode-activated/)
 - [Microsoft Learn module for testing](https://learn.microsoft.com/en-us/training/modules/develop-unit-tests-using-github-copilot-tools/)
 - [GitHub Copilot chat - better code quality](https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-code-quality/)
 - [Westpac - 46% productivity gain](https://www.itnews.com.au/news/westpac-sees-46-percent-productivity-gain-from-ai-coding-experiment-596423)
 - [Research: Quantifying GitHub Copilot’s impact in the enterprise with Accenture](https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-in-the-enterprise-with-accenture/)
-- [GitHub Copilot's impact on Accenture developers](https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-in-the-enterprise-with-accenture/)
 - [Atlassian AI Collaboration Report](https://www.atlassian.com/blog/productivity/ai-collaboration-report)
 - [Economic production of generative AI](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#key-insights)
 - [AI jobs](https://www.abc.net.au/news/2024-03-13/ai-jobs-linkedin-artificial-intelligence-worker-future/103570268)
-- [GitHub Copilot Agent mode](https://github.blog/news-insights/product-news/github-copilot-agent-mode-activated/)
+- [New Relic and GitHub Copilot](https://newrelic.com/platform/agentic-integrations/github-copilot-preview)
+- [Making India AI-first](https://news.microsoft.com/india-visit-2025/)
 - [Links to MishManners social media](https://mishmanners.info)
 
 ### Other Resources

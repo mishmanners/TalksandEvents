@@ -2,7 +2,7 @@
 
 ![Duke_-_Ensuring_quality_testing_in_an_AI-driven_world_892697](https://github.com/user-attachments/assets/2f688181-8696-442c-a147-c677978587fe)
 
-This is the talk I gave at [Global AI Bootcamp Melbourne](https://www.meetup.com/melbourne-azure-nights/events/306036197/).
+This is the talk I gave at [Testμ Conference - 2025](https://www.lambdatest.com/testmuconf-2025/michelle-duke).
 
 ## Ensuring Quality Testing in an AI-Driven World
 

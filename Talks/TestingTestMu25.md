@@ -1,4 +1,4 @@
-#  Microsoft Global AI Bootcamp 2025 - Ensuring Quality Testing in an AI-Driven World
+#  Testμ Conference 2025 - Ensuring Quality Testing in an AI-Driven World
 
 ![Duke_-_Ensuring_quality_testing_in_an_AI-driven_world_892697](https://github.com/user-attachments/assets/2f688181-8696-442c-a147-c677978587fe)
 

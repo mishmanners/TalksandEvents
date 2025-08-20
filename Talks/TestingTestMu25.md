@@ -1,6 +1,6 @@
 #  Testμ Conference 2025 - Ensuring Quality Testing in an AI-Driven World
 
-<img width="1200" height="856" alt="Michelle Duke cropped" src="https://github.com/user-attachments/assets/7359f412-d313-472e-9a15-9a014eaa9ed0" />
+<img width="600" alt="Michelle Duke cropped" src="https://github.com/user-attachments/assets/7359f412-d313-472e-9a15-9a014eaa9ed0" />
 
 This is the talk I gave at [Testμ Conference - 2025](https://www.lambdatest.com/testmuconf-2025/michelle-duke).
 

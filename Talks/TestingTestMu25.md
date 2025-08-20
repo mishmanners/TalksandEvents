@@ -31,12 +31,9 @@ These are the references I used in my talk:
 
 - [The basics of test writing, testing pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 - [Types of testing](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
+- [History of software testing](https://www.geeksforgeeks.org/software-testing/history-of-software-testing/)
 - [History of AI](https://www.tableau.com/data-insights/ai/history)
 - [Definition of AI from IBM](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
-- [Chat GPT](https://chat.openai.com/)
-- [Microsoft Designer](https://designer.microsoft.com/)
-- [Sora](https://openai.com/sora/)
-- [GitHub Copilot](https://copilot.github.com/)
 - [There's an AI for that](https://theresanaiforthat)
 - [Mish Friendly Food repo for code](https://github.com/mishmanners/mish-friendly-food)
 - [Prompt engineering for GitHub Copilot](https://dev.to/github/a-beginners-guide-to-prompt-engineering-with-github-copilot-3ibp)

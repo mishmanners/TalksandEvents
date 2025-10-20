@@ -74,27 +74,45 @@ These are the references I used throughout the workshop:
 - [GitHub Copilot prompting](https://github.blog/developer-skills/github/how-to-write-better-prompts-for-github-copilot/)
 - [Ethics in prompt engineering and responsible use of AI](https://dev.to/mishmanners/responsible-use-of-ai-for-developers-ethics-and-prompting-with-purpose-1on5)
 
+#### Lesson 5 - GitHub Copilot modes and models
+
+- [GitHub Copilot modes and models](https://dev.to/mishmanners/github-copilot-methods-modes-and-models-which-one-is-the-best-g6f)
+- [Available models for GitHub Copilot](https://docs.github.com/en/copilot/reference/ai-models/model-comparison)
+- [Supported editors and models](https://docs.github.com/en/copilot/reference/ai-models/supported-models)
+- [Embedding model](https://github.blog/news-insights/product-news/copilot-new-embedding-model-vs-code/)
+- [Best models](https://dev.to/mishmanners/github-copilot-methods-modes-and-models-which-one-is-the-best-g6f)
+
+#### Lesson 6 - GitHub Copilot methods
+
+- [GitHub Copilot methods](https://dev.to/mishmanners/github-copilot-methods-modes-and-models-which-one-is-the-best-g6f)
+
+#### Lesson 7 - Supercharging your development workflow
+
+- [Global Code Time Report](https://www.software.com/reports/code-time-report)
+- [Developers spend less time coding](https://drpicox.medium.com/developers-spend-less-than-10-of-time-coding-51c36c73a93b)
+- [Development time](https://www.microsoft.com/en-us/research/uploads/prod/2019/04/devtime-preprint-TSE19.pdf)
+- [Non-English repo](https://github.com/alibaba/easyexcel)
+
+#### Lesson 9 - GitHub Copilot on the web
+
+- [Clean commits](https://github.com/jasontaylordev/CleanArchitecture/commits/main/)
+- [Limitations of PR summaries](https://docs.github.com/en/copilot/responsible-use/pull-request-summaries)
+
+#### Lesson 10 - Working with MCP Servers
+
+- [What is an MCP](https://github.blog/ai-and-ml/llms/what-the-heck-is-mcp-and-why-is-everyone-talking-about-it/)
+- [GitHub MCP Registry](https://github.blog/ai-and-ml/github-copilot/meet-the-github-mcp-registry-the-fastest-way-to-discover-mcp-servers/)
+- [Available MPC Servers](https://github.com/mcp)
+- [Security for MCP Servers](https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/)
+- [Monitoring MCP Servers](https://www.datadoghq.com/blog/monitor-mcp-servers/)
+- [Authorisation flow and security protocols](https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/)
+
 ### Other Resources
 
-- [GitHub Next - what GitHub is working on](https://githubnext.com/)
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
-- [Using GitHub Copilot to build an app in 18 minutes](https://github.blog/2023-05-05-web-summit-rio-2023-building-an-app-in-18-minutes-with-github-copilot-x/)
-- [How GitHub Copilot took flight](https://www.youtube.com/watch?v=8JjVNFc2kK4&ab_channel=GitHub)
-- [Getting start with GitHub Copilot chat](https://www.youtube.com/watch?v=3surPGP7_4o&ab_channel=GitHub)
-- [OpenAI Codex Demo](https://youtu.be/SGUCcjHTmGY)
-- [Play with the Codex](https://webcatalog.io/apps/openai-playground/)
-- [Read more about GPT-4](https://neuroflash.com/blog/gpt-4-open-ai/)
 - [How to use GitHub Copilot for explaining code](https://dev.to/github/understand-your-code-using-github-copilot-5375)
 - [How to use GitHub Copilot for translating code](https://dev.to/github/how-to-translate-code-into-other-languages-using-github-copilot-3n6f)
 - [Practical use cases for GitHub Copilot](https://dev.to/github/why-use-github-copilot-and-copilot-labs-practical-use-cases-for-the-ai-pair-programmer-4hf4)
-- [GitHub Universe all the announcements](https://github.blog/2023-11-15-universes-key-takeaway-innovate-better-with-ai-powered-workflows-on-a-single-unified-platform/)
-- [What is GitHub Copilot](https://youtu.be/Z7hp241--vc)
-- [GitHub Copilot for Business](https://resources.github.com/copilot-for-business/)
-- [Apply to the GitHub Copilot partner program](https://github.com/features/preview/copilot-partner-program)
-- [GitHub CLI commands](https://cli.github.com/manual)
-- [GitHub CLI for SSH](https://dev.to/github/how-to-never-type-passwords-when-using-git-18bb)
-- [GitHub CLI extensions](https://github.com/topics/gh-extension)
-- [How to create GitHub CLI extensions](https://docs.github.com/en/github-cli/github-cli/creating-github-cli-extensions)
 - [Links to MishManners social media](https://mishmanners.info)
 
 Thank you for listening to my talk and checking out the resources.

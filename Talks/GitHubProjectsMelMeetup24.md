@@ -69,4 +69,4 @@ These are the references I used in my talk:
 
 Thank you for listening to my talk and checking out the resources.
 
-![mish heart large](https://user-images.githubusercontent.com/36594527/195619762-82827b2e-bfdd-49b6-b8df-5b9e15f4f044.png)
+![LOVE_112px_TWITCH](https://github.com/user-attachments/assets/b73970cf-54cb-4346-8e96-82a57761ebad)

@@ -8,58 +8,71 @@ Read below for the resources that you can keep after the workshop.
 
 ## Workshop Title
 
-### Level up with GitHub Copilot: Using AI to help you learn, code, and build
+### Supercharge your workflow with GitHub's modes, models, and methods
 
 ## Abstract
 
-It's time you meet your AI pair programmer. Do you find yourself stuck on a chunk of code? Unsure of how best to center a div? GitHub Copilot can help. Get unstuck by seeing suggested lines or code, whole functions, and learn more about your development journey through having code explained, and even translate your code into other languages.
-
+Whether you're a seasoned developer or just starting your coding journey, GitHub Copilot is your pair programmer, productivity booster, and creative collaborator. In this hands-on, four-hour workshop, we’ll take a deep dive into the full potential of GitHub Copilot, which goes beyond the magic of simply autocomplete.
 Find out more about GitHub Copilot, new features, updates, and see a demo.
 
-The session will cover:
-- What is AI
-- Applications of AI
-- How GitHub Copilot works
-- How to get better results from GitHub Copilot with prompt engineering (the art crafting effective prompts)
-- Power of conversational coding with GitHub Copilot Chat
-- What's coming next
+We'll break down GitHub Copilot's different methods of use (autocomplete, inline suggestions, and chat) as well as different ways of interacting with GitHub Copilot (web, Copilot for CLI, Docs, and even on mobile). We'll look at the different modes that GitHub Copilot now has available (ask, edit, and agent) and lookin into the various models in use. We'll discuss how you can choose the model that works for you. We'll walk through how you can incorporate Copilot into your development workflows effectively and ethically.
+
+Participants will learn about the MCP (Multimodal Copilot Platform) and how it powers GitHub’s AI features across the ecosystem and you’ll discover how to work with Copilot in various environments, tailor its suggestions, debug code, write tests, and even co-create documentation.
+
+By the end of this workshop you'll have learned:
+
+✅ How to use GitHub Copilot's different modes, models, and methods
+
+✅ How to use prompt engineering for better results
+
+✅ How to choose between various models based on real-world use cases across programming languages and stacks
+
+✅ How to use GitHub Copilot responsibly: code quality, copyright, and collaboration
+
+✅ How to use Advanced Copilot Chat capabilities for problem-solving and code explanation
+
+✅ Other ways GitHub Copilot can help with your workflow: Documentation, PRs, and reviews
+
+✅ What is MCP and how it relates to GitHub Copilot
+
+Whether you're looking to save time, spark innovation, or deepen your understanding of AI-assisted development, this workshop will equip you with actionable techniques and confidence to use GitHub Copilot like a pro.
 
 ## Resources and Links
 
 ### References
 
-These are the references I used in my talk:
+These are the references I used throughout the workshop:
 
-- [My Octocat](https://myoctocat.com/?ref=producthunt) make your own GitHub mona octocat
+#### Lesson 1 - Getting started
+
 - [GitHub](https://github.com)
-- [What is GitHub](https://youtu.be/pBy1zgt0XPc)
+- [GitHub Copilot](https://github.com/features/copilot/plans)
+- [GitHub Education](https://github.com/education).
+- [VS Code or Visual Studio](https://code.visualstudio.com/)
+- [Xcode](https://developer.apple.com/xcode/)
+- [JetBrains IDEs](https://www.jetbrains.com/ides/)
+- [Neovim](https://neovim.io/)
+- [Eclipse](https://www.eclipse.org/downloads/packages/)
+- [What is GitHub Copilot](https://docs.github.com/en/copilot/get-started/what-is-github-copilot)
+
+#### Lesson 2 - Changing landscape
+
+- [The four industrial revolutions](https://ied.eu/project-updates/the-4-industrial-revolutions/)
 - [Definition of AI from IBM](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
-- [Chat GPT](https://chat.openai.com/)
-- [Midjourney AI artwork generator](https://www.midjourney.com/home/)
-- [Night Cafe AI art generator](https://creator.nightcafe.studio/creation/O0iBOpUCgygcGNJsAz9I)
-- [Microsoft Designer](https://designer.microsoft.com/)
-- [AI programming extension for VS Code](https://marketplace.visualstudio.com/items?itemName=GalilAI.aicoding)
-- [Best AI programming extensions for VS Code](https://sourceforge.net/software/ai-coding-assistants/integrates-with-visual-studio-code/)
-- [GitHub Copilot](https://copilot.github.com/)
-- [GitHub Copilot chat](https://docs.github.com/en/copilot/github-copilot-chat/about-github-copilot-chat)
-- [GitHub Like a Boss repo for demo code](https://github.com/mishmanners/github-like-a-boss)
-- [Join the waitlist for GitHub Copilot chat for JetBrains IDEs](https://github.com/github-copilot/chat_jetbrains_waitlist_signup/join)
-- [GitHub Copilot for CLI](https://githubnext.com/projects/copilot-cli/)
+- [Resilience: Reflections on burdens and gifts](https://www.goodreads.com/author/quotes/6439373.Elizabeth_Edwards)
+- [GitHub's research study](https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-code-quality/)
+- [Westpac productivity gains](https://www.itnews.com.au/news/westpac-sees-46-percent-productivity-gain-from-ai-coding-experiment-596423)
+- [Atlassian's AI collaboration report]( https://www.atlassian.com/blog/productivity/ai-collaboration-report)
+- [Harvard study on Chat GPT](https://www.mi-3.com.au/20-09-2023/harvard-business-school-study-bcg-finds-knowledge-workers-using-chat-gpt-outperform)
+- [Era of the business idiot by Edward Zitron](https://www.wheresyoured.at/the-era-of-the-business-idiot/)
+
+#### Lesson 4 - Prompt engineering and responsible use
+
 - [Prompt engineering for GitHub Copilot](https://dev.to/github/a-beginners-guide-to-prompt-engineering-with-github-copilot-3ibp)
-- [GitHub Copilot context exclusions](https://docs.github.com/en/copilot/managing-copilot-business/configuring-content-exclusions-for-github-copilot)
-- [Slash commands for GitHub Copilot](https://github.blog/changelog/2024-01-30-code-faster-and-better-with-github-copilots-new-features-in-visual-studio/)
-- [Developer happiness - research study around GitHub Copilot](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
-- [Mish & Max's wedding website](https://mishandmax.com)
-- [GitHub Copilot Enterprise](https://docs.github.com/en/enterprise-cloud@latest/copilot/github-copilot-enterprise/overview/about-github-copilot-enterprise)
-- [Join the waitlist for GitHub Copilot Enterprise](https://github.com/github-copilot/copilot_enterprise_waitlist_signup/join)
-- [GitHub Copilot for Pull Requests](https://githubnext.com/projects/copilot-for-pull-requests/)
-- [Personalised GitHub Copilot fine-tuned models](https://github.com/github-copilot/fine_tuning_waitlist_signup/join)
-- [GitHub on X, formerly Twitter](https://www.x.com/github)
-- [GitHub on Instagram](https://www.instagram.com/github)
-- [GitHub on YouTube](https://www.youtube.com/@GitHub)
-- [GitHub on LinkedIn](https://www.linkedin.com/company/github/)
-- [GitHub on Facebook](https://www.facebook.com/GitHub/)
-- [GitHub on TikTok](https://www.tiktok.com/@github)
+- [Prompting Guide](https://www.promptingguide.ai/techniques)
+- [Different types of prompt engineering](https://www.ibm.com/think/topics/prompt-engineering-techniques)
+- [GitHub Copilot prompting](https://github.blog/developer-skills/github/how-to-write-better-prompts-for-github-copilot/)
+- [Ethics in prompt engineering and responsible use of AI](https://dev.to/mishmanners/responsible-use-of-ai-for-developers-ethics-and-prompting-with-purpose-1on5)
 
 ### Other Resources
 

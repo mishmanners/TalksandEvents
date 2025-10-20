@@ -78,6 +78,3 @@ Thank you for listening to my talk and checking out the resources.
 
 ![LOVE_112px_TWITCH](https://github.com/user-attachments/assets/5c3f8e3f-d3a2-48ee-bbd8-a9a905cbd6f8)
 
-If you have the [SSW Rewards App](https://www.ssw.com.au/products/rewards) and you'd like to check into this talk and earn points, scan the QR code using the SSW Rewards app:
-
-<img src="https://github.com/user-attachments/assets/f2dff33a-ddbf-4022-ab86-17685b31223b" width="300" alt="QR code to earn rewards in the SSW Application"/>

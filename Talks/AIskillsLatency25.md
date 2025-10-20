@@ -87,7 +87,3 @@ These are the references I used in my talk:
 Thank you for listening to my talk and checking out the resources.
 
 ![LOVE_112px_TWITCH](https://github.com/user-attachments/assets/b73970cf-54cb-4346-8e96-82a57761ebad)
-
-If you have the [SSW Rewards App](https://www.ssw.com.au/products/rewards) and you'd like to check into this talk and earn points, scan the QR code using the SSW Rewards app:
-
-<img src="https://github.com/user-attachments/assets/bfb09c92-200a-472a-9f52-0851e1cd7889" width="300" alt="QR code to earn rewards in the SSW Application"/>

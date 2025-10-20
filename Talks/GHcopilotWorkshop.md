@@ -1,6 +1,6 @@
 # Supercharge your workflow with GitHub Copilot
 
-<img width="1536" height="1024" alt="ChatGPT Image May 26, 2025, 07_46_30 PM (1)" src="https://github.com/user-attachments/assets/447ebda6-05b8-4d5d-8c49-e78c72ab64ee" />
+<img height="777" alt="ChatGPT Image May 26, 2025, 07_46_30 PM (1)" src="https://github.com/user-attachments/assets/447ebda6-05b8-4d5d-8c49-e78c72ab64ee" />
 
 These are the resources for the "Supercharge your workflow with GitHub Copilot workshop". If you were in the workshop you would have already received the workshop outline and lessons.
 

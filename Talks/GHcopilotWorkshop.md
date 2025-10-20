@@ -107,6 +107,34 @@ These are the references I used throughout the workshop:
 - [Monitoring MCP Servers](https://www.datadoghq.com/blog/monitor-mcp-servers/)
 - [Authorisation flow and security protocols](https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/)
 
+#### Lesson 11 - Other ways to interact with GitHub Copilot
+
+- [Autofix](https://github.blog/news-insights/product-news/secure-code-more-than-three-times-faster-with-copilot-autofix/)
+- [GitHub Docs](https://docs.github.com/en)
+- [GitHub Mobile](https://github.com/mobile)
+
+#### Lesson 12 - More ways to use GitHub Copilot
+
+- [GitHub Copilot on the web](https://github.com/copilot)
+- [Boosting productivity with GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/5-tips-for-using-github-copilot-with-issues-to-boost-your-productivity/)
+- [GitHub CLI](https://cli.github.com/)
+- [Depreciation of GitHub CLI Copilot extension](https://docs.github.com/en/copilot/how-tos/use-copilot-for-common-tasks/use-copilot-in-the-cli#replacing-the-deprecated-copilot-extension).
+- [GitHub Copilot CLI generally available](https://github.blog/changelog/2025-10-10-github-copilot-cli-faster-more-concise-and-prettier/)
+- [Node.js](https://nodejs.org/en/download)
+- [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+- [GitHub Copilot CLI](https://github.com/github/copilot-cli)
+
+#### Lesson 13 - Adding more context
+
+- [Codespaces](https://github.com/features/codespaces)
+- [Copilot Spaces generally available](https://github.blog/changelog/2025-09-24-copilot-spaces-is-now-generally-available)
+- [Copilot Spaces](https://github.com/copilot/spaces)
+
+#### Lesson 14 - Bringing it all together
+
+- [Agentic Integrations](https://newrelic.com/platform/agentic-integrations/github-copilot-preview)
+- [Building AI literacy](https://www.linkedin.com/learning/build-ai-literacy-in-your-organization-as-a-business-leader/dispelling-common-ai-fears)
+
 ### Other Resources
 
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)

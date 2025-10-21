@@ -103,17 +103,25 @@ These are the references I used throughout the workshop:
 - [What is an MCP](https://github.blog/ai-and-ml/llms/what-the-heck-is-mcp-and-why-is-everyone-talking-about-it/)
 - [GitHub MCP Registry](https://github.blog/ai-and-ml/github-copilot/meet-the-github-mcp-registry-the-fastest-way-to-discover-mcp-servers/)
 - [Available MPC Servers](https://github.com/mcp)
+- [GitHub Copilot Coding Agent](https://github.blog/news-insights/product-news/github-copilot-meet-the-new-coding-agent/)
 - [Security for MCP Servers](https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/)
 - [Monitoring MCP Servers](https://www.datadoghq.com/blog/monitor-mcp-servers/)
 - [Authorisation flow and security protocols](https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/)
 
-#### Lesson 11 - Other ways to interact with GitHub Copilot
+#### Lesson 11 - Customising GitHub Copilot's responses
+
+- [Custom instructions](https://docs.github.com/en/copilot/tutorials/customization-library/custom-instructions/your-first-custom-instructions)
+- [Repo-wide custom instructions](https://docs.github.com/en/copilot/how-tos/configure-custom-instructions/add-repository-instructions)
+- [Prompt files](https://docs.github.com/en/copilot/tutorials/customization-library/prompt-files/your-first-prompt-file)
+- [Organization custom instructions](https://github.blog/changelog/2025-04-17-organization-custom-instructions-now-available/)
+
+#### Lesson 12 - Other ways to interact with GitHub Copilot
 
 - [Autofix](https://github.blog/news-insights/product-news/secure-code-more-than-three-times-faster-with-copilot-autofix/)
 - [GitHub Docs](https://docs.github.com/en)
 - [GitHub Mobile](https://github.com/mobile)
 
-#### Lesson 12 - More ways to use GitHub Copilot
+#### Lesson 13 - More ways to use GitHub Copilot
 
 - [GitHub Copilot on the web](https://github.com/copilot)
 - [Boosting productivity with GitHub Copilot](https://github.blog/ai-and-ml/github-copilot/5-tips-for-using-github-copilot-with-issues-to-boost-your-productivity/)
@@ -124,13 +132,13 @@ These are the references I used throughout the workshop:
 - [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 - [GitHub Copilot CLI](https://github.com/github/copilot-cli)
 
-#### Lesson 13 - Adding more context
+#### Lesson 14 - Adding more context
 
 - [Codespaces](https://github.com/features/codespaces)
 - [Copilot Spaces generally available](https://github.blog/changelog/2025-09-24-copilot-spaces-is-now-generally-available)
 - [Copilot Spaces](https://github.com/copilot/spaces)
 
-#### Lesson 14 - Bringing it all together
+#### Lesson 15 - Bringing it all together
 
 - [Agentic Integrations](https://newrelic.com/platform/agentic-integrations/github-copilot-preview)
 - [Building AI literacy](https://www.linkedin.com/learning/build-ai-literacy-in-your-organization-as-a-business-leader/dispelling-common-ai-fears)

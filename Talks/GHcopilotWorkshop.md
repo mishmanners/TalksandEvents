@@ -132,6 +132,7 @@ These are the references I used throughout the workshop:
 - [Node.js](https://nodejs.org/en/download)
 - [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 - [GitHub Copilot CLI](https://github.com/github/copilot-cli)
+- [Boost CLI skills with GitHub Copilot](https://github.blog/developer-skills/programming-languages-and-frameworks/boost-your-cli-skills-with-github-copilot/)
 
 #### Lesson 14 - Adding more context
 

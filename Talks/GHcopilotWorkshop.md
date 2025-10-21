@@ -114,6 +114,7 @@ These are the references I used throughout the workshop:
 - [Repo-wide custom instructions](https://docs.github.com/en/copilot/how-tos/configure-custom-instructions/add-repository-instructions)
 - [Prompt files](https://docs.github.com/en/copilot/tutorials/customization-library/prompt-files/your-first-prompt-file)
 - [Organization custom instructions](https://github.blog/changelog/2025-04-17-organization-custom-instructions-now-available/)
+- [Agents.md from Open AI](https://github.com/openai/agents.md/blob/main/AGENTS.md)
 
 #### Lesson 12 - Other ways to interact with GitHub Copilot
 

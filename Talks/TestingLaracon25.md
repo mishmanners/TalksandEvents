@@ -1,8 +1,8 @@
-#  Testμ Conference 2025 - Ensuring Quality Testing in an AI-Driven World
+# Laracon 2025 - Ensuring Quality Testing in an AI-Driven World
 
-<img width="600" alt="Michelle Duke cropped" src="https://github.com/user-attachments/assets/7359f412-d313-472e-9a15-9a014eaa9ed0" />
+![Screenshot 2025-11-11 131851](https://github.com/user-attachments/assets/26ddca44-e4f7-4564-a04b-960594ab93e6)
 
-This is the talk I gave at [Testμ Conference - 2025](https://www.lambdatest.com/testmuconf-2025/michelle-duke).
+This is the talk I gave at [Laracon AU - 2025](https://laracon.au/speakers).
 
 ## Ensuring Quality Testing in an AI-Driven World
 

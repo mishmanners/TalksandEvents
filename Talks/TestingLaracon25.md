@@ -18,9 +18,10 @@ It's an exciting future of testing, where AI enhances our capabilities, yet huma
 
 In this talk, I'll cover:
 - Evolution of software testing
-- What is AI-driven testing
+- Changing landscape
 - How to effectively use AI in testing
 - Role of people in testing
+- Fears, concerns, ethics
 - Future of testing
 
 ## Resources and Links
@@ -33,24 +34,28 @@ These are the references I used in my talk:
 - [Types of testing](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
 - [History of software testing](https://www.geeksforgeeks.org/software-testing/history-of-software-testing/)
 - [First bug found in a computer](https://todayinconservation.com/2018/07/september-9-first-bug-found-in-computer-1945/)
-- [History of AI](https://www.tableau.com/data-insights/ai/history)
+- [Microsoft invests in cloud and AI](https://news.microsoft.com/india-visit-2025/)
+- [Era of the business idiot](https://www.wheresyoured.at/the-era-of-the-business-idiot/)
 - [Definition of AI from IBM](https://www.ibm.com/cloud/learn/what-is-artificial-intelligence)
+- [Dylan Beattie, Defintion of AI from NDC Porto keynote](https://www.youtube.com/watch?v=J9ZKxsPpRFk)
 - [There's an AI for that](https://theresanaiforthat)
 - [Mish Friendly Food repo for code](https://github.com/mishmanners/mish-friendly-food)
 - [Prompt engineering for GitHub Copilot](https://dev.to/github/a-beginners-guide-to-prompt-engineering-with-github-copilot-3ibp)
 - [How to test websites: Using SIRV and Playwright for test driven development (TDD)](https://dev.to/mishmanners/how-to-test-websites-using-sirv-and-playwright-for-test-driven-development-tdd-8ph)
 - [Playwright testing](https://playwright.dev/)
-- [Test driven development humour](https://www.reddit.com/r/ProgrammerHumor/comments/tgogft/sometimes_progress_looks_like_failure/)
-- [GitHub Copilot Agent mode](https://github.blog/news-insights/product-news/github-copilot-agent-mode-activated/)
-- [Microsoft Learn module for testing](https://learn.microsoft.com/en-us/training/modules/develop-unit-tests-using-github-copilot-tools/)
 - [GitHub Copilot chat - better code quality](https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-on-code-quality/)
 - [Westpac - 46% productivity gain](https://www.itnews.com.au/news/westpac-sees-46-percent-productivity-gain-from-ai-coding-experiment-596423)
 - [Research: Quantifying GitHub Copilot’s impact in the enterprise with Accenture](https://github.blog/news-insights/research/research-quantifying-github-copilots-impact-in-the-enterprise-with-accenture/)
 - [Atlassian AI Collaboration Report](https://www.atlassian.com/blog/productivity/ai-collaboration-report)
-- [Economic production of generative AI](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#key-insights)
-- [AI jobs](https://www.abc.net.au/news/2024-03-13/ai-jobs-linkedin-artificial-intelligence-worker-future/103570268)
+- [GitHub Copilot, modes, models, and methods](https://dev.to/mishmanners/github-copilot-methods-modes-and-models-which-one-is-the-best-g6f)
+- [GitHub Copilot available models](https://docs.github.com/en/copilot/reference/ai-models/model-comparison)
+- [Harvard study of ChatGPT](https://www.mi-3.com.au/20-09-2023/harvard-business-school-study-bcg-finds-knowledge-workers-using-chat-gpt-outperform)
+- [GitHub Copilot Agent mode](https://github.blog/news-insights/product-news/github-copilot-agent-mode-activated/)
 - [New Relic and GitHub Copilot](https://newrelic.com/platform/agentic-integrations/github-copilot-preview)
 - [Making India AI-first](https://news.microsoft.com/india-visit-2025/)
+- [GitHub Copilot custom prompting](https://docs.github.com/en/copilot/tutorials/customization-library/prompt-files/your-first-prompt-file)
+- [Creating prompt files](https://docs.github.com/en/copilot/tutorials/customization-library/prompt-files/your-first-prompt-file)
+- [Responsible use of AI for developers](https://dev.to/mishmanners/responsible-use-of-ai-for-developers-ethics-and-prompting-with-purpose-1on5)
 - [Links to MishManners social media](https://mishmanners.info)
 
 ### Other Resources
@@ -61,6 +66,7 @@ These are the references I used in my talk:
 - [How to use GitHub Copilot for translating code](https://dev.to/github/how-to-translate-code-into-other-languages-using-github-copilot-3n6f)
 - [Practical use cases for GitHub Copilot](https://dev.to/github/why-use-github-copilot-and-copilot-labs-practical-use-cases-for-the-ai-pair-programmer-4hf4)
 - [What is GitHub Copilot](https://youtu.be/Z7hp241--vc)
+- [Microsoft Learn module for testing](https://learn.microsoft.com/en-us/training/modules/develop-unit-tests-using-github-copilot-tools/)
 
 Thank you for listening to my talk and checking out the resources.
 

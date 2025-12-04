@@ -64,10 +64,8 @@ These are the references I used in my talk:
 - [Security for MCP Servers](https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/)
 - [Monitoring MCP Servers](https://www.datadoghq.com/blog/monitor-mcp-servers/)
 - [Authorisation flow and security protocols](https://github.blog/ai-and-ml/generative-ai/how-to-build-secure-and-scalable-remote-mcp-servers/)
-
 - [Links to MishManners social media](https://mishmanners.info)
 
 Thank you for attending my workshop and checking out the resources.
 
 ![LOVE_112px_TWITCH](https://github.com/user-attachments/assets/b73970cf-54cb-4346-8e96-82a57761ebad)
-

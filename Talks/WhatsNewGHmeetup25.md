@@ -38,14 +38,15 @@ These are the references I used in my talk:
 - [GitHub Copilot on the web](https://github.com/copilot)
 - [Copilot Spaces generally available](https://github.blog/changelog/2025-09-24-copilot-spaces-is-now-generally-available)
 - [Copilot Spaces](https://github.com/copilot/spaces)
+- [GitHub Copilot Coding Agent](https://github.blog/news-insights/product-news/github-copilot-meet-the-new-coding-agent/)
+- [GitHub Copilot custom agents](https://github.blog/news-insights/product-news/your-stack-your-rules-introducing-custom-agents-in-github-copilot-for-observability-iac-and-security/)
 - [Amazing GitHub Templates](https://github.com/dec0dOS/amazing-github-template)
 - [Clean commits](https://github.com/jasontaylordev/CleanArchitecture/commits/main/)
 - [Limitations of PR summaries](https://docs.github.com/en/copilot/responsible-use/pull-request-summaries)
 - [How to customise the way GitHub Copilot responds](https://dev.to/mishmanners/how-to-customise-the-way-github-copilot-responds-3bp7)
 - [What is an MCP](https://github.blog/ai-and-ml/llms/what-the-heck-is-mcp-and-why-is-everyone-talking-about-it/)
 - [GitHub MCP Registry](https://github.blog/ai-and-ml/github-copilot/meet-the-github-mcp-registry-the-fastest-way-to-discover-mcp-servers/)
-- [Available MPC Servers](https://github.com/mcp)
-- [GitHub Copilot Coding Agent](https://github.blog/news-insights/product-news/github-copilot-meet-the-new-coding-agent/)
+- [Available MCP Servers](https://github.com/mcp)
 
 ### Other Resources
 

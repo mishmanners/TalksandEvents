@@ -8,22 +8,17 @@ This is a talk I gave at [Latency Conference 2025](https://latencyconf.io/sessio
 
 ### 🤖 Skills for the age of AI tools: How to effectively use the technology available
 
+#### Voice is the next frontier for AI
+
 ## Abstract
 
-What skills are needed to ensure I still have a job, and how do I obtain them?
+I love playing Magic: The Gathering (MTG), but I can never remember all the different mechanics, keywords, or interactions. So, I built an AI voice assistant to help us play.
 
-With the rise of AI and automation, how do we as humans find our value in the workplace? How do we work with these new technologises? How do we build resilience to changes? What soft skills are needed for us to thrive in this new world?
+By combining speech-to-text, large language models, and text-to-speech, this assistant can explain rules, and guide us through in-game actions, all powered by natural conversation.
 
-People have often felt apprehensive about change, especially big changes to the way we work. It happened in the industrial revolution and now it's happening with the rise of artificial intelligence. Five years ago these things existed, but now they are accessible to almost everyone, and in a lot of cases they are doing our jobs for us.
+In this talk, I’ll walk through how I built the MTG AI assistant, share live demos of it in action, and show how developers can apply the same techniques to their own projects; whether you are building something for yourself, or something for a large user base. Along the way, we’ll explore why voice is the next frontier for AI, how it can make apps more accessible and engaging, and why developers should be experimenting with it right now.
 
-In this session I'll cover:
-
-- Industrial revolutions
-- Artificial Intelligence and applications
-- Fears and concerns
-- Working with AI
-- Skills for AI developer tooling
-- How to practice those skills
+Whether you’re into games, productivity, or just building cool stuff, this session will show you how to turn spoken words into powerful, voice-driven applications.
 
 ## Resources and Links
 
@@ -55,15 +50,9 @@ These are the references I used in my talk:
 - [Generative AI to add to the GDP](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier#key-insights)
 - [Where to learn for free](https://github.com/mishmanners/Free-Learning-Content)
 
-### Movie and popular culture references
+### Code demo
 
-- JARVIS, _Age of Ultron_ (2015)
-- Alan Turing, _The Imitation Game_ (2014)
-- _Wall-E_ (2008)
-- _The Terminator_ Series (1984-2019)
-- _Blade Runner_ (1982)
-- R2D2, _Star Wars_ Series (1977—)
-- _The Mandalorian_ Season 3, Episode 6 “Guns for Hire" (2023)
+
 
 ### Other Resources
 

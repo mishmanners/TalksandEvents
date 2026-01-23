@@ -1,4 +1,4 @@
-# Skills for the age of AI developer tools - Latency Conference 2025
+# How I used AI Voice to help me play Magic: The Gathering - NDC London Conference 2026
 
 This is a talk I gave at [Latency Conference 2025](https://latencyconf.io/sessions/keynote).
 

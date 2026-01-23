@@ -1,6 +1,6 @@
-# How I used AI Voice to help me play Magic: The Gathering - NDC London Conference 2026
+# How I used AI Voice to help me play Magic: The Gathering - NDC London 2026
 
-This is a talk I gave at [Latency Conference 2025](https://latencyconf.io/sessions/keynote).
+This is a talk I gave at [NDC London 2026](https://ndclondon.com/agenda/how-i-used-ai-voice-to-help-me-play-magic-the-gathering-0bz2/0x5lmfvtck2).
 
 ![Banner_MichelleDuke](https://github.com/user-attachments/assets/010fbb52-9e8d-4cbf-a6de-2491c8e393cd)
 

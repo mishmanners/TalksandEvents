@@ -1,6 +1,6 @@
 # How I used AI voice to help me play Magic: The Gathering
 
-This is the talk I gave at the AI Camp Melbourne Meetup May 2026.
+This is the talk I gave at the [AI Camp Melbourne Meetup March 2026](https://www.aicamp.ai/event/eventdetails/W2026012623).
 
 Talk Title
 

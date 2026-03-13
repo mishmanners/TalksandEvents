@@ -1,12 +1,29 @@
-# Creating fun messaging experiences with WhatsApp - Melbourne GitHub User Group 2026
+# Creating fun messaging experiences with WhatsApp - Programmable
 
-This is a talk I gave at [GitHub Melbourne User Group Meetup](https://www.meetup.com/melbourne-github-user-group/).
+This is a talk I gave at Programmable Melbourne and Sydney 2026](https://www.programmable.tech/speakers/michelle-duke-programmable).
 
-<img width="400" alt="MM7738c9dc0b2f3dd57d1e914ce92a7697_twilio" src="https://github.com/user-attachments/assets/7a0640d8-b99f-4d08-8c04-bed1929c4c18" />
+<img width="1555" height="1045" alt="image" src="https://github.com/user-attachments/assets/98fbcb15-6b79-4ba8-83e7-6dd0e0d365a7" />
+
 
 ## Talk Title
 
 ### 🤖 Creating fun messaging experiences with WhatsApp
+
+### Abstract
+
+In this talk, I’ll show how to turn a simple WhatsApp message into an AI-powered creative experience. Using Twilio, WhatsApp, and OpenAI’s image generation APIs, we’ll build a workflow where users can send images via WhatsApp; think selfies, pet pics, and photos from the conference, and receive a cartoon, sketch, or fun version of your photo to share on your socials, group chats, and company message boards.
+
+In this talk we'll cover:
+- Why should we consider creating fun and engaging experiences via messaging
+- How OpenAI's API works
+- How to set up Twilio’s WhatsApp sandbox to send and receive incoming media
+- How to process and transform images with OpenAI’s latest APIs
+- Utilising existing libraries to transform images
+- Sending images through WhatsApp
+- Best practices for handling image input, latency, and user experience
+- Other cool things you can build once you have images
+‍
+This demo is practical, fun, and showcases how teams can blend communication APIs with AI to create delightful, interactive messaging experiences.
 
 #### Communicating and engaging with your users
 

@@ -1,6 +1,6 @@
 # Creating fun messaging experiences with WhatsApp - Programmable
 
-This is a talk I gave at Programmable Melbourne and Sydney 2026](https://www.programmable.tech/speakers/michelle-duke-programmable).
+This is a talk I gave at [Programmable Melbourne and Sydney 2026](https://www.programmable.tech/speakers/michelle-duke-programmable).
 
 <img width="1555" height="1045" alt="image" src="https://github.com/user-attachments/assets/98fbcb15-6b79-4ba8-83e7-6dd0e0d365a7" />
 

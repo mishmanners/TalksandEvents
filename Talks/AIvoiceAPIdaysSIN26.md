@@ -1,12 +1,14 @@
-# How I used AI voice to help me play Magic: The Gathering
+# How I used AI voice to help me play Magic: The Gathering - API Days Singapore 2026
 
-This is the talk I gave at the [AI Camp Melbourne Meetup March 2026](https://www.aicamp.ai/event/eventdetails/W2026012623).
+This is the talk I gave at the [API Days Singapore 2026](https://www.apidays.global/events/singapore).
 
-Talk Title
+![1774571478606](https://github.com/user-attachments/assets/aaa5bccc-0fe2-464a-a52a-2e7f283a9be8)
+
+### Talk Title
 
 How I used AI voice to help me play Magic: The Gathering
 
-Abstract:
+### Abstract:
 
 I love playing Magic: The Gathering (MTG), but I can never remember every mechanic, keyword, or weird interaction… So, I built an AI voice assistant to help. By combining speech-to-text, large language models, and text-to-speech, my assistant can explain rules and guide in-game actions through natural conversation. In this talk, I’ll break down how I built it, share live demos, and show how you can use the same approach in your own projects, regardless of whether you’re building for yourself or a large user base. We’ll also dig into why voice is AI’s next frontier and why you should experiment now.
 
@@ -19,7 +21,6 @@ These are the references I used in my talk:
 - [Is voice the next evolution of AI?](https://dev.to/mishmanners/is-voice-the-natural-progression-of-artificial-intelligence-52le)
 - Human development: [Language development](https://raisingchildren.net.au/babies/development/language-development/language-development-0-8), [learning to read](https://theconversation.com/when-do-kids-learn-to-read-how-do-you-know-if-your-child-is-falling-behind-214154), [reading](https://readingeggs.com.au/articles/what-age-should-a-child-read-fluently/), [age development of children](https://www.understood.org/en/articles/reading-skills-what-to-expect-at-different-ages), [writing](https://www.learningandliteracyclinic.com.au/handwriting-development-concern-help/).
 - History of computing: [evolution of the machine](https://medium.com/@dan.patrick.smith/user-interface-evolution-from-punchcards-to-conversations-and-beyond-296ed0706429), [punch cards](https://www.ibm.com/history/punched-card), [command line interface](https://en.wikipedia.org/wiki/Command-line_interface), [IBM Simon](https://en.wikipedia.org/wiki/IBM_Simon)
-- [Alan Turing and AI](https://www.tableau.com/data-insights/ai/history)
 - [Evolution and history of generative AI](https://sonikamaheshwari005.medium.com/history-and-evolution-of-generative-ai-cf8de0b15505)
 - [Conversational AI](https://www.voicethesis.com/articles/third-generation-conversational-ai)
 - [Twilio's ConversationRelay](https://www.twilio.com/en-us/products/conversational-ai/conversationrelay)

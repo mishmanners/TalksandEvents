@@ -1,4 +1,4 @@
-# How I used AI voice to help me play Magic: The Gathering - API Days Singapore 2026
+# Building fun and creative messaging experiences on WhatsApp - API Days Singapore 2026
 
 This is the talk I gave at the [API Days Singapore 2026](https://www.apidays.global/events/singapore).
 
@@ -6,11 +6,24 @@ This is the talk I gave at the [API Days Singapore 2026](https://www.apidays.glo
 
 ### Talk Title
 
-How I used AI voice to help me play Magic: The Gathering
+Building fun and creative messaging experiences on WhatsApp
 
 ### Abstract:
 
-I love playing Magic: The Gathering (MTG), but I can never remember every mechanic, keyword, or weird interaction… So, I built an AI voice assistant to help. By combining speech-to-text, large language models, and text-to-speech, my assistant can explain rules and guide in-game actions through natural conversation. In this talk, I’ll break down how I built it, share live demos, and show how you can use the same approach in your own projects, regardless of whether you’re building for yourself or a large user base. We’ll also dig into why voice is AI’s next frontier and why you should experiment now.
+In this talk, I’ll show how to turn a simple WhatsApp message into an AI-powered creative experience. Using Twilio, WhatsApp, and OpenAI’s image generation APIs, we’ll build a workflow where users can send images via WhatsApp; think selfies, pet pics, and photos from the conference, and receive a cartoon, sketch, or fun version of your photo to share on your socials, group chats, and company message boards.
+
+In this talk we'll cover:
+
+- Why should we consider creating fun and engaging experiences via messaging
+- How OpenAI's API works
+- How to set up Twilio’s WhatsApp sandbox to send and receive incoming media
+- How to process and transform images with OpenAI’s latest APIs
+- Utilising existing libraries to transform images
+- Sending images through WhatsApp
+- Best practices for handling image input, latency, and user experience
+- Other cool things you can build once you have images
+
+This demo is practical, fun, and showcases how teams can blend communication APIs with AI to create delightful, interactive messaging experiences.
 
 ## Resources and Links
 

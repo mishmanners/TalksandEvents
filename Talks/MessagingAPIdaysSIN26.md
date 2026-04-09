@@ -27,33 +27,29 @@ This demo is practical, fun, and showcases how teams can blend communication API
 
 ## Resources and Links
 
+### Code demo
+
+- [AI art messaging - code repo](https://twil.io/ai-code)
+- [Message to get your artwork](https://twil.io/Vwp2xRK)
+- [What is TwiML](https://www.twilio.com/docs/glossary/what-is-twilio-markup-language-twiml)
+- [How does ngrok work](https://ngrok.com/docs/how-ngrok-works)
+- [Sharp library](https://github.com/lovell/sharp)
+
 ### References
 
 These are the references I used in my talk:
 
-- [Is voice the next evolution of AI?](https://dev.to/mishmanners/is-voice-the-natural-progression-of-artificial-intelligence-52le)
-- Human development: [Language development](https://raisingchildren.net.au/babies/development/language-development/language-development-0-8), [learning to read](https://theconversation.com/when-do-kids-learn-to-read-how-do-you-know-if-your-child-is-falling-behind-214154), [reading](https://readingeggs.com.au/articles/what-age-should-a-child-read-fluently/), [age development of children](https://www.understood.org/en/articles/reading-skills-what-to-expect-at-different-ages), [writing](https://www.learningandliteracyclinic.com.au/handwriting-development-concern-help/).
-- History of computing: [evolution of the machine](https://medium.com/@dan.patrick.smith/user-interface-evolution-from-punchcards-to-conversations-and-beyond-296ed0706429), [punch cards](https://www.ibm.com/history/punched-card), [command line interface](https://en.wikipedia.org/wiki/Command-line_interface), [IBM Simon](https://en.wikipedia.org/wiki/IBM_Simon)
-- [Evolution and history of generative AI](https://sonikamaheshwari005.medium.com/history-and-evolution-of-generative-ai-cf8de0b15505)
-- [Conversational AI](https://www.voicethesis.com/articles/third-generation-conversational-ai)
-- [Twilio's ConversationRelay](https://www.twilio.com/en-us/products/conversational-ai/conversationrelay)
-- [Building with Twilio](https://www.youtube.com/watch?v=98vk7sXa7p0&t=723s)
-
-### Code demo
-
-- [Magic: The Gathering chatbot](https://github.com/mishmanners/twilio-mtg-chatbot/)
-- [What is TwiML](https://www.twilio.com/docs/glossary/what-is-twilio-markup-language-twiml)
-- [ConversationRelay best practices](https://www.twilio.com/docs/voice/twiml/connect/conversationrelay#text-normalization-best-practices)
-- [How does ngrok work](https://ngrok.com/docs/how-ngrok-works)
-- [Using ElevenLabs voices](https://www.twilio.com/en-us/blog/integrate-elevenlabs-voices-with-twilios-conversationrelay)
+- [History of messaging](https://crm-messaging.cloud/blog/history-of-text-messaging/)
+- [Is RCS available in my region](https://www.twilio.com/docs/rcs/regional)
+- [Good email stats](https://www.campaignmonitor.com/resources/knowledge-base/what-are-good-email-metrics)
+- [Business messaging, how many text messages sent per day](https://finance.yahoo.com/news/global-a2p-messaging-market-report-080600226.html)
 
 ### Other Resources
 
+- [Join our Discord](https://twil.io/mish-discord)
+- [Check out our Reddit](https://twil.io/twilio-reddit)
 - [MishManners DEV articles and tutorials](https://dev.to/mishmanners)
 - [Links to MishManners social media](https://mishmanners.info)
-- [Join Twilio on Discord](https://twil.io/mish-discord)
-- [Check out upcoming Twilio webinars](https://twil.io/apj-webinars)
-- [Follow Twilio on Reddit](https://twil.io/twilio-reddit)
 
 Thank you for listening to my talk and checking out the resources.
 

@@ -14,6 +14,14 @@ I love playing Magic: The Gathering (MTG), but I can never remember every mechan
 
 ## Resources and Links
 
+### Code demo
+
+- [Magic: The Gathering chatbot](https://github.com/mishmanners/twilio-mtg-chatbot/)
+- [What is TwiML](https://www.twilio.com/docs/glossary/what-is-twilio-markup-language-twiml)
+- [ConversationRelay best practices](https://www.twilio.com/docs/voice/twiml/connect/conversationrelay#text-normalization-best-practices)
+- [How does ngrok work](https://ngrok.com/docs/how-ngrok-works)
+- [Using ElevenLabs voices](https://www.twilio.com/en-us/blog/integrate-elevenlabs-voices-with-twilios-conversationrelay)
+
 ### References
 
 These are the references I used in my talk:
@@ -25,14 +33,6 @@ These are the references I used in my talk:
 - [Conversational AI](https://www.voicethesis.com/articles/third-generation-conversational-ai)
 - [Twilio's ConversationRelay](https://www.twilio.com/en-us/products/conversational-ai/conversationrelay)
 - [Building with Twilio](https://www.youtube.com/watch?v=98vk7sXa7p0&t=723s)
-
-### Code demo
-
-- [Magic: The Gathering chatbot](https://github.com/mishmanners/twilio-mtg-chatbot/)
-- [What is TwiML](https://www.twilio.com/docs/glossary/what-is-twilio-markup-language-twiml)
-- [ConversationRelay best practices](https://www.twilio.com/docs/voice/twiml/connect/conversationrelay#text-normalization-best-practices)
-- [How does ngrok work](https://ngrok.com/docs/how-ngrok-works)
-- [Using ElevenLabs voices](https://www.twilio.com/en-us/blog/integrate-elevenlabs-voices-with-twilios-conversationrelay)
 
 ### Other Resources
 

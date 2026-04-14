@@ -2,7 +2,7 @@
 
 This is the talk I gave at the [Voice AI Space Singapore x SQ Collective](https://luma.com/mba3jn8d).
 
-![1774571478606](https://github.com/user-attachments/assets/aaa5bccc-0fe2-464a-a52a-2e7f283a9be8)
+<img width="400" height="400" alt="videoframe_1362" src="https://github.com/user-attachments/assets/c5992775-8615-4687-a5c2-40e4767679fa" />
 
 ### Talk Title
 
@@ -26,10 +26,6 @@ I love playing Magic: The Gathering (MTG), but I can never remember every mechan
 
 These are the references I used in my talk:
 
-- [Is voice the next evolution of AI?](https://dev.to/mishmanners/is-voice-the-natural-progression-of-artificial-intelligence-52le)
-- Human development: [Language development](https://raisingchildren.net.au/babies/development/language-development/language-development-0-8), [learning to read](https://theconversation.com/when-do-kids-learn-to-read-how-do-you-know-if-your-child-is-falling-behind-214154), [reading](https://readingeggs.com.au/articles/what-age-should-a-child-read-fluently/), [age development of children](https://www.understood.org/en/articles/reading-skills-what-to-expect-at-different-ages), [writing](https://www.learningandliteracyclinic.com.au/handwriting-development-concern-help/).
-- History of computing: [evolution of the machine](https://medium.com/@dan.patrick.smith/user-interface-evolution-from-punchcards-to-conversations-and-beyond-296ed0706429), [punch cards](https://www.ibm.com/history/punched-card), [command line interface](https://en.wikipedia.org/wiki/Command-line_interface), [IBM Simon](https://en.wikipedia.org/wiki/IBM_Simon)
-- [Evolution and history of generative AI](https://sonikamaheshwari005.medium.com/history-and-evolution-of-generative-ai-cf8de0b15505)
 - [Conversational AI](https://www.voicethesis.com/articles/third-generation-conversational-ai)
 - [Twilio's ConversationRelay](https://www.twilio.com/en-us/products/conversational-ai/conversationrelay)
 - [Building with Twilio](https://www.youtube.com/watch?v=98vk7sXa7p0&t=723s)

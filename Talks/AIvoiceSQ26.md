@@ -1,6 +1,6 @@
-# How I used AI voice to help me play Magic: The Gathering - API Days Singapore 2026
+# How I used AI voice to help me play Magic: The Gathering - Voice AI Space Singapore x SQ Collective 2026
 
-This is the talk I gave at the [API Days Singapore 2026](https://www.apidays.global/events/singapore).
+This is the talk I gave at the [Voice AI Space Singapore x SQ Collective](https://luma.com/mba3jn8d).
 
 ![1774571478606](https://github.com/user-attachments/assets/aaa5bccc-0fe2-464a-a52a-2e7f283a9be8)
 

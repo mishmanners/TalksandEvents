@@ -2,7 +2,7 @@
 
 This is the talk I gave at the [API Days Singapore 2026](https://www.apidays.global/events/singapore).
 
-![1774571478606](https://github.com/user-attachments/assets/aaa5bccc-0fe2-464a-a52a-2e7f283a9be8)
+![Michelle MishManners Duke](https://github.com/user-attachments/assets/1512ed98-8ed4-47c7-9cc7-1ae9e9f5b78e)
 
 ### Talk Title
 

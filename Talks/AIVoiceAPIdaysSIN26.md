@@ -1,8 +1,6 @@
 # How I used AI voice to help me play Magic: The Gathering - API Days Singapore 2026
 
-This is the talk I gave at the [API Days Singapore 2026](https://www.apidays.global/events/singapore).
-
-![Michelle MishManners Duke](https://github.com/user-attachments/assets/1512ed98-8ed4-47c7-9cc7-1ae9e9f5b78e)
+This is the talk I gave at [API Days Singapore 2026](https://www.apidays.global/events/singapore).
 
 ### Talk Title
 

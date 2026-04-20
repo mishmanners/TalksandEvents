@@ -2,7 +2,7 @@
 
 This is the talk I gave at [NDC Sydney 2026](https://ndcsydney.com/agenda/building-fun-and-creative-messaging-experiences-on-whatsapp-0tjh/0l82zhd0f00).
 
-![1774571478606](https://github.com/user-attachments/assets/aaa5bccc-0fe2-464a-a52a-2e7f283a9be8)
+<img width="1600" height="900" alt="Speaker card WhatsApp" src="https://github.com/user-attachments/assets/e14f5278-5684-482c-b1e3-b03d2b9c49dd" />
 
 ### Talk Title
 

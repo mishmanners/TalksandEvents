@@ -1,6 +1,6 @@
 # Building fun and creative messaging experiences on WhatsApp - API Days Singapore 2026
 
-This is the talk I gave at [API Days Singapore 2026](https://www.apidays.global/events/singapore).
+This is the talk I gave at [NDC Sydney 2026](https://ndcsydney.com/agenda/building-fun-and-creative-messaging-experiences-on-whatsapp-0tjh/0l82zhd0f00).
 
 ![1774571478606](https://github.com/user-attachments/assets/aaa5bccc-0fe2-464a-a52a-2e7f283a9be8)
 

@@ -2,6 +2,8 @@
 
 This is the talk I gave at [API Days Singapore 2026](https://www.apidays.global/events/singapore).
 
+<img width="1200" height="628" alt="MIchelle Duke-Talk-The Gathering" src="https://github.com/user-attachments/assets/19b2e591-d720-4d33-b9ce-9d67c22bbb03" />
+
 ### Talk Title
 
 How I used AI voice to help me play Magic: The Gathering

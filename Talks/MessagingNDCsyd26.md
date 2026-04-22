@@ -34,6 +34,7 @@ This demo is practical, fun, and showcases how teams can blend communication API
 - [What is TwiML](https://www.twilio.com/docs/glossary/what-is-twilio-markup-language-twiml)
 - [How does ngrok work](https://ngrok.com/docs/how-ngrok-works)
 - [Sharp library](https://github.com/lovell/sharp)
+- [Tutorial on building your own messaging application](https://github.com/kaustavdm/forge-messaging-reimagined/tree/main)
 
 ### References
 

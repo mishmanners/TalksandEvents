@@ -1,8 +1,8 @@
-# How I used AI voice to help me play Magic: The Gathering - API Days Singapore 2026
+# How I used AI voice to help me play Magic: The Gathering - NDC Sydney 2026
 
-This is the talk I gave at [API Days Singapore 2026](https://www.apidays.global/events/singapore).
+This is the talk I gave at [NDC Sydney 2026](https://ndcsydney.com/agenda/how-i-used-ai-voice-to-help-me-play-magic-the-gathering-0bz2/6437584346cb).
 
-<img width="1200" height="628" alt="MIchelle Duke-Talk-The Gathering" src="https://github.com/user-attachments/assets/19b2e591-d720-4d33-b9ce-9d67c22bbb03" />
+<img width="1600" height="900" alt="Speaker card Voice" src="https://github.com/user-attachments/assets/059c85bd-b7dc-4894-9563-8fb99cb7eaad" />
 
 ### Talk Title
 
@@ -29,10 +29,13 @@ These are the references I used in my talk:
 - [Is voice the next evolution of AI?](https://dev.to/mishmanners/is-voice-the-natural-progression-of-artificial-intelligence-52le)
 - Human development: [Language development](https://raisingchildren.net.au/babies/development/language-development/language-development-0-8), [learning to read](https://theconversation.com/when-do-kids-learn-to-read-how-do-you-know-if-your-child-is-falling-behind-214154), [reading](https://readingeggs.com.au/articles/what-age-should-a-child-read-fluently/), [age development of children](https://www.understood.org/en/articles/reading-skills-what-to-expect-at-different-ages), [writing](https://www.learningandliteracyclinic.com.au/handwriting-development-concern-help/).
 - History of computing: [evolution of the machine](https://medium.com/@dan.patrick.smith/user-interface-evolution-from-punchcards-to-conversations-and-beyond-296ed0706429), [punch cards](https://www.ibm.com/history/punched-card), [command line interface](https://en.wikipedia.org/wiki/Command-line_interface), [IBM Simon](https://en.wikipedia.org/wiki/IBM_Simon)
+- [Alan Turing and AI](https://www.tableau.com/data-insights/ai/history)
 - [Evolution and history of generative AI](https://sonikamaheshwari005.medium.com/history-and-evolution-of-generative-ai-cf8de0b15505)
 - [Conversational AI](https://www.voicethesis.com/articles/third-generation-conversational-ai)
 - [Twilio's ConversationRelay](https://www.twilio.com/en-us/products/conversational-ai/conversationrelay)
 - [Building with Twilio](https://www.youtube.com/watch?v=98vk7sXa7p0&t=723s)
+- [Project Hail Mary - Twilio](https://www.instagram.com/p/DWRqKtcj-da/)
+- [Razer's Project AVA](https://www.youtube.com/watch?v=_QDthx_WjwE)
 
 ### Other Resources
 

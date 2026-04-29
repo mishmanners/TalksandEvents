@@ -16,7 +16,7 @@ I love playing Magic: The Gathering (MTG), but I can never remember every mechan
 
 ### Code demo
 
-- [Magic: The Gathering chatbot](https://github.com/mishmanners/twilio-mtg-chatbot/)
+- [Magic: The Gathering chatbot](https://github.com/mishmanners/Twilio-MTG-Chatbot/)
 - [What is TwiML](https://www.twilio.com/docs/glossary/what-is-twilio-markup-language-twiml)
 - [ConversationRelay best practices](https://www.twilio.com/docs/voice/twiml/connect/conversationrelay#text-normalization-best-practices)
 - [How does ngrok work](https://ngrok.com/docs/how-ngrok-works)

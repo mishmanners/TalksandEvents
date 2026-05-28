@@ -35,6 +35,7 @@ This demo is practical, fun, and showcases how teams can blend communication API
 - [How does ngrok work](https://ngrok.com/docs/how-ngrok-works)
 - [Sharp library](https://github.com/lovell/sharp)
 - [Tutorial on building your own messaging application](https://github.com/kaustavdm/forge-messaging-reimagined/tree/main)
+- [Flipbook animation tutorial](https://www.youtube.com/watch?v=HFnzWoGe0so )
 
 ### References
 
@@ -44,6 +45,8 @@ These are the references I used in my talk:
 - [Is RCS available in my region](https://www.twilio.com/docs/rcs/regional)
 - [Good email stats](https://www.campaignmonitor.com/resources/knowledge-base/what-are-good-email-metrics)
 - [Business messaging, how many text messages sent per day](https://finance.yahoo.com/news/global-a2p-messaging-market-report-080600226.html)
+- [State of customer engagement](https://www.twilio.com/en-us/state-of-customer-engagement)
+- [Forrester Report](https://www.nice.com/lps/forrester-wave-conversational-ai-2026)
 
 ### Other Resources
 

@@ -2,7 +2,7 @@
 
 This is the talk I gave at [NDC Copenhagen 2026](https://ndccopenhagen.com/agenda/building-fun-and-creative-messaging-experiences-on-whatsapp-0db8/08m6dwxi84v).
 
-<img width="1600" height="900" alt="Speaker card WhatsApp" src="https://github.com/user-attachments/assets/28be92bd-371a-447e-96b5-480769600447" />
+<img width="1600" height="900" alt="Speaker card 3" src="https://github.com/user-attachments/assets/fe6b1d39-a4e6-4a33-bc80-c022570c29ed" />
 
 ### Talk Title
 
@@ -47,6 +47,8 @@ These are the references I used in my talk:
 - [Business messaging, how many text messages sent per day](https://finance.yahoo.com/news/global-a2p-messaging-market-report-080600226.html)
 - [State of customer engagement](https://www.twilio.com/en-us/state-of-customer-engagement)
 - [Forrester Report](https://www.nice.com/lps/forrester-wave-conversational-ai-2026)
+- [Twilio MCP Server](https://www.twilio.com/docs/ai/mcp)
+- [Twilio Skills for AI Coding Agents](https://www.twilio.com/docs/ai/skills)
 
 ### Other Resources
 

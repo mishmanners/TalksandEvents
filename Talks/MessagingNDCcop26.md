@@ -49,6 +49,7 @@ These are the references I used in my talk:
 - [Forrester Report](https://www.nice.com/lps/forrester-wave-conversational-ai-2026)
 - [Twilio MCP Server](https://www.twilio.com/docs/ai/mcp)
 - [Twilio Skills for AI Coding Agents](https://www.twilio.com/docs/ai/skills)
+- [Introducing TWilio MCP Server and Skills](https://www.twilio.com/en-us/blog/developers/introducing-twilio-mcp-skills)
 
 ### Other Resources
 

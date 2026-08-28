@@ -1,8 +1,8 @@
 # Unlocking growth and collaboration through developer communities - PyConAU 2026
 
-This is the talk I gave at [NDC Copenhagen 2026](https://ndccopenhagen.com/agenda/building-fun-and-creative-messaging-experiences-on-whatsapp-0db8/08m6dwxi84v).
+This is the talk I gave at [PyCon AU 2026 - Brisbane](https://2026.pycon.org.au/).
 
-<img width="1600" height="900" alt="Speaker card 3" src="https://github.com/user-attachments/assets/fe6b1d39-a4e6-4a33-bc80-c022570c29ed" />
+<img width="1280" height="780" alt="CWFAQP-social" src="https://github.com/user-attachments/assets/e5a6975a-d032-4501-b3c8-e45eb7a7a021" />
 
 ### Talk Title
 

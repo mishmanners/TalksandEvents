@@ -26,6 +26,7 @@ These are the references I used in my talk:
 - [Best community tech Discord servers](https://dev.to/mishmanners/best-community-tech-discord-servers-to-join-4gie)
 - [Twilio Developers](https://www.twilio.com/en-us/developers)
 - [How to build a developer community](https://dev.to/mishmanners/how-to-build-a-developer-community-4alb)
+- [Getting involved in developer communities](https://dev.to/mishmanners/getting-involved-in-developer-communities-46e8)
 
 ### Discord Servers referenced
 

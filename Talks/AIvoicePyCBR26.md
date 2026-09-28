@@ -1,16 +1,16 @@
-# How I used AI voice to help me play Magic: The Gathering - API Days Singapore 2026
+# How to build a conversational voice AI assistant
 
-This is the talk I gave at [API Days Singapore 2026](https://www.apidays.global/events/singapore).
+This is the talk I gave at [Canberra Python User Group, October 2026](https://www.meetup.com/canberra-python-meetup-group/events/wlsxvtyjcnbcb/).
 
-<img width="1200" height="628" alt="MIchelle Duke-Talk-The Gathering" src="https://github.com/user-attachments/assets/19b2e591-d720-4d33-b9ce-9d67c22bbb03" />
+<img width="959" height="1197" alt="Promo" src="https://github.com/user-attachments/assets/e5eed03d-ee9d-499d-b724-0b60ab942a26" />
 
 ### Talk Title
 
-How I used AI voice to help me play Magic: The Gathering
+🐍 How to build a conversational voice AI assistant, and why you'd want to
 
 ### Abstract:
 
-I love playing Magic: The Gathering (MTG), but I can never remember every mechanic, keyword, or weird interaction… So, I built an AI voice assistant to help. By combining speech-to-text, large language models, and text-to-speech, my assistant can explain rules and guide in-game actions through natural conversation. In this talk, I’ll break down how I built it, share live demos, and show how you can use the same approach in your own projects, regardless of whether you’re building for yourself or a large user base. We’ll also dig into why voice is AI’s next frontier and why you should experiment now.
+We learn to talk before we can read, write, or type, making voice humanity's most natural form of communication. Yet for decades, we have forced ourselves to interact with machines through rigid code and text queries. Today, technology is finally catching up. By combining speech-to-text, large language models, and text-to-speech, we can now build seamless conversational interfaces that solve real-world problems. To prove it, I built an AI voice assistant to help me navigate the incredibly complex rules, mechanics, and card interactions of Magic: The Gathering. Plus, I'll walk you through a bunch of other use cases, and how you can apply this to your applications.
 
 ## Resources and Links
 
@@ -27,9 +27,6 @@ I love playing Magic: The Gathering (MTG), but I can never remember every mechan
 These are the references I used in my talk:
 
 - [Is voice the next evolution of AI?](https://dev.to/mishmanners/is-voice-the-natural-progression-of-artificial-intelligence-52le)
-- Human development: [Language development](https://raisingchildren.net.au/babies/development/language-development/language-development-0-8), [learning to read](https://theconversation.com/when-do-kids-learn-to-read-how-do-you-know-if-your-child-is-falling-behind-214154), [reading](https://readingeggs.com.au/articles/what-age-should-a-child-read-fluently/), [age development of children](https://www.understood.org/en/articles/reading-skills-what-to-expect-at-different-ages), [writing](https://www.learningandliteracyclinic.com.au/handwriting-development-concern-help/).
-- History of computing: [evolution of the machine](https://medium.com/@dan.patrick.smith/user-interface-evolution-from-punchcards-to-conversations-and-beyond-296ed0706429), [punch cards](https://www.ibm.com/history/punched-card), [command line interface](https://en.wikipedia.org/wiki/Command-line_interface), [IBM Simon](https://en.wikipedia.org/wiki/IBM_Simon)
-- [Evolution and history of generative AI](https://sonikamaheshwari005.medium.com/history-and-evolution-of-generative-ai-cf8de0b15505)
 - [Conversational AI](https://www.voicethesis.com/articles/third-generation-conversational-ai)
 - [Twilio's ConversationRelay](https://www.twilio.com/en-us/products/conversational-ai/conversationrelay)
 - [Building with Twilio](https://www.youtube.com/watch?v=98vk7sXa7p0&t=723s)

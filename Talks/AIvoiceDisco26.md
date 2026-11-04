@@ -25,6 +25,9 @@ These are the references I used in my talk:
 - [Is voice the next evolution of AI?](https://dev.to/mishmanners/is-voice-the-natural-progression-of-artificial-intelligence-52le)
 - [Conversational AI](https://www.voicethesis.com/articles/third-generation-conversational-ai)
 - [Building with Twilio](https://www.youtube.com/watch?v=98vk7sXa7p0&t=723s)
+- [Twilio AI Skills on GitHub](https://github.com/twilio/ai)
+- [Twilio AI Skills connector for Claude](https://claude.com/marketplace/connectors/twilio)
+- [Twilio MCP Server](https://www.twilio.com/docs/ai/mcp)
 
 ### Other Resources
 

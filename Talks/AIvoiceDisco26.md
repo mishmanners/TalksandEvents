@@ -2,7 +2,7 @@
 
 This is the workshop I gave at [DiscoTech 2026](https://techellafest.com/).
 
-<img width="800" height="800" alt="Mish" src="https://github.com/user-attachments/assets/5063eafc-71c5-4c16-86e5-f9b69414b93f" />
+<img width="400" alt="Mish" src="https://github.com/user-attachments/assets/5063eafc-71c5-4c16-86e5-f9b69414b93f" />
 
 ### Talk Title
 

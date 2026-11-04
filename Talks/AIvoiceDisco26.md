@@ -1,16 +1,16 @@
-# How to build a conversational voice AI assistant
+# Make a Voice AI Agent with Twilio
 
-This is the talk I gave at [Canberra Python User Group, October 2026](https://www.meetup.com/canberra-python-meetup-group/events/wlsxvtyjcnbcb/).
+This is the workshop I gave at [DiscoTech 2026](https://techellafest.com/).
 
 <img width="959" height="1197" alt="Promo" src="https://github.com/user-attachments/assets/e5eed03d-ee9d-499d-b724-0b60ab942a26" />
 
 ### Talk Title
 
-🐍 How to build a conversational voice AI assistant, and why you'd want to
+Make a Voice Agent with Twilio
 
 ### Abstract:
 
-We learn to talk before we can read, write, or type, making voice humanity's most natural form of communication. Yet for decades, we have forced ourselves to interact with machines through rigid code and text queries. Today, technology is finally catching up. By combining speech-to-text, large language models, and text-to-speech, we can now build seamless conversational interfaces that solve real-world problems. To prove it, I built an AI voice assistant to help me navigate the incredibly complex rules, mechanics, and card interactions of Magic: The Gathering. Plus, I'll walk you through a bunch of other use cases, and how you can apply this to your applications.
+90 minutes, properly hands-on. You'll build an AI agent that takes a request and responds — on your own laptop, not a demo you watch someone else drive.
 
 ## Resources and Links
 

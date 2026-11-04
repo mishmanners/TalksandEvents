@@ -16,8 +16,7 @@ Make a Voice Agent with Twilio
 
 ### Workshop
 
-#### [Link to GitHub Repo for the workshop and all references](https://github.com/mishmanners/ai-agent-workshop/tree/main/workshop
-) 
+#### [Link to GitHub Repo for the workshop and all references](https://github.com/mishmanners/ai-agent-workshop/tree/main/workshop) 
 
 ### References
 

@@ -2,7 +2,7 @@
 
 This is the workshop I gave at [DiscoTech 2026](https://techellafest.com/).
 
-<img width="959" height="1197" alt="Promo" src="https://github.com/user-attachments/assets/e5eed03d-ee9d-499d-b724-0b60ab942a26" />
+<img width="800" height="800" alt="Mish" src="https://github.com/user-attachments/assets/5063eafc-71c5-4c16-86e5-f9b69414b93f" />
 
 ### Talk Title
 
@@ -14,13 +14,10 @@ Make a Voice Agent with Twilio
 
 ## Resources and Links
 
-### Code demo
+### Workshop
 
-- [Magic: The Gathering chatbot](https://github.com/mishmanners/Twilio-MTG-Chatbot)
-- [What is TwiML](https://www.twilio.com/docs/glossary/what-is-twilio-markup-language-twiml)
-- [ConversationRelay best practices](https://www.twilio.com/docs/voice/twiml/connect/conversationrelay#text-normalization-best-practices)
-- [How does ngrok work](https://ngrok.com/docs/how-ngrok-works)
-- [Using ElevenLabs voices](https://www.twilio.com/en-us/blog/integrate-elevenlabs-voices-with-twilios-conversationrelay)
+#### [Link to GitHub Repo for the workshop and all references](https://github.com/mishmanners/ai-agent-workshop/tree/main/workshop
+) 
 
 ### References
 
@@ -28,7 +25,6 @@ These are the references I used in my talk:
 
 - [Is voice the next evolution of AI?](https://dev.to/mishmanners/is-voice-the-natural-progression-of-artificial-intelligence-52le)
 - [Conversational AI](https://www.voicethesis.com/articles/third-generation-conversational-ai)
-- [Twilio's ConversationRelay](https://www.twilio.com/en-us/products/conversational-ai/conversationrelay)
 - [Building with Twilio](https://www.youtube.com/watch?v=98vk7sXa7p0&t=723s)
 
 ### Other Resources

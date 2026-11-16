@@ -33,12 +33,9 @@ Get ready for an engaging session packed with practical insights, real-world les
 
 These are the references I used in my talk:
 
-- [History of messaging](https://crm-messaging.cloud/blog/history-of-text-messaging/)
-- [Is RCS available in my region](https://www.twilio.com/docs/rcs/regional)
-- [Good email stats](https://www.campaignmonitor.com/resources/knowledge-base/what-are-good-email-metrics)
-- [Business messaging, how many text messages sent per day](https://finance.yahoo.com/news/global-a2p-messaging-market-report-080600226.html)
-- [State of customer engagement](https://www.twilio.com/en-us/state-of-customer-engagement)
-- [Forrester Report](https://www.nice.com/lps/forrester-wave-conversational-ai-2026)
+- [How to deploy to Azure when you built something with AI](https://dev.to/mishmanners/how-to-deploy-to-azure-when-you-built-something-with-ai-4mk3)
+- [Software Development Lifecycle](https://www.atlassian.com/agile/software-development/sdlc)
+- [Azure CLI](https://github.com/Azure/azure-cli)
 - [Twilio MCP Server](https://www.twilio.com/docs/ai/mcp)
 - [Twilio Skills for AI Coding Agents](https://www.twilio.com/docs/ai/skills)
 - [Introducing Twilio MCP Server and Skills](https://www.twilio.com/en-us/blog/developers/introducing-twilio-mcp-skills)

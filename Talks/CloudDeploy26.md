@@ -1,29 +1,22 @@
 # Surviving cloud deployments in the age of AI - Women in Cloud Meetup 2026
 
-This is the talk I gave at [NDC Copenhagen 2026](https://ndccopenhagen.com/agenda/building-fun-and-creative-messaging-experiences-on-whatsapp-0db8/08m6dwxi84v).
+This is the talk I gave at [Women in Cloud Meetup - Christmas edition, 2026](https://www.meetup.com/women-in-cloud-meetup-group/events/317250577/).
 
-<img width="1600" height="900" alt="Speaker card 3" src="https://github.com/user-attachments/assets/fe6b1d39-a4e6-4a33-bc80-c022570c29ed" />
+<img width="800" height="450" alt="1793615131565" src="https://github.com/user-attachments/assets/65ce2bc4-78cf-43e6-9a51-acbfa24c982e" />
 
 ### Talk Title
 
-Building fun and creative messaging experiences on WhatsApp
+Surviving cloud deployments in the age of AI
 
 ### Abstract:
 
-In this talk, I’ll show how to turn a simple WhatsApp message into an AI-powered creative experience. Using Twilio, WhatsApp, and OpenAI’s image generation APIs, we’ll build a workflow where users can send images via WhatsApp; think selfies, pet pics, and photos from the conference, and receive a cartoon, sketch, or fun version of your photo to share on your socials, group chats, and company message boards.
+Building an applications on your local machine is easier than ever: stitch together a couple of APIs, connect a webhook, and watch the magic happen. But taking that architecture to the cloud reveals a brutal truth: building it is only 20% of the journey; deploying, scaling, and operating it is the rest.
 
-In this talk we'll cover:
+In this talk, Mish will break down the application she built: a messaging experience that sends you anime pictures based on a photo you message through, and show how things change when we deploy to the Azure cloud.
 
-- Why should we consider creating fun and engaging experiences via messaging
-- How OpenAI's API works
-- How to set up Twilio’s WhatsApp sandbox to send and receive incoming media
-- How to process and transform images with OpenAI’s latest APIs
-- Utilising existing libraries to transform images
-- Sending images through WhatsApp
-- Best practices for handling image input, latency, and user experience
-- Other cool things you can build once you have images
+We’ll examine some of hidden failure modes that appear the moment you deploy. Drawing from hard-won lessons in production, you’ll leave with and understanding of how to ensure your cloud app doesn't just run, but survives.
 
-This demo is practical, fun, and showcases how teams can blend communication APIs with AI to create delightful, interactive messaging experiences.
+Get ready for an engaging session packed with practical insights, real-world lessons and a little bit of anime magic!
 
 ## Resources and Links
 
@@ -32,7 +25,6 @@ This demo is practical, fun, and showcases how teams can blend communication API
 - [AI art messaging - code repo](https://twil.io/ai-code)
 - [Message to get your artwork](https://twil.io/Vwp2xRK)
 - [What is TwiML](https://www.twilio.com/docs/glossary/what-is-twilio-markup-language-twiml)
-- [How does ngrok work](https://ngrok.com/docs/how-ngrok-works)
 - [Sharp library](https://github.com/lovell/sharp)
 - [Tutorial on building your own messaging application](https://github.com/kaustavdm/forge-messaging-reimagined/tree/main)
 - [Flipbook animation tutorial](https://www.youtube.com/watch?v=HFnzWoGe0so )

@@ -30,6 +30,9 @@ These are the references I used in my talk:
 - [Conversational AI](https://www.voicethesis.com/articles/third-generation-conversational-ai)
 - [Twilio's ConversationRelay](https://www.twilio.com/en-us/products/conversational-ai/conversationrelay)
 - [Building with Twilio](https://www.youtube.com/watch?v=98vk7sXa7p0&t=723s)
+- [Twilio MCP Server](https://www.twilio.com/docs/ai/mcp)
+- [Twilio Skills for AI Coding Agents](https://www.twilio.com/docs/ai/skills)
+- [Introducing Twilio MCP Server and Skills](https://www.twilio.com/en-us/blog/developers/introducing-twilio-mcp-skills)
 
 ### Other Resources
 

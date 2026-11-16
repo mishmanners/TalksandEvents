@@ -2,7 +2,7 @@
 
 This is the talk I gave at [AI Agents for Customer Engagement - GenAI Builders Meetup Singapore 2026](https://beyondpilot.ai/programs/genai-builders-meetup-singapore-ai-agents-for-customer-engag).
 
-<img width="959" height="1197" alt="Promo" src="https://github.com/user-attachments/assets/e5eed03d-ee9d-499d-b724-0b60ab942a26" />
+<img width="500" alt="1793598302398" src="https://github.com/user-attachments/assets/976d3dd6-d0c5-42c5-aa23-80d5f8c80a55" />
 
 ### Talk Title
 

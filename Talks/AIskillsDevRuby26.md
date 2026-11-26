@@ -4,7 +4,8 @@ This is a talk I gave at the [Ruby Melbourne Meetup, November 2026](https://gith
 
 ## Talk Title
 
-### Skills for the future of AI developer tools: How to ensure you still have a job
+### Skills for the future of AI developer tools: How to work with AI tools, before, during, after
+
 
 ## Abstract
 
